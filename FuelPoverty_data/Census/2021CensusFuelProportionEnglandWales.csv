@@ -1,0 +1,27 @@
+Countries Code,Countries,Type of central heating in household (13 categories) Code,Type of central heating in household (13 categories),Observation
+E92000001,England,-9,Does not apply,0
+E92000001,England,1,No central heating,351635
+E92000001,England,2,Mains gas only,17334040
+E92000001,England,3,Tank or bottled gas only,232512
+E92000001,England,4,Electric only,2041989
+E92000001,England,5,Oil only,760472
+E92000001,England,6,Wood only,31030
+E92000001,England,7,Solid fuel only,41968
+E92000001,England,8,Renewable energy only,92396
+E92000001,England,9,District or communal heat networks only,216548
+E92000001,England,10,Other central heating only,217543
+E92000001,England,11,Two or more types of central heating (not including renewable energy),1989260
+E92000001,England,12,Two or more types of central heating (including renewable energy),126692
+W92000004,Wales,-9,Does not apply,0
+W92000004,Wales,1,No central heating,15497
+W92000004,Wales,2,Mains gas only,964685
+W92000004,Wales,3,Tank or bottled gas only,27590
+W92000004,Wales,4,Electric only,71122
+W92000004,Wales,5,Oil only,105468
+W92000004,Wales,6,Wood only,4693
+W92000004,Wales,7,Solid fuel only,7491
+W92000004,Wales,8,Renewable energy only,6336
+W92000004,Wales,9,District or communal heat networks only,4369
+W92000004,Wales,10,Other central heating only,7838
+W92000004,Wales,11,Two or more types of central heating (not including renewable energy),124065
+W92000004,Wales,12,Two or more types of central heating (including renewable energy),7960

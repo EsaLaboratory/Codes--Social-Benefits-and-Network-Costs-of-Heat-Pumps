@@ -1,0 +1,131 @@
+Regions Code,Regions,Type of central heating in household (13 categories) Code,Type of central heating in household (13 categories),Observation
+E12000001,North East,-9,Does not apply,0
+E12000001,North East,1,No central heating,9737
+E12000001,North East,2,Mains gas only,931565
+E12000001,North East,3,Tank or bottled gas only,7349
+E12000001,North East,4,Electric only,59894
+E12000001,North East,5,Oil only,19024
+E12000001,North East,6,Wood only,1493
+E12000001,North East,7,Solid fuel only,4592
+E12000001,North East,8,Renewable energy only,2582
+E12000001,North East,9,District or communal heat networks only,8012
+E12000001,North East,10,Other central heating only,12030
+E12000001,North East,11,Two or more types of central heating (not including renewable energy),113859
+E12000001,North East,12,Two or more types of central heating (including renewable energy),5540
+E12000002,North West,-9,Does not apply,0
+E12000002,North West,1,No central heating,47709
+E12000002,North West,2,Mains gas only,2480287
+E12000002,North West,3,Tank or bottled gas only,23325
+E12000002,North West,4,Electric only,227984
+E12000002,North West,5,Oil only,43809
+E12000002,North West,6,Wood only,3519
+E12000002,North West,7,Solid fuel only,4411
+E12000002,North West,8,Renewable energy only,6540
+E12000002,North West,9,District or communal heat networks only,14411
+E12000002,North West,10,Other central heating only,28292
+E12000002,North West,11,Two or more types of central heating (not including renewable energy),261480
+E12000002,North West,12,Two or more types of central heating (including renewable energy),11634
+E12000003,Yorkshire and The Humber,-9,Does not apply,0
+E12000003,Yorkshire and The Humber,1,No central heating,34538
+E12000003,Yorkshire and The Humber,2,Mains gas only,1806896
+E12000003,Yorkshire and The Humber,3,Tank or bottled gas only,18973
+E12000003,Yorkshire and The Humber,4,Electric only,150616
+E12000003,Yorkshire and The Humber,5,Oil only,52427
+E12000003,Yorkshire and The Humber,6,Wood only,3351
+E12000003,Yorkshire and The Humber,7,Solid fuel only,8140
+E12000003,Yorkshire and The Humber,8,Renewable energy only,8354
+E12000003,Yorkshire and The Humber,9,District or communal heat networks only,14478
+E12000003,Yorkshire and The Humber,10,Other central heating only,21149
+E12000003,Yorkshire and The Humber,11,Two or more types of central heating (not including renewable energy),200902
+E12000003,Yorkshire and The Humber,12,Two or more types of central heating (including renewable energy),10834
+E12000004,East Midlands,-9,Does not apply,0
+E12000004,East Midlands,1,No central heating,22542
+E12000004,East Midlands,2,Mains gas only,1555467
+E12000004,East Midlands,3,Tank or bottled gas only,20868
+E12000004,East Midlands,4,Electric only,127451
+E12000004,East Midlands,5,Oil only,80064
+E12000004,East Midlands,6,Wood only,2953
+E12000004,East Midlands,7,Solid fuel only,8817
+E12000004,East Midlands,8,Renewable energy only,9460
+E12000004,East Midlands,9,District or communal heat networks only,9892
+E12000004,East Midlands,10,Other central heating only,15215
+E12000004,East Midlands,11,Two or more types of central heating (not including renewable energy),172879
+E12000004,East Midlands,12,Two or more types of central heating (including renewable energy),11725
+E12000005,West Midlands,-9,Does not apply,0
+E12000005,West Midlands,1,No central heating,36897
+E12000005,West Midlands,2,Mains gas only,1827071
+E12000005,West Midlands,3,Tank or bottled gas only,30095
+E12000005,West Midlands,4,Electric only,190132
+E12000005,West Midlands,5,Oil only,73488
+E12000005,West Midlands,6,Wood only,3724
+E12000005,West Midlands,7,Solid fuel only,4137
+E12000005,West Midlands,8,Renewable energy only,7490
+E12000005,West Midlands,9,District or communal heat networks only,8803
+E12000005,West Midlands,10,Other central heating only,24660
+E12000005,West Midlands,11,Two or more types of central heating (not including renewable energy),212334
+E12000005,West Midlands,12,Two or more types of central heating (including renewable energy),10659
+E12000006,East of England,-9,Does not apply,0
+E12000006,East of England,1,No central heating,31589
+E12000006,East of England,2,Mains gas only,1841498
+E12000006,East of England,3,Tank or bottled gas only,29158
+E12000006,East of England,4,Electric only,248668
+E12000006,East of England,5,Oil only,190464
+E12000006,East of England,6,Wood only,3664
+E12000006,East of England,7,Solid fuel only,3256
+E12000006,East of England,8,Renewable energy only,17427
+E12000006,East of England,9,District or communal heat networks only,12870
+E12000006,East of England,10,Other central heating only,17541
+E12000006,East of England,11,Two or more types of central heating (not including renewable energy),214304
+E12000006,East of England,12,Two or more types of central heating (including renewable energy),18343
+E12000007,London,-9,Does not apply,0
+E12000007,London,1,No central heating,76192
+E12000007,London,2,Mains gas only,2414151
+E12000007,London,3,Tank or bottled gas only,20782
+E12000007,London,4,Electric only,432254
+E12000007,London,5,Oil only,4264
+E12000007,London,6,Wood only,401
+E12000007,London,7,Solid fuel only,411
+E12000007,London,8,Renewable energy only,6147
+E12000007,London,9,District or communal heat networks only,116695
+E12000007,London,10,Other central heating only,61515
+E12000007,London,11,Two or more types of central heating (not including renewable energy),278876
+E12000007,London,12,Two or more types of central heating (including renewable energy),12202
+E12000008,South East,-9,Does not apply,0
+E12000008,South East,1,No central heating,49876
+E12000008,South East,2,Mains gas only,2839073
+E12000008,South East,3,Tank or bottled gas only,42050
+E12000008,South East,4,Electric only,351681
+E12000008,South East,5,Oil only,123437
+E12000008,South East,6,Wood only,4029
+E12000008,South East,7,Solid fuel only,2795
+E12000008,South East,8,Renewable energy only,15750
+E12000008,South East,9,District or communal heat networks only,19240
+E12000008,South East,10,Other central heating only,24473
+E12000008,South East,11,Two or more types of central heating (not including renewable energy),310317
+E12000008,South East,12,Two or more types of central heating (including renewable energy),25244
+E12000009,South West,-9,Does not apply,0
+E12000009,South West,1,No central heating,42552
+E12000009,South West,2,Mains gas only,1638032
+E12000009,South West,3,Tank or bottled gas only,39912
+E12000009,South West,4,Electric only,253309
+E12000009,South West,5,Oil only,173493
+E12000009,South West,6,Wood only,7898
+E12000009,South West,7,Solid fuel only,5408
+E12000009,South West,8,Renewable energy only,18646
+E12000009,South West,9,District or communal heat networks only,12142
+E12000009,South West,10,Other central heating only,12668
+E12000009,South West,11,Two or more types of central heating (not including renewable energy),224308
+E12000009,South West,12,Two or more types of central heating (including renewable energy),20509
+W92000004,Wales,-9,Does not apply,0
+W92000004,Wales,1,No central heating,15497
+W92000004,Wales,2,Mains gas only,964685
+W92000004,Wales,3,Tank or bottled gas only,27590
+W92000004,Wales,4,Electric only,71122
+W92000004,Wales,5,Oil only,105468
+W92000004,Wales,6,Wood only,4693
+W92000004,Wales,7,Solid fuel only,7491
+W92000004,Wales,8,Renewable energy only,6336
+W92000004,Wales,9,District or communal heat networks only,4369
+W92000004,Wales,10,Other central heating only,7838
+W92000004,Wales,11,Two or more types of central heating (not including renewable energy),124065
+W92000004,Wales,12,Two or more types of central heating (including renewable energy),7960

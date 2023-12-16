@@ -1,0 +1,4095 @@
+RegName,energy_cost,weight,aagph1819
+Argyll and Bute,2571.4355,177.76,
+Shetland Islands,4466.7275,38.82,
+Aberdeenshire,8635.815499999999,454.17,
+Fife,4617.4235,399.59,
+Moray,7354.773499999999,223.01,
+Na h-Eileanan Siar,8130.3035,43.9,
+"Edinburgh, City of",1826.1454999999999,464.12,
+Na h-Eileanan Siar,4320.693499999999,47.89,
+South Lanarkshire,2515.9955,420.42,
+East Lothian,4138.7495,207.83,
+Dundee City,1826.1454999999999,302.69,
+Na h-Eileanan Siar,7524.1175,48.9,
+Highland,5341.797500000001,365.1,
+Scottish Borders,7419.0335,251.5,
+Perth and Kinross,7940.0435,234.56,
+Orkney Islands,4889.2055,46.27,
+South Ayrshire,2159.7934999999998,239.44,
+Aberdeenshire,7092.1895,465.63,
+Aberdeen City,1826.1454999999999,457.87,
+East Lothian,2601.8015000000005,209.78,
+Highland,7533.5675,398.29,
+Na h-Eileanan Siar,1826.1454999999999,55.79,
+Orkney Islands,5305.5095,47.24,
+Na h-Eileanan Siar,1826.1454999999999,55.48,
+Scottish Borders,2001.59694,268.79,
+Aberdeenshire,2595.2495,465.63,
+South Lanarkshire,4675.5095,429.78,
+Argyll and Bute,4100.4455,180.9,
+Aberdeen City,3436.1735,492.7,
+Orkney Islands,5087.0255,43.0,
+Argyll and Bute,5242.7615,186.74,
+Angus,7560.405500000001,270.6,
+Na h-Eileanan Siar,4515.8675,45.14,
+Dumfries and Galloway,6482.727499999999,233.3,
+Na h-Eileanan Siar,3556.7555,52.83,
+Shetland Islands,3746.6375,36.7,
+Na h-Eileanan Siar,2248.1195,47.71,
+Falkirk,3697.2455,287.1,
+"Edinburgh, City of",1877.5535,385.64,
+Moray,7848.1895,189.97,
+Shetland Islands,6363.7835,33.07,
+Na h-Eileanan Siar,4748.9675,47.89,
+Scottish Borders,2194.3175,365.0,
+Orkney Islands,3578.8054999999995,50.48,
+Aberdeenshire,1826.1454999999999,522.01,
+Orkney Islands,7056.7835,47.24,
+Highland,8635.815499999999,326.3,
+Shetland Islands,2397.92034,34.72,
+Glasgow City,1922.4095,461.49,
+Shetland Islands,3787.3355,33.88,
+Highland,7693.5875,335.31,
+Na h-Eileanan Siar,3780.2794999999996,51.53,
+Na h-Eileanan Siar,6340.977499999999,46.4,
+Orkney Islands,2879.6315000000004,43.74,
+Argyll and Bute,4351.4375,174.79,
+Shetland Islands,5315.085499999999,36.07,
+Na h-Eileanan Siar,8635.815499999999,46.4,
+Aberdeenshire,3349.1075,420.51,
+Na h-Eileanan Siar,6948.675499999999,46.4,
+Fife,1093.87442,371.34,
+Highland,5679.8555,427.01,
+Na h-Eileanan Siar,2944.1435,51.18,
+Renfrewshire,2138.2475000000004,394.37,
+Orkney Islands,4901.175499999999,46.1,
+Shetland Islands,5373.8015,35.94,
+Inverclyde,2749.9775,179.91,
+Dumfries and Galloway,8635.815499999999,289.56,
+Moray,8635.815499999999,223.01,
+Shetland Islands,6240.5555,38.82,
+East Dunbartonshire,1826.1454999999999,199.24,
+Dumfries and Galloway,4299.5255,240.49,
+Angus,3441.9695,250.55,
+Shetland Islands,2860.3535,35.94,
+Na h-Eileanan Siar,6595.119500000001,43.9,
+Shetland Islands,6215.9855,39.8,
+Moray,8635.815499999999,200.05,
+Dumfries and Galloway,3367.2514999999994,304.25,
+Falkirk,3128.9855,275.06,
+Aberdeenshire,5814.045499999999,477.39,
+Orkney Islands,4887.1894999999995,40.24,
+Na h-Eileanan Siar,2350.1795,55.48,
+Argyll and Bute,4524.561500000001,158.99,
+Highland,8635.815499999999,398.29,
+South Ayrshire,8635.815499999999,213.04,
+Orkney Islands,3809.6375,42.53,
+Stirling,5005.755499999999,155.39,
+East Lothian,5431.8875,173.18,
+Perth and Kinross,2703.7355,294.08,
+Aberdeen City,1826.1454999999999,332.23,
+Shetland Islands,8635.815499999999,36.84,
+Na h-Eileanan Siar,6910.7495,52.83,
+Na h-Eileanan Siar,5576.2835,47.58,
+Na h-Eileanan Siar,1826.1454999999999,53.15,
+Na h-Eileanan Siar,3436.2995,53.94,
+Highland,3401.3975,448.67,
+Dundee City,1877.1754999999998,285.35,
+Argyll and Bute,2104.3535,187.11,
+Shetland Islands,4991.7695,40.76,
+East Renfrewshire,2157.7775,182.32,
+Midlothian,7413.2375,148.08,
+Scottish Borders,2832.0035,251.5,
+Orkney Islands,8635.815499999999,47.24,
+Argyll and Bute,2784.5015000000003,154.59,
+West Lothian,3244.2754999999997,331.83,
+Na h-Eileanan Siar,8635.815499999999,51.53,
+Dundee City,3487.9595,252.9,
+Orkney Islands,5676.3275,40.24,
+Shetland Islands,4477.311500000001,32.94,
+Shetland Islands,3239.2355,39.8,
+Midlothian,4208.0495,129.63,
+Moray,2857.5815000000002,189.97,
+Aberdeen City,4358.9975,366.53,
+Highland,1846.1795,463.23,
+Angus,2145.0515000000005,285.87,
+Moray,4214.8535,189.97,
+East Dunbartonshire,1845.5495,186.24,
+Aberdeenshire,8635.815499999999,397.89,
+Shetland Islands,4875.0935,33.88,
+Highland,2186.0015000000003,440.26,
+Scottish Borders,3545.4155,281.41,
+Moray,5706.0635,194.66,
+Scottish Borders,4547.8715,257.7,
+Highland,4521.1595,365.1,
+East Lothian,4650.1835,173.18,
+Shetland Islands,7375.437500000001,35.71,
+"Edinburgh, City of",1546.20716,420.69,
+South Lanarkshire,2915.9195,419.2,
+Shetland Islands,8635.815499999999,38.82,
+Shetland Islands,4501.125499999999,33.07,
+Orkney Islands,1826.1454999999999,60.04,
+Na h-Eileanan Siar,4964.6795,46.4,
+Na h-Eileanan Siar,8635.815499999999,47.89,
+Dundee City,4256.811500000001,268.26,
+South Ayrshire,1826.1454999999999,178.67,
+Na h-Eileanan Siar,7730.5055,47.89,
+Highland,7900.6055,365.1,
+Glasgow City,2749.5995000000003,398.5,
+Orkney Islands,3109.4555,46.1,
+South Lanarkshire,5743.233499999999,422.08,
+Dumfries and Galloway,1988.9375,211.81,
+Falkirk,4792.1855,285.78,
+Orkney Islands,6606.3335,42.41,
+Moray,8635.815499999999,249.53,
+Na h-Eileanan Siar,6435.9815,43.9,
+Clackmannanshire,6235.8935,103.52,
+Glasgow City,1009.3690999999999,461.49,
+North Lanarkshire,1826.1454999999999,395.11,
+Na h-Eileanan Siar,3316.4735,53.94,
+Shetland Islands,4013.7574999999997,35.94,
+Orkney Islands,4500.7475,43.74,
+Na h-Eileanan Siar,3860.4155,52.83,
+Dumfries and Galloway,2664.4235,220.45,
+Shetland Islands,3948.6155,39.8,
+Orkney Islands,8635.815499999999,47.24,
+Midlothian,6467.733499999999,129.63,
+Highland,3590.3975,439.41,
+Shetland Islands,6323.5895,34.01,
+Inverclyde,1009.3690999999999,179.91,
+North Lanarkshire,1015.81072,457.57,
+Moray,1870.4975000000002,221.49,
+"Edinburgh, City of",1826.1454999999999,452.69,
+Highland,3659.1935000000003,401.29,
+Perth and Kinross,6146.5595,282.3,
+Shetland Islands,2388.3575,34.85,
+Orkney Islands,7368.6335,40.24,
+Na h-Eileanan Siar,6835.5275,43.9,
+Orkney Islands,6867.1535,41.38,
+Shetland Islands,3299.9674999999997,39.65,
+Shetland Islands,6185.367499999999,35.71,
+Shetland Islands,3836.7275,38.55,
+Perth and Kinross,3415.3835,236.64,
+Na h-Eileanan Siar,3900.3575,50.29,
+Na h-Eileanan Siar,3765.9155,53.94,
+Inverclyde,1454.05924,196.27,
+Scottish Borders,6575.4635,295.24,
+Dumfries and Galloway,4379.6615,221.27,
+Orkney Islands,4002.4175000000005,48.43,
+Angus,2944.0175,221.36,
+Perth and Kinross,8635.815499999999,282.3,
+East Renfrewshire,2120.7335000000003,230.34,
+South Ayrshire,4159.9175000000005,181.48,
+Orkney Islands,7987.0415,47.24,
+East Ayrshire,6993.279500000001,195.26,
+Moray,3242.3855000000003,256.32,
+Midlothian,8635.815499999999,151.81,
+Orkney Islands,7650.2435000000005,47.24,
+Argyll and Bute,1864.8274999999999,197.22,
+"Edinburgh, City of",5078.835499999999,407.6,
+Highland,7232.6795,458.04,
+Shetland Islands,8444.1695,36.07,
+Shetland Islands,6106.617499999999,33.07,
+Aberdeenshire,6989.4995,386.89,
+Orkney Islands,2391.8855,43.46,
+Shetland Islands,4538.295499999999,33.07,
+South Ayrshire,3761.3795,185.96,
+"Edinburgh, City of",1826.1454999999999,385.64,
+Dumfries and Galloway,5403.663500000001,259.74,
+Argyll and Bute,2863.7555,177.76,
+Dumfries and Galloway,4172.2655,249.34,
+East Ayrshire,2217.3755,178.29,
+Shetland Islands,4226.8234999999995,32.94,
+Angus,3362.3375000000005,252.66,
+Na h-Eileanan Siar,3272.7514999999994,48.25,
+East Dunbartonshire,3279.9335,235.29,
+North Lanarkshire,1826.1454999999999,395.11,
+Perth and Kinross,6269.5355,234.56,
+Shetland Islands,3565.9535000000005,39.8,
+Highland,3786.8315000000002,349.74,
+Orkney Islands,4960.1435,48.43,
+Orkney Islands,5279.0495,40.24,
+Perth and Kinross,5090.8055,234.56,
+Highland,4103.9735,401.29,
+Orkney Islands,3557.1335,47.24,
+Highland,7464.7715,398.29,
+Clackmannanshire,4126.653499999999,86.58,
+Dumfries and Galloway,7276.5275,259.74,
+Moray,8635.815499999999,194.66,
+Argyll and Bute,1826.1454999999999,132.75,
+Perth and Kinross,2446.8215,309.46,
+"Edinburgh, City of",1826.1454999999999,452.69,
+North Lanarkshire,2265.7595,395.11,
+Shetland Islands,4733.3435,33.07,
+Moray,8635.815499999999,223.01,
+North Lanarkshire,5615.595499999999,455.35,
+Na h-Eileanan Siar,8635.815499999999,51.53,
+Stirling,4925.1155,169.65,
+Perth and Kinross,3109.2034999999996,294.28,
+Na h-Eileanan Siar,7215.2915,47.89,
+East Dunbartonshire,1826.1454999999999,215.68,
+Glasgow City,3592.2875000000004,386.1,
+Orkney Islands,8635.815499999999,43.9,
+Angus,4126.9055,236.77,
+Orkney Islands,8635.815499999999,47.24,
+Highland,4904.0734999999995,365.1,
+Aberdeenshire,8635.815499999999,454.17,
+Orkney Islands,2198.2235,41.38,
+Shetland Islands,3048.4714999999997,40.63,
+Moray,3884.2294999999995,189.97,
+Renfrewshire,1826.1454999999999,599.63,
+Perth and Kinross,8635.815499999999,315.87,
+Argyll and Bute,4369.2035000000005,180.9,
+Aberdeenshire,3095.5954999999994,519.08,
+Shetland Islands,3402.4055,37.88,
+Dundee City,1826.1454999999999,277.46,
+Aberdeen City,1009.3690999999999,362.43,
+Aberdeenshire,3014.0735000000004,485.38,
+Dumfries and Galloway,6007.8335,257.97,
+Glasgow City,1866.32292,367.06,
+Moray,8635.815499999999,207.25,
+Aberdeen City,2472.5254999999997,346.78,
+Na h-Eileanan Siar,8394.2735,46.4,
+Argyll and Bute,1965.7534999999998,225.19,
+Moray,4743.297500000001,238.34,
+Na h-Eileanan Siar,8516.8715,43.9,
+Argyll and Bute,1980.4955,186.74,
+Highland,6481.3414999999995,428.59,
+Highland,4361.3915,458.04,
+Aberdeen City,4222.413500000001,492.7,
+Orkney Islands,3207.8615,47.24,
+Perth and Kinross,6027.237499999999,275.35,
+Stirling,2060.6315,200.12,
+Argyll and Bute,3037.2574999999997,180.9,
+"Edinburgh, City of",1826.1454999999999,396.6,
+Moray,2926.2515000000003,194.66,
+Argyll and Bute,2233.2515000000003,170.54,
+South Ayrshire,3296.6915,183.09,
+Na h-Eileanan Siar,6938.3435,47.89,
+Na h-Eileanan Siar,8635.815499999999,47.58,
+Shetland Islands,7008.0215,38.82,
+Dundee City,1977.2195,277.46,
+Shetland Islands,5955.6695,38.82,
+Scottish Borders,2259.5855,250.57,
+Perth and Kinross,4843.5935,275.35,
+Glasgow City,2002.7975,461.49,
+Moray,3497.4094999999998,189.97,
+Glasgow City,1352.7402,375.68,
+Glasgow City,1826.1454999999999,461.49,
+Perth and Kinross,1107.3035599999998,283.67,
+Fife,3566.5834999999997,390.83,
+Shetland Islands,2465.7215,39.65,
+Glasgow City,2017.5395,375.68,
+Shetland Islands,3756.3395,37.88,
+Argyll and Bute,3790.1075,170.54,
+Glasgow City,1231.76876,398.5,
+Inverclyde,2428.5515000000005,196.27,
+Highland,8635.815499999999,392.71,
+South Ayrshire,6100.9475,186.65,
+North Lanarkshire,2350.9355,497.72,
+Highland,3203.3255,401.29,
+Na h-Eileanan Siar,6294.2315,55.69,
+Argyll and Bute,3865.2035000000005,170.54,
+Fife,4417.335499999999,364.35,
+Perth and Kinross,1864.3235,333.59,
+Highland,6327.4955,428.59,
+Aberdeen City,2303.8115,362.43,
+East Lothian,2054.9615000000003,178.71,
+South Lanarkshire,8635.815499999999,472.27,
+Orkney Islands,4680.6755,43.74,
+Shetland Islands,6532.6235,35.94,
+Argyll and Bute,2744.4335,183.25,
+Scottish Borders,8635.815499999999,295.24,
+Aberdeenshire,5917.4915,457.55,
+Shetland Islands,4575.95216,39.37,
+West Dunbartonshire,2343.2495,186.47,
+South Lanarkshire,1826.1454999999999,390.8,
+Highland,2916.2974999999997,506.24,
+East Lothian,2331.5315,207.83,
+Inverclyde,4604.0675,163.99,
+Shetland Islands,7060.815499999999,36.07,
+Orkney Islands,2077.5155,48.25,
+Glasgow City,1826.1454999999999,439.64,
+East Ayrshire,4416.7055,181.46,
+Highland,2819.7815,381.54,
+Aberdeen City,1229.2576199999999,419.71,
+Aberdeenshire,6361.0115,386.89,
+Argyll and Bute,1834.7135,197.22,
+Aberdeenshire,8635.815499999999,454.17,
+Orkney Islands,8244.2075,47.24,
+Inverclyde,6138.9995,175.14,
+Angus,6764.3375,270.6,
+Na h-Eileanan Siar,8635.815499999999,46.4,
+Perth and Kinross,8635.815499999999,308.1,
+Na h-Eileanan Siar,5188.0775,43.9,
+Dumfries and Galloway,2377.1435,243.2,
+Highland,6740.523499999999,418.27,
+Aberdeen City,2446.3175,362.43,
+Orkney Islands,2755.2695000000003,47.06,
+Shetland Islands,4798.3595,38.67,
+"Edinburgh, City of",3157.7135,452.69,
+Falkirk,1009.3690999999999,300.94,
+Midlothian,4348.5395,132.83,
+Scottish Borders,8635.815499999999,295.24,
+Na h-Eileanan Siar,2926.7555,52.64,
+Highland,8635.815499999999,428.59,
+Shetland Islands,6910.002200000001,38.02,
+Scottish Borders,2861.6135000000004,281.8,
+Na h-Eileanan Siar,5408.9555,46.1,
+Highland,4418.2175,365.1,
+Dundee City,5263.5515,235.76,
+Glasgow City,1826.1454999999999,398.5,
+Orkney Islands,2027.6195,49.45,
+Fife,1826.1454999999999,517.56,
+Angus,4223.5475,244.38,
+Aberdeen City,1009.3690999999999,419.71,
+Angus,3931.9835000000003,326.31,
+Orkney Islands,4786.0115,47.24,
+Orkney Islands,5883.0935,42.41,
+Aberdeenshire,5292.6575,465.63,
+East Ayrshire,1826.1454999999999,205.64,
+East Renfrewshire,1009.3690999999999,251.28,
+Stirling,2110.0235,200.12,
+Highland,4057.2275,392.71,
+Scottish Borders,8635.815499999999,295.24,
+Glasgow City,1826.1454999999999,503.44,
+Clackmannanshire,1826.1454999999999,106.73,
+North Ayrshire,8635.815499999999,273.15,
+South Ayrshire,4986.8555,208.07,
+Highland,3600.0995000000003,392.71,
+Glasgow City,3769.4435000000003,375.68,
+Aberdeenshire,5732.271500000001,451.07,
+Highland,2857.0775000000003,425.67,
+Perth and Kinross,3897.9635,247.01,
+Highland,4151.4755,343.61,
+Shetland Islands,3710.6014999999998,35.94,
+Angus,5255.6134999999995,224.84,
+Orkney Islands,5006.889499999999,42.53,
+South Lanarkshire,4144.7975,392.24,
+Scottish Borders,4309.731500000001,315.53,
+Argyll and Bute,5668.1375,155.16,
+Glasgow City,2541.1955,398.5,
+Shetland Islands,3248.3075,39.8,
+Aberdeenshire,2129.1755,455.67,
+Shetland Islands,3111.0935,38.55,
+North Ayrshire,1826.1454999999999,261.69,
+Orkney Islands,3845.7995,49.45,
+Dumfries and Galloway,3786.5795,259.74,
+Angus,8022.5735,245.28,
+Na h-Eileanan Siar,7700.2654999999995,47.89,
+Shetland Islands,2720.11052,38.31,
+Glasgow City,1838.1155,375.68,
+Dumfries and Galloway,2860.6054999999997,243.2,
+Angus,8635.815499999999,263.94,
+Orkney Islands,5337.3875,43.9,
+Highland,7559.7755,326.3,
+Argyll and Bute,3074.1755000000003,180.9,
+Dumfries and Galloway,5123.817499999999,247.58,
+Shetland Islands,8234.8835,38.31,
+Angus,7862.4275,237.46,
+Argyll and Bute,7679.6015,163.4,
+Argyll and Bute,5548.5635,164.0,
+Orkney Islands,2279.4935,60.04,
+Orkney Islands,4063.1494999999995,41.38,
+Moray,4810.9595,255.83,
+Angus,2007.3335,285.87,
+Perth and Kinross,3884.1035,285.26,
+Na h-Eileanan Siar,5697.7475,46.4,
+East Renfrewshire,1955.5475,230.34,
+Glasgow City,1009.3690999999999,375.68,
+Aberdeen City,1826.1454999999999,505.14,
+Aberdeenshire,8635.815499999999,454.17,
+Shetland Islands,6910.002200000001,40.91,
+Highland,8635.815499999999,428.59,
+"Edinburgh, City of",2435.3554999999997,385.64,
+Scottish Borders,4649.6795,302.69,
+West Dunbartonshire,4963.9235,175.48,
+Shetland Islands,2644.12124,41.95,
+Orkney Islands,4170.2495,40.09,
+Moray,2184.9934999999996,268.66,
+Stirling,5674.3115,165.48,
+Falkirk,4813.1015,295.05,
+Falkirk,3078.7115000000003,370.82,
+South Lanarkshire,4372.983499999999,402.87,
+Stirling,8635.815499999999,165.48,
+Orkney Islands,4478.5715,47.24,
+Shetland Islands,8521.0295,38.82,
+Scottish Borders,5985.153499999999,275.17,
+West Dunbartonshire,1903.6355,191.64,
+Na h-Eileanan Siar,8275.8335,46.4,
+Orkney Islands,4390.875499999999,47.24,
+Inverclyde,1826.1454999999999,216.53,
+Na h-Eileanan Siar,5809.8875,47.89,
+Highland,8635.815499999999,428.59,
+Stirling,1952.0195,175.33,
+Midlothian,3908.4215000000004,147.53,
+South Lanarkshire,3086.6494999999995,420.42,
+Shetland Islands,2123.6315,39.87,
+Aberdeenshire,6733.215499999999,443.57,
+Dundee City,1908.4235,277.46,
+Dumfries and Galloway,1877.6795,233.0,
+Highland,4603.5635,363.75,
+Na h-Eileanan Siar,5398.4975,46.4,
+Glasgow City,1826.1454999999999,474.61,
+Dumfries and Galloway,1826.1454999999999,291.07,
+Na h-Eileanan Siar,3040.6594999999998,43.9,
+Moray,1011.3343399999999,229.75,
+Orkney Islands,8635.815499999999,42.53,
+Fife,3497.6615,427.96,
+Orkney Islands,5523.6155,43.46,
+"Edinburgh, City of",2014.5155,452.69,
+Fife,2343.3755,430.04,
+Scottish Borders,5611.1855,315.31,
+Argyll and Bute,2746.4494999999997,154.59,
+Shetland Islands,6623.721500000001,38.82,
+Argyll and Bute,6829.9835,155.16,
+Dumfries and Galloway,2604.1955,321.12,
+Na h-Eileanan Siar,4451.481500000001,47.89,
+Angus,8635.815499999999,263.94,
+East Renfrewshire,2296.8815000000004,217.52,
+Shetland Islands,4737.6275000000005,33.07,
+Stirling,3832.4435000000003,157.73,
+Perth and Kinross,6501.375499999999,275.35,
+Perth and Kinross,8635.815499999999,308.1,
+Shetland Islands,6279.26934,38.02,
+Moray,8635.815499999999,189.97,
+Orkney Islands,8635.815499999999,41.38,
+Perth and Kinross,1987.8035,333.0,
+Stirling,2463.2015,158.41,
+Orkney Islands,2946.4115,40.09,
+Dumfries and Galloway,3644.5775000000003,247.58,
+Orkney Islands,6891.345499999999,47.24,
+Aberdeenshire,8635.815499999999,506.3,
+Na h-Eileanan Siar,6546.3575,43.9,
+Midlothian,2346.5254999999997,152.11,
+Dumfries and Galloway,2227.9595,258.72,
+Glasgow City,1826.1454999999999,461.49,
+East Ayrshire,8635.815499999999,195.26,
+Inverclyde,2907.3514999999998,163.99,
+Glasgow City,1826.1454999999999,541.74,
+Shetland Islands,6107.7515,38.82,
+Na h-Eileanan Siar,3158.3435,43.9,
+Aberdeenshire,8635.815499999999,454.17,
+North Ayrshire,8635.815499999999,314.35,
+Orkney Islands,4232.9975,43.74,
+Highland,4811.3375,355.68,
+Perth and Kinross,4668.8315,286.32,
+Scottish Borders,7802.9555,315.53,
+Fife,3285.4775,365.41,
+Dumfries and Galloway,4532.625499999999,270.09,
+"Edinburgh, City of",1826.1454999999999,385.64,
+Moray,2201.17798,229.08,
+Scottish Borders,7206.9755,353.05,
+Na h-Eileanan Siar,4408.5155,51.53,
+Shetland Islands,8635.815499999999,38.82,
+Shetland Islands,7520.0855,34.01,
+Orkney Islands,5184.675499999999,47.24,
+Glasgow City,1826.1454999999999,398.5,
+Na h-Eileanan Siar,5261.0315,46.23,
+Aberdeenshire,8499.735499999999,454.17,
+"Edinburgh, City of",1895.9495,452.69,
+Orkney Islands,1826.1454999999999,48.43,
+Orkney Islands,4718.2235,40.24,
+Stirling,5751.675499999999,184.47,
+Highland,5357.0435,427.01,
+Shetland Islands,5564.3135,36.07,
+Highland,3679.6054999999997,363.75,
+Dumfries and Galloway,7413.7415,259.74,
+Na h-Eileanan Siar,5192.8655,46.4,
+Aberdeenshire,6211.827499999999,465.63,
+Shetland Islands,3969.6575000000003,40.63,
+Argyll and Bute,2884.1674999999996,179.76,
+Shetland Islands,3349.1075,39.8,
+Highland,7174.7195,383.04,
+Glasgow City,1826.1454999999999,428.81,
+Aberdeen City,2772.2794999999996,492.7,
+Orkney Islands,4328.3795,44.66,
+"Edinburgh, City of",1826.1454999999999,385.64,
+"Edinburgh, City of",1957.6895,333.0,
+South Ayrshire,8635.815499999999,186.65,
+Shetland Islands,7683.3815,33.07,
+Dumfries and Galloway,8215.2275,259.74,
+Shetland Islands,4017.6635000000006,38.82,
+Orkney Islands,8271.4235,47.24,
+Moray,1378.17914,270.17,
+Argyll and Bute,7819.965499999999,173.86,
+Na h-Eileanan Siar,3296.1875,52.83,
+Clackmannanshire,8389.737500000001,101.34,
+Na h-Eileanan Siar,3926.6915,50.85,
+Shetland Islands,7081.8575,36.07,
+Dumfries and Galloway,6071.8414999999995,290.63,
+Dumfries and Galloway,4537.5395,240.49,
+Perth and Kinross,2737.8815000000004,283.12,
+Argyll and Bute,3391.1915,168.65,
+West Lothian,2694.1594999999998,304.17,
+Argyll and Bute,2576.0975,186.74,
+Na h-Eileanan Siar,5221.0895,47.89,
+Na h-Eileanan Siar,2417.5895,43.73,
+Dundee City,1826.1454999999999,325.71,
+Midlothian,4570.8035,137.5,
+Aberdeenshire,3863.1875,425.24,
+Shetland Islands,5762.1335,39.8,
+Dumfries and Galloway,3029.0675,220.45,
+Na h-Eileanan Siar,2075.6255,55.48,
+South Ayrshire,2705.7515000000003,183.09,
+Perth and Kinross,1544.897,244.96,
+Shetland Islands,2544.4399000000003,40.91,
+Renfrewshire,3284.4695,405.59,
+Scottish Borders,5537.4755,294.15,
+Aberdeenshire,1826.7755,467.89,
+Na h-Eileanan Siar,2351.5654999999997,47.71,
+Dumfries and Galloway,2962.0355,264.48,
+Dumfries and Galloway,8306.4515,259.74,
+Falkirk,3878.6854999999996,324.87,
+Scottish Borders,7279.8035,295.24,
+Shetland Islands,3565.8275000000003,34.85,
+Glasgow City,1826.1454999999999,461.49,
+Na h-Eileanan Siar,8635.815499999999,45.14,
+Shetland Islands,3952.2695000000003,39.8,
+East Lothian,7552.215499999999,174.49,
+Glasgow City,1826.1454999999999,365.29,
+Argyll and Bute,4286.7995,159.58,
+Dumfries and Galloway,5634.7475,277.59,
+Argyll and Bute,5965.6235,155.16,
+Dumfries and Galloway,2975.0135,277.59,
+South Ayrshire,2814.2375,203.35,
+Argyll and Bute,2098.6835,202.83,
+Na h-Eileanan Siar,7196.2654999999995,43.9,
+Argyll and Bute,3571.1195,156.54,
+Stirling,1826.1454999999999,134.94,
+Na h-Eileanan Siar,8635.815499999999,47.89,
+Na h-Eileanan Siar,5051.8715,43.9,
+Argyll and Bute,4338.585499999999,158.99,
+"Edinburgh, City of",2211.7055,385.64,
+Midlothian,2733.75802,129.63,
+Highland,8635.815499999999,385.89,
+Na h-Eileanan Siar,8345.889500000001,47.89,
+Aberdeen City,1826.1454999999999,419.71,
+Highland,8630.5235,398.29,
+North Ayrshire,5827.2755,324.45,
+Shetland Islands,4653.585499999999,35.71,
+Dumfries and Galloway,5020.6235,259.74,
+Dumfries and Galloway,5731.6415,297.97,
+Glasgow City,2790.0455,474.61,
+Glasgow City,2442.0335000000005,409.01,
+Orkney Islands,3133.1435,43.74,
+Na h-Eileanan Siar,5846.9315,43.9,
+Argyll and Bute,5808.6275000000005,158.99,
+Perth and Kinross,3247.5514999999996,257.81,
+Aberdeenshire,3306.8975,475.81,
+Aberdeenshire,8635.815499999999,508.18,
+Perth and Kinross,3176.6135000000004,276.78,
+Shetland Islands,4631.7875,37.88,
+Orkney Islands,6669.8375,43.9,
+Glasgow City,1826.1454999999999,461.49,
+Glasgow City,6159.7895,428.81,
+West Lothian,2231.6135000000004,357.06,
+Argyll and Bute,3551.9674999999997,190.68,
+Stirling,2797.3535,170.48,
+Dumfries and Galloway,5125.7075,272.12,
+East Renfrewshire,3251.9615000000003,207.61,
+Moray,4900.1675,222.13,
+Glasgow City,2324.8535,398.5,
+Shetland Islands,7072.029500000001,43.22,
+Aberdeen City,1841.2115199999998,371.98,
+Scottish Borders,6821.037499999999,289.41,
+North Ayrshire,2963.9255000000003,289.74,
+Inverclyde,1958.9495,155.36,
+Perth and Kinross,6226.8215,308.1,
+Aberdeen City,1826.1454999999999,362.43,
+Shetland Islands,3642.4354999999996,38.02,
+Shetland Islands,4684.3295,33.07,
+Angus,8635.815499999999,270.6,
+Clackmannanshire,2064.1594999999998,106.73,
+Highland,4733.2175,392.71,
+Dumfries and Galloway,4674.5015,246.66,
+Falkirk,2829.4835000000003,287.1,
+Aberdeenshire,2774.0434999999998,413.48,
+Orkney Islands,2644.2635,44.16,
+Shetland Islands,4202.1275000000005,33.27,
+Dundee City,1009.3690999999999,277.46,
+Angus,3320.1275000000005,262.9,
+Shetland Islands,2849.5175,33.07,
+Argyll and Bute,5355.6575,170.54,
+Scottish Borders,3717.9094999999998,277.24,
+Moray,4608.8555,221.49,
+Stirling,4039.0834999999997,153.78,
+Glasgow City,2369.9615000000003,461.49,
+Highland,4973.1215,394.31,
+Argyll and Bute,1009.3690999999999,182.95,
+Na h-Eileanan Siar,5480.6494999999995,45.14,
+Perth and Kinross,3080.2235,294.28,
+Aberdeenshire,8635.815499999999,386.89,
+Moray,3907.2875000000004,222.19,
+Scottish Borders,3939.7954999999993,302.69,
+South Lanarkshire,2386.4674999999997,400.66,
+Shetland Islands,8635.815499999999,38.82,
+Fife,7672.0415,417.42,
+Orkney Islands,2143.2875,40.48,
+Stirling,1826.1454999999999,185.98,
+Na h-Eileanan Siar,3564.4415,52.83,
+Aberdeenshire,8635.815499999999,472.26,
+Angus,4218.8855,245.99,
+Highland,4638.087500000001,334.34,
+Shetland Islands,6741.657499999999,35.94,
+East Lothian,5770.7015,191.06,
+"Edinburgh, City of",2798.7394999999997,341.78,
+Stirling,8079.3994999999995,165.48,
+North Ayrshire,6938.721500000001,318.72,
+Aberdeenshire,1009.3690999999999,404.03,
+Fife,8635.815499999999,417.42,
+Argyll and Bute,3538.8635000000004,158.99,
+Dundee City,3661.8395,245.91,
+Aberdeen City,3359.9435000000003,341.67,
+Dundee City,2475.8015000000005,250.09,
+"Edinburgh, City of",1826.1454999999999,351.5,
+Argyll and Bute,5041.9175,194.66,
+Dumfries and Galloway,2285.4155,272.12,
+Aberdeenshire,6574.7074999999995,399.05,
+Argyll and Bute,3607.2815,163.4,
+West Lothian,5530.9235,356.03,
+Orkney Islands,5421.8075,49.6,
+Highland,5133.5195,419.82,
+Aberdeen City,1009.3690999999999,332.23,
+Perth and Kinross,8635.815499999999,234.56,
+Argyll and Bute,2575.0895,196.11,
+West Dunbartonshire,1056.6440400000001,211.6,
+South Ayrshire,6993.1535,238.38,
+Na h-Eileanan Siar,6182.2175,51.53,
+Angus,6936.201499999999,263.94,
+Shetland Islands,2444.3015000000005,46.81,
+Argyll and Bute,6356.3495,182.15,
+Falkirk,2032.2815,344.61,
+Argyll and Bute,1826.1454999999999,167.71,
+Shetland Islands,7829.0375,36.07,
+Na h-Eileanan Siar,2226.4475,51.18,
+Orkney Islands,7092.693499999999,47.24,
+South Lanarkshire,2019.1775,485.13,
+North Ayrshire,3022.8935,330.6,
+Stirling,8635.815499999999,140.96,
+Stirling,5073.9215,176.85,
+West Dunbartonshire,2493.1895000000004,229.06,
+Aberdeenshire,6709.023499999999,432.9,
+Falkirk,2120.3554999999997,370.82,
+Shetland Islands,8635.815499999999,38.82,
+Aberdeen City,2235.3935,341.67,
+Orkney Islands,1826.1454999999999,51.76,
+Shetland Islands,7291.5215,34.01,
+Glasgow City,1826.1454999999999,461.49,
+Argyll and Bute,6671.9795,168.2,
+Dumfries and Galloway,6880.2575,260.5,
+Shetland Islands,3022.2635,35.94,
+Highland,8635.815499999999,382.74,
+Aberdeenshire,3009.9155,485.38,
+West Lothian,4483.7375,291.63,
+Orkney Islands,3855.7535,48.43,
+Glasgow City,1826.1454999999999,555.41,
+Shetland Islands,3066.7415,39.8,
+"Edinburgh, City of",1826.1454999999999,385.64,
+Orkney Islands,8635.815499999999,47.24,
+Aberdeenshire,3888.3875,385.46,
+North Lanarkshire,1889.6495000000002,395.11,
+Na h-Eileanan Siar,4623.2195,47.89,
+Clackmannanshire,1977.5975,104.41,
+Fife,5428.3595,387.92,
+South Lanarkshire,2054.8355,395.2,
+Glasgow City,2140.8935,398.5,
+Na h-Eileanan Siar,8635.815499999999,45.14,
+Aberdeenshire,3674.6915,391.45,
+Shetland Islands,4553.0375,38.82,
+Highland,6073.227499999999,409.09,
+Midlothian,5089.797500000001,162.25,
+Shetland Islands,4542.8315,35.94,
+Argyll and Bute,8635.815499999999,182.15,
+Aberdeenshire,4582.3955,413.48,
+"Edinburgh, City of",2222.4155,452.69,
+Orkney Islands,4386.7175,43.74,
+Orkney Islands,3435.6695,46.27,
+East Dunbartonshire,2048.0315,235.29,
+South Lanarkshire,6384.8255,420.52,
+Fife,2758.7974999999997,469.13,
+Na h-Eileanan Siar,6639.9755,51.53,
+Argyll and Bute,2016.5315,186.74,
+East Ayrshire,8635.815499999999,170.44,
+Dumfries and Galloway,5248.809499999999,221.27,
+South Ayrshire,7916.103499999999,227.69,
+Dundee City,3009.2855,245.91,
+Na h-Eileanan Siar,3185.8115,53.94,
+Glasgow City,2751.6155,375.68,
+Shetland Islands,7079.715499999999,38.02,
+Fife,2107.1255,340.4,
+Glasgow City,1009.3690999999999,398.5,
+Na h-Eileanan Siar,5533.317499999999,47.71,
+Argyll and Bute,7855.119500000001,163.4,
+Clackmannanshire,3238.9835000000003,95.16,
+East Lothian,2684.9615000000003,194.96,
+North Ayrshire,4265.1275000000005,324.45,
+Aberdeenshire,6704.8655,452.49,
+Dumfries and Galloway,4844.9794999999995,259.74,
+Shetland Islands,5070.2675,35.94,
+West Dunbartonshire,2091.2495,197.8,
+North Lanarkshire,8531.6135,378.35,
+Orkney Islands,4636.9535000000005,40.24,
+Orkney Islands,3425.0855,49.45,
+Highland,1826.1454999999999,474.93,
+Shetland Islands,2699.3255,39.8,
+Argyll and Bute,3432.7715,169.27,
+Perth and Kinross,5430.2495,280.5,
+Midlothian,4704.4895,133.71,
+Shetland Islands,3914.0915000000005,38.55,
+East Lothian,8635.815499999999,177.56,
+Shetland Islands,4053.8255,43.72,
+Dundee City,1826.1454999999999,333.93,
+Dumfries and Galloway,5289.1295,233.3,
+Aberdeen City,1826.1454999999999,492.7,
+North Lanarkshire,3497.5355,452.25,
+Orkney Islands,8635.815499999999,47.24,
+Angus,3422.3135,262.9,
+Shetland Islands,7216.9295,34.85,
+Na h-Eileanan Siar,8226.567500000001,45.14,
+Orkney Islands,3548.3135,43.9,
+Highland,2572.4435000000003,349.74,
+Fife,4641.9935000000005,375.84,
+Moray,3858.6515,189.97,
+Falkirk,3252.7174999999997,267.64,
+"Edinburgh, City of",2537.6675,385.64,
+Na h-Eileanan Siar,2813.9855,55.48,
+Na h-Eileanan Siar,1826.1454999999999,49.58,
+Aberdeenshire,8635.815499999999,472.26,
+Aberdeenshire,6017.913500000001,454.17,
+Na h-Eileanan Siar,5111.2175,51.53,
+North Lanarkshire,1984.9054999999998,395.11,
+South Lanarkshire,4978.539499999999,432.73,
+Perth and Kinross,8635.815499999999,275.35,
+North Lanarkshire,1896.5795,395.11,
+Stirling,1826.1454999999999,176.85,
+East Lothian,7408.0715,185.67,
+Na h-Eileanan Siar,6816.7535,47.89,
+Orkney Islands,3610.5575,48.43,
+Renfrewshire,5737.4375,483.23,
+Highland,7434.531499999999,365.1,
+East Lothian,1826.1454999999999,155.35,
+Orkney Islands,2510.4515,50.86,
+Shetland Islands,4948.9295,36.07,
+Glasgow City,1047.47292,375.68,
+Orkney Islands,3407.9494999999997,48.43,
+Orkney Islands,6174.5315,47.24,
+South Lanarkshire,1594.79226,375.49,
+Highland,4549.5095,439.41,
+Glasgow City,1866.3395,398.5,
+Highland,4948.047500000001,335.31,
+Shetland Islands,5753.02174,40.76,
+Aberdeenshire,8635.815499999999,508.18,
+Scottish Borders,1009.3690999999999,331.81,
+Moray,4058.3615,212.56,
+Na h-Eileanan Siar,3201.3095000000003,44.98,
+Shetland Islands,3380.4815,35.94,
+Aberdeenshire,2691.3875,414.68,
+North Lanarkshire,2598.6515,415.85,
+Orkney Islands,7556.7515,47.24,
+Shetland Islands,5346.3335,34.85,
+Perth and Kinross,5449.1494999999995,315.87,
+Orkney Islands,7300.3415,46.27,
+Moray,5424.4535,200.79,
+East Ayrshire,8635.815499999999,194.54,
+Na h-Eileanan Siar,8563.9955,44.28,
+East Lothian,1851.4714999999999,221.34,
+Aberdeenshire,8563.9955,466.01,
+Aberdeenshire,7371.279500000001,466.01,
+North Lanarkshire,5172.0755,401.82,
+Perth and Kinross,8441.2715,244.19,
+Shetland Islands,3256.6234999999997,36.64,
+Midlothian,8563.9955,129.99,
+Aberdeenshire,4333.6715,450.88,
+Highland,7539.8675,449.63,
+Highland,5730.0035,471.39,
+East Lothian,5392.1975,183.77,
+Shetland Islands,4932.1715,39.45,
+Na h-Eileanan Siar,6270.795499999999,44.28,
+Na h-Eileanan Siar,8563.9955,44.76,
+Argyll and Bute,4065.7954999999993,172.66,
+Stirling,2955.8615,135.97,
+Na h-Eileanan Siar,1839.1235,47.67,
+Midlothian,2383.6955,140.65,
+Shetland Islands,4915.2875,38.28,
+Highland,5903.8835,431.36,
+Aberdeenshire,3506.8594999999996,494.02,
+South Ayrshire,2737.2515000000003,238.81,
+Aberdeen City,1684.7565799999998,430.37,
+Aberdeenshire,3215.0434999999998,468.76,
+Orkney Islands,1839.1235,42.53,
+Shetland Islands,5442.0935,37.78,
+Orkney Islands,3516.6875,41.97,
+Dumfries and Galloway,2304.5675,258.93,
+Shetland Islands,4174.1555,37.24,
+Na h-Eileanan Siar,3364.6054999999997,51.46,
+Na h-Eileanan Siar,3969.9094999999998,45.14,
+Perth and Kinross,8563.9955,235.49,
+Orkney Islands,8563.9955,40.88,
+Orkney Islands,8563.9955,39.12,
+Renfrewshire,3114.3695,379.87,
+Glasgow City,2523.6814999999997,533.27,
+Aberdeenshire,8563.9955,438.39,
+Shetland Islands,2293.1014999999998,43.65,
+Na h-Eileanan Siar,5003.8655,44.28,
+Na h-Eileanan Siar,6310.737499999999,47.39,
+Shetland Islands,5014.7015,37.68,
+Na h-Eileanan Siar,7738.191499999999,44.16,
+"Edinburgh, City of",2759.1755000000003,354.24,
+Angus,1887.7595000000001,191.6,
+Stirling,2243.5834999999997,136.03,
+Clackmannanshire,2465.2174999999997,118.04,
+Argyll and Bute,1839.1235,183.68,
+Perth and Kinross,2460.6814999999997,299.66,
+"Edinburgh, City of",1839.1235,403.86,
+Shetland Islands,3706.6955,37.74,
+Perth and Kinross,7174.0895,225.85,
+Scottish Borders,4070.5834999999997,237.24,
+Highland,4966.443499999999,451.05,
+Orkney Islands,6228.0815,40.88,
+Na h-Eileanan Siar,2867.0315,45.02,
+Stirling,3138.6875,144.72,
+Angus,5964.1115,184.21,
+Shetland Islands,4154.8775000000005,37.68,
+Moray,8563.9955,238.12,
+Aberdeenshire,6101.4515,447.07,
+Na h-Eileanan Siar,3164.2654999999995,45.62,
+Renfrewshire,1953.44856,379.87,
+Fife,7455.3215,341.92,
+Argyll and Bute,6335.4335,159.71,
+Highland,5860.665499999999,418.31,
+Inverclyde,2250.6395,183.56,
+Highland,5986.413500000001,470.59,
+Highland,5763.3935,461.63,
+South Lanarkshire,8563.9955,456.64,
+East Ayrshire,5028.8135,227.73,
+Angus,8563.9955,180.4,
+Dumfries and Galloway,2376.2615,287.31,
+Na h-Eileanan Siar,5979.1055,42.94,
+Aberdeenshire,5467.545499999999,471.22,
+Orkney Islands,4045.0054999999993,41.43,
+Dumfries and Galloway,3822.2375,266.46,
+South Ayrshire,6062.2654999999995,253.64,
+Glasgow City,1839.1235,510.25,
+Orkney Islands,3454.9475,41.67,
+Fife,1020.61464,387.11,
+Midlothian,4793.5715,136.28,
+Shetland Islands,4322.3315,34.94,
+Highland,2142.5315,486.85,
+Na h-Eileanan Siar,2953.4674999999997,44.42,
+Argyll and Bute,4366.0535,172.2,
+South Lanarkshire,3206.9795000000004,464.41,
+Perth and Kinross,3832.8215,246.24,
+Glasgow City,2538.2974999999997,441.14,
+Perth and Kinross,4548.8795,242.66,
+Shetland Islands,6759.8015000000005,37.68,
+Na h-Eileanan Siar,7060.3115,46.16,
+Highland,3892.6715000000004,433.91,
+Orkney Islands,2996.8115,41.97,
+Shetland Islands,4116.1955,37.13,
+West Dunbartonshire,2231.3615,209.38,
+South Ayrshire,5663.0975,244.73,
+Scottish Borders,2809.8275000000003,227.59,
+Shetland Islands,8563.9955,34.94,
+Orkney Islands,4690.6295,41.67,
+Shetland Islands,2796.9754999999996,35.15,
+Dumfries and Galloway,6452.9915,243.61,
+Aberdeenshire,8563.9955,471.22,
+Dumfries and Galloway,6878.871499999999,254.6,
+Argyll and Bute,8563.9955,159.71,
+Angus,8563.9955,175.71,
+Aberdeenshire,7376.8235,472.7,
+Shetland Islands,3540.5014999999994,37.56,
+Shetland Islands,3849.0755,37.56,
+Midlothian,4162.9415,124.38,
+Dumfries and Galloway,2555.5595000000003,258.93,
+Glasgow City,2280.2495,510.25,
+Na h-Eileanan Siar,3910.4375,43.52,
+Angus,8563.9955,175.71,
+Na h-Eileanan Siar,3864.4475,46.3,
+Shetland Islands,5426.0914999999995,38.93,
+Orkney Islands,3712.1134999999995,40.53,
+Orkney Islands,3104.2895,40.41,
+Moray,6295.3655,224.01,
+Moray,4231.8634999999995,224.01,
+Dumfries and Galloway,7828.281499999999,257.44,
+Argyll and Bute,2504.2775,165.66,
+Shetland Islands,4773.663500000001,34.94,
+Fife,3110.8415000000005,351.97,
+Inverclyde,1881.0815,188.79,
+Argyll and Bute,3229.5335000000005,159.71,
+Orkney Islands,5648.6075,38.03,
+Renfrewshire,2995.8035,385.4,
+Na h-Eileanan Siar,6411.537499999999,46.16,
+Perth and Kinross,7361.7035,228.37,
+Shetland Islands,4553.0375,38.93,
+Dumfries and Galloway,3092.4455,256.1,
+Shetland Islands,7998.2555,38.06,
+Shetland Islands,6133.3295,37.56,
+Dumfries and Galloway,7656.6695,252.43,
+Na h-Eileanan Siar,5369.5175,44.16,
+Orkney Islands,4937.4635,41.97,
+Orkney Islands,5780.7815,39.12,
+Orkney Islands,8233.1195,38.03,
+Orkney Islands,8563.9955,39.64,
+Shetland Islands,2685.2135,40.43,
+Highland,8563.9955,418.31,
+Moray,6746.4455,230.39,
+Angus,4856.5715,184.21,
+Stirling,2595.5015000000003,137.49,
+Highland,2015.2715,486.17,
+"Edinburgh, City of",1839.1235,415.36,
+Aberdeenshire,5385.8975,438.39,
+South Lanarkshire,2457.5315,476.86,
+South Lanarkshire,8563.9955,461.75,
+East Lothian,1957.1854999999998,188.04,
+Highland,2087.2174999999997,457.69,
+Shetland Islands,4968.9635,37.68,
+South Ayrshire,4187.6375,244.73,
+Highland,3204.9635,456.09,
+Highland,4859.8475,457.35,
+Argyll and Bute,2384.5775000000003,176.24,
+Perth and Kinross,3217.1854999999996,243.92,
+Argyll and Bute,2914.5335000000005,167.45,
+Falkirk,6165.8375,259.73,
+Na h-Eileanan Siar,5793.1295,46.16,
+Na h-Eileanan Siar,4572.3155,46.42,
+East Renfrewshire,2446.5694999999996,146.42,
+Angus,4093.0114999999996,224.18,
+Dundee City,7657.2995,256.99,
+Dumfries and Galloway,6713.433499999999,258.97,
+Orkney Islands,2738.6375,40.41,
+Stirling,8089.9835,140.96,
+Orkney Islands,8563.9955,39.22,
+Dumfries and Galloway,3891.0335000000005,275.67,
+Shetland Islands,6554.4215,34.94,
+East Renfrewshire,4595.373500000001,154.42,
+"Edinburgh, City of",2167.7315,403.86,
+Shetland Islands,2870.1814999999997,38.18,
+Angus,4982.193499999999,175.71,
+Scottish Borders,1839.1235,281.72,
+Fife,2846.4935000000005,318.1,
+Orkney Islands,4255.8035,41.67,
+Orkney Islands,3568.5995000000003,38.54,
+Angus,5092.1915,168.13,
+Dumfries and Galloway,1839.1235,305.58,
+East Renfrewshire,1839.1235,166.92,
+Aberdeenshire,4955.4815,483.79,
+Shetland Islands,4161.3035,39.45,
+Scottish Borders,7224.8675,245.66,
+Shetland Islands,6510.8255,38.56,
+Na h-Eileanan Siar,8563.9955,46.16,
+South Lanarkshire,1020.61464,563.68,
+Aberdeenshire,5229.6575,471.22,
+Aberdeenshire,4878.7475,494.02,
+"Edinburgh, City of",8563.9955,377.93,
+Shetland Islands,8421.237500000001,35.94,
+Clackmannanshire,2195.3255,118.04,
+Argyll and Bute,6596.5055,159.71,
+Orkney Islands,3115.8815000000004,38.03,
+Midlothian,7205.715499999999,144.62,
+Argyll and Bute,3474.6035,159.71,
+Stirling,5250.4475,158.55,
+Na h-Eileanan Siar,8563.9955,46.16,
+Fife,3118.5275,313.9,
+Stirling,3779.0195000000003,131.14,
+Glasgow City,1839.1235,441.14,
+Dundee City,2304.6935000000003,298.12,
+Shetland Islands,2505.24428,39.45,
+Falkirk,4541.193499999999,318.87,
+Angus,3781.55848,175.71,
+"Edinburgh, City of",2269.6655,434.09,
+Highland,5128.983499999999,430.23,
+Shetland Islands,4733.7215,35.94,
+Dundee City,2156.6435,239.79,
+Na h-Eileanan Siar,6492.5555,44.28,
+Shetland Islands,4528.3414999999995,35.94,
+Na h-Eileanan Siar,7418.2775,47.05,
+Orkney Islands,2874.4655000000002,41.97,
+Perth and Kinross,4377.5195,254.5,
+Shetland Islands,7085.1335,34.94,
+"Edinburgh, City of",1839.1235,434.09,
+Inverclyde,3188.2055,163.65,
+Shetland Islands,7865.7035,37.78,
+Argyll and Bute,6069.8255,174.98,
+North Lanarkshire,2680.4255000000003,457.04,
+Argyll and Bute,3869.7394999999997,172.66,
+East Ayrshire,5046.9575,203.64,
+Dumfries and Galloway,2488.7795,266.81,
+Shetland Islands,6934.437500000001,35.94,
+Orkney Islands,4654.0895,41.12,
+Orkney Islands,2143.2875,39.88,
+Na h-Eileanan Siar,5973.1835,44.42,
+Aberdeenshire,3063.2135,525.89,
+North Ayrshire,2789.6674999999996,321.62,
+Scottish Borders,5603.2475,222.61,
+"Edinburgh, City of",2602.5575,354.24,
+Dumfries and Galloway,3527.3975,236.86,
+Orkney Islands,8563.9955,39.75,
+East Renfrewshire,1839.1235,184.21,
+Na h-Eileanan Siar,8563.9955,42.94,
+Aberdeen City,1280.6814,497.79,
+Argyll and Bute,3505.7254999999996,167.45,
+Orkney Islands,5293.9175,41.67,
+South Lanarkshire,2726.0375000000004,569.01,
+Na h-Eileanan Siar,3993.7235,50.35,
+Shetland Islands,6246.3515,35.94,
+Glasgow City,1897.0835,441.14,
+Dundee City,1020.61464,285.25,
+Dundee City,4193.0555,247.27,
+Shetland Islands,5067.1175,39.91,
+Glasgow City,1920.3935000000001,461.04,
+South Lanarkshire,3058.1735,444.43,
+Stirling,2039.9675,172.08,
+Aberdeen City,1839.1235,484.01,
+Shetland Islands,8563.9955,35.94,
+Shetland Islands,8563.9955,38.29,
+Shetland Islands,7848.9455,37.56,
+Orkney Islands,3431.8895,38.03,
+Dumfries and Galloway,5827.023499999999,258.97,
+West Dunbartonshire,1946.8535,184.43,
+Orkney Islands,3376.0715,41.01,
+Perth and Kinross,5987.925499999999,245.47,
+Renfrewshire,1839.1235,426.09,
+Midlothian,2817.2807199999997,145.45,
+Aberdeenshire,5648.8595,438.39,
+Orkney Islands,8563.9955,40.88,
+Highland,5149.1435,452.29,
+Glasgow City,1839.1235,442.3,
+Orkney Islands,3847.1854999999996,39.88,
+North Ayrshire,3094.9655000000002,293.38,
+South Ayrshire,3876.6695,236.78,
+Scottish Borders,1839.1235,282.35,
+Orkney Islands,3291.5254999999997,44.0,
+Dundee City,1839.1235,298.12,
+Angus,2411.2895,210.54,
+Dumfries and Galloway,4176.1715,243.61,
+Shetland Islands,4063.1494999999995,34.94,
+Orkney Islands,5080.3475,40.88,
+Argyll and Bute,8563.9955,171.66,
+East Ayrshire,1918.1254999999999,253.93,
+Falkirk,2179.5755,307.14,
+Aberdeenshire,2586.1775,453.54,
+South Lanarkshire,2979.0455,450.37,
+Na h-Eileanan Siar,5818.7075,42.94,
+Argyll and Bute,1839.1235,185.61,
+Na h-Eileanan Siar,5208.7415,46.3,
+Na h-Eileanan Siar,2503.6475,51.46,
+Na h-Eileanan Siar,6357.6095000000005,42.94,
+Na h-Eileanan Siar,8563.9955,44.28,
+Perth and Kinross,6555.9335,245.47,
+Glasgow City,1907.4154999999998,441.14,
+Shetland Islands,3404.9255000000003,36.64,
+Perth and Kinross,2555.5595000000003,264.21,
+Inverclyde,4058.6134999999995,165.6,
+"Edinburgh, City of",1839.1235,403.86,
+Shetland Islands,3340.1615,36.15,
+Scottish Borders,8563.9955,239.28,
+Shetland Islands,8563.9955,36.42,
+Glasgow City,1850.4635,510.25,
+South Lanarkshire,3437.3075,474.06,
+Moray,7549.6955,240.79,
+Stirling,1839.1235,141.8,
+Glasgow City,1839.1235,533.27,
+Dumfries and Galloway,4785.6335,284.81,
+Scottish Borders,5987.7995,238.03,
+Shetland Islands,7911.9455,37.56,
+Dundee City,2422.8815000000004,298.12,
+Inverclyde,2886.3095000000003,197.31,
+Na h-Eileanan Siar,8563.9955,44.28,
+Na h-Eileanan Siar,2706.5074999999997,46.3,
+Dumfries and Galloway,2199.2315,248.33,
+Midlothian,8563.9955,129.99,
+Glasgow City,1020.61464,511.6,
+Na h-Eileanan Siar,8563.9955,48.48,
+Na h-Eileanan Siar,8563.9955,45.63,
+Orkney Islands,3215.5474999999997,42.79,
+"Edinburgh, City of",2458.9175,434.09,
+Aberdeenshire,3270.4835000000003,471.22,
+Highland,5107.6894999999995,430.23,
+Shetland Islands,3291.0215,38.56,
+Shetland Islands,3129.4894999999997,38.56,
+Perth and Kinross,8563.9955,242.76,
+Highland,6023.4574999999995,452.29,
+Glasgow City,1839.1235,441.14,
+Dumfries and Galloway,8563.9955,254.6,
+Moray,5418.7835,242.21,
+Orkney Islands,2369.7095,44.59,
+Clackmannanshire,3897.0815000000002,115.76,
+"Edinburgh, City of",1839.1235,403.86,
+South Ayrshire,2025.3515,235.38,
+North Lanarkshire,2126.6555,455.84,
+Shetland Islands,6314.0135,35.94,
+Orkney Islands,5721.4355,41.01,
+Na h-Eileanan Siar,5481.6575,44.28,
+Shetland Islands,7149.267500000001,37.68,
+Shetland Islands,2388.3575,35.41,
+Na h-Eileanan Siar,4289.4455,47.39,
+West Dunbartonshire,1839.1235,186.66,
+Fife,1020.61464,390.15,
+Shetland Islands,4582.1435,38.18,
+Inverclyde,1020.61464,189.29,
+Orkney Islands,8563.9955,42.86,
+Na h-Eileanan Siar,7933.4915,45.63,
+Stirling,5809.3835,134.88,
+Dundee City,2674.5035,298.12,
+Perth and Kinross,5817.5734999999995,246.92,
+Moray,8563.9955,249.22,
+Na h-Eileanan Siar,4986.7294999999995,44.16,
+North Lanarkshire,1839.1235,512.66,
+Shetland Islands,2997.0635,38.56,
+Orkney Islands,3487.9595,41.67,
+Dumfries and Galloway,3384.5135,266.46,
+Fife,3093.7055,349.22,
+Dumfries and Galloway,1982.1335,247.79,
+Highland,6014.6375,422.99,
+Perth and Kinross,8563.9955,246.92,
+Angus,5447.5115,163.47,
+Orkney Islands,1974.8255,42.22,
+Dumfries and Galloway,3595.4375,269.9,
+Inverclyde,1020.61464,163.65,
+Glasgow City,1884.4835,428.93,
+Falkirk,3867.7235,312.39,
+Na h-Eileanan Siar,1839.1235,45.62,
+Angus,5334.9935000000005,175.71,
+Na h-Eileanan Siar,3999.2675,42.94,
+Shetland Islands,3220.8395,37.68,
+Scottish Borders,3292.5335000000005,294.4,
+Perth and Kinross,8563.9955,245.47,
+Moray,5494.1314999999995,249.65,
+South Lanarkshire,2082.4295,464.41,
+Glasgow City,1839.1235,496.13,
+East Lothian,1839.1235,221.34,
+Orkney Islands,4269.5375,38.54,
+North Lanarkshire,3333.7355,423.32,
+Perth and Kinross,6528.4655,228.37,
+Na h-Eileanan Siar,6384.4475,45.14,
+West Dunbartonshire,1839.1235,186.17,
+Moray,8563.9955,240.79,
+Orkney Islands,1918.1254999999999,39.87,
+Angus,6096.0335,175.71,
+Moray,2838.0515000000005,240.79,
+Stirling,4968.8375,133.39,
+Orkney Islands,4089.6094999999996,41.01,
+Orkney Islands,4654.3414999999995,41.97,
+Na h-Eileanan Siar,4563.7475,48.02,
+North Ayrshire,8229.5915,291.7,
+Aberdeenshire,1809.2217799999999,559.32,
+Fife,2246.7335000000003,411.33,
+Na h-Eileanan Siar,4258.3234999999995,46.51,
+Angus,2209.1855,208.56,
+Shetland Islands,2668.4555,37.31,
+Argyll and Bute,2460.5554999999995,202.11,
+Argyll and Bute,8563.9955,171.66,
+Orkney Islands,4355.0914999999995,41.67,
+South Ayrshire,6185.8715,248.93,
+Glasgow City,2561.4815,533.27,
+Orkney Islands,4319.6855,40.88,
+Highland,3619.6295,511.39,
+Scottish Borders,3799.4314999999997,237.24,
+Scottish Borders,2967.7055,240.66,
+Orkney Islands,2949.0575,38.03,
+East Renfrewshire,1020.61464,144.32,
+Argyll and Bute,4829.4815,164.25,
+Orkney Islands,2449.7195,41.56,
+East Lothian,2194.5694999999996,189.57,
+Fife,1839.1235,346.91,
+Perth and Kinross,4276.8455,252.02,
+South Lanarkshire,2890.7195,570.51,
+Scottish Borders,2329.7675,240.03,
+Shetland Islands,3937.5275,38.56,
+Na h-Eileanan Siar,1839.1235,49.68,
+Dumfries and Galloway,8563.9955,254.6,
+Scottish Borders,2210.3194999999996,252.54,
+Na h-Eileanan Siar,8563.9955,47.39,
+Inverclyde,3316.3475,163.22,
+Inverclyde,3866.4635,165.6,
+Shetland Islands,6951.5735,35.94,
+Orkney Islands,8226.6935,40.88,
+Highland,4036.3115000000007,418.31,
+Aberdeenshire,8563.9955,471.22,
+Dundee City,5074.8035,250.21,
+Na h-Eileanan Siar,7067.7455,44.16,
+Aberdeen City,1020.61464,497.79,
+Orkney Islands,5189.3375,39.75,
+Scottish Borders,6798.8615,248.08,
+Argyll and Bute,5876.9195,171.66,
+Inverclyde,1839.1235,188.79,
+Glasgow City,2027.8715,441.14,
+Na h-Eileanan Siar,2390.6255,51.33,
+Argyll and Bute,2875.5995000000003,167.45,
+East Lothian,3604.2575000000006,173.27,
+Argyll and Bute,2616.5435,165.22,
+Shetland Islands,8563.9955,34.94,
+Orkney Islands,3455.8295,41.56,
+Shetland Islands,5812.4075,37.56,
+Highland,6806.0435,451.05,
+Dumfries and Galloway,5354.6494999999995,254.5,
+Highland,8421.4895,454.66,
+North Lanarkshire,1839.1235,512.66,
+Moray,8563.9955,241.33,
+Angus,1839.1235,230.16,
+Shetland Islands,3751.5514999999996,37.78,
+Argyll and Bute,2140.5155,167.43,
+Highland,8563.9955,437.16,
+Aberdeenshire,6042.6095000000005,460.68,
+"Edinburgh, City of",2227.9595,403.86,
+"Edinburgh, City of",2194.9475,385.31,
+Orkney Islands,6369.4535,38.03,
+Dundee City,3864.3215,268.47,
+Shetland Islands,4138.7495,38.18,
+Na h-Eileanan Siar,8563.9955,44.28,
+Na h-Eileanan Siar,5454.1895,42.94,
+Na h-Eileanan Siar,6345.3875,46.16,
+Argyll and Bute,3332.7275,165.22,
+Shetland Islands,8563.9955,34.94,
+Argyll and Bute,3914.7214999999997,159.71,
+Highland,6417.2074999999995,449.63,
+Dumfries and Galloway,2871.0635,247.79,
+Scottish Borders,1839.1235,245.55,
+"Edinburgh, City of",1839.1235,349.16,
+Perth and Kinross,5197.7795,245.47,
+Orkney Islands,8563.9955,38.03,
+Angus,2668.7075,182.94,
+Orkney Islands,2649.8075,39.75,
+East Lothian,4606.2095,185.82,
+Orkney Islands,8533.755500000001,39.12,
+Shetland Islands,6717.5914999999995,38.56,
+Glasgow City,1020.61464,441.14,
+Highland,5928.2015,449.63,
+Shetland Islands,6250.6355,35.94,
+Highland,1839.1235,539.67,
+Na h-Eileanan Siar,4780.2155,46.24,
+East Dunbartonshire,7702.281499999999,155.14,
+Orkney Islands,6327.117499999999,38.03,
+Orkney Islands,5966.505499999999,40.96,
+Midlothian,2426.6615,133.39,
+North Ayrshire,1839.1235,363.86,
+Scottish Borders,8563.9955,239.28,
+Shetland Islands,8563.9955,35.94,
+Midlothian,1020.61464,170.27,
+Highland,5405.5535,449.63,
+Fife,1839.1235,427.19,
+Orkney Islands,8033.6615,39.12,
+"Edinburgh, City of",1991.3315,403.86,
+Angus,4838.5535,187.05,
+South Lanarkshire,7447.5095,459.16,
+Dumfries and Galloway,7078.7075,254.6,
+Na h-Eileanan Siar,8077.0055,45.63,
+Argyll and Bute,4402.4675,164.25,
+Argyll and Bute,1125.53662,160.47,
+Na h-Eileanan Siar,2199.4835000000003,55.07,
+Perth and Kinross,2732.3374999999996,299.66,
+Shetland Islands,3554.7394999999997,36.15,
+Na h-Eileanan Siar,5795.523499999999,45.63,
+East Ayrshire,8563.9955,212.26,
+Argyll and Bute,3560.1575000000003,165.22,
+Scottish Borders,7152.9215,236.63,
+Shetland Islands,1992.64418,36.73,
+Orkney Islands,3228.9035000000003,41.97,
+North Ayrshire,6341.2295,271.38,
+East Lothian,5933.8715,191.88,
+Na h-Eileanan Siar,8539.4255,45.63,
+Highland,6017.2835,430.23,
+Shetland Islands,6666.9395,37.68,
+Highland,6982.9475,422.99,
+Na h-Eileanan Siar,4924.7375,46.3,
+South Lanarkshire,2151.0995000000003,445.6,
+Highland,4399.6955,446.62,
+Orkney Islands,2080.9175,41.97,
+Argyll and Bute,3933.1175000000003,168.25,
+Moray,4413.3035,231.0,
+West Lothian,4075.6235000000006,332.6,
+Aberdeenshire,8563.9955,471.22,
+East Lothian,1839.1235,220.99,
+Shetland Islands,4500.6215,40.43,
+Angus,1839.1235,230.16,
+Angus,4403.4755,180.4,
+Orkney Islands,3435.2914999999994,39.12,
+Argyll and Bute,5293.7915,174.59,
+Aberdeenshire,6263.3615,472.27,
+Shetland Islands,2608.9835000000003,36.63,
+Orkney Islands,2039.8415,44.0,
+Dundee City,4409.0195,253.56,
+Perth and Kinross,1839.1235,266.37,
+Na h-Eileanan Siar,8563.9955,42.94,
+South Lanarkshire,5132.6375,468.82,
+Na h-Eileanan Siar,4300.2815,42.94,
+Na h-Eileanan Siar,1839.1235,43.15,
+Fife,5241.5015,326.13,
+Scottish Borders,8563.9955,239.28,
+Argyll and Bute,5203.4495,179.97,
+Scottish Borders,7405.047500000001,239.28,
+Shetland Islands,4059.4955,37.78,
+Orkney Islands,4806.8015,39.75,
+Stirling,5262.2915,140.17,
+East Lothian,2953.0895,186.24,
+Orkney Islands,3553.3535,42.53,
+Shetland Islands,5533.9475,38.28,
+Argyll and Bute,2054.9615000000003,187.25,
+South Lanarkshire,6247.233499999999,456.64,
+Na h-Eileanan Siar,5579.559499999999,46.16,
+East Lothian,2940.8675000000003,199.68,
+Na h-Eileanan Siar,3207.2315,45.62,
+Glasgow City,1895.80152,510.25,
+Perth and Kinross,4182.5975,228.37,
+Scottish Borders,5188.7075,248.08,
+"Edinburgh, City of",2347.0295,403.86,
+Na h-Eileanan Siar,5307.1475,46.16,
+East Renfrewshire,4521.1595,172.13,
+Shetland Islands,7030.449500000001,37.56,
+Na h-Eileanan Siar,7890.6515,42.94,
+Na h-Eileanan Siar,3494.0075000000006,47.05,
+Argyll and Bute,4840.9475,176.24,
+Shetland Islands,2655.4775,38.18,
+Aberdeenshire,8453.3675,466.01,
+Dumfries and Galloway,4413.6815,246.98,
+Shetland Islands,7013.8175,35.41,
+Dundee City,1035.68148,306.07,
+South Lanarkshire,2497.8514999999998,563.68,
+Aberdeenshire,8563.9955,471.22,
+Aberdeenshire,5820.9755,494.02,
+Orkney Islands,2618.9375,38.03,
+Argyll and Bute,4053.0694999999996,172.2,
+Shetland Islands,7306.6415,37.56,
+Perth and Kinross,4116.0695,234.27,
+Inverclyde,1341.4946599999998,163.22,
+Highland,8563.9955,487.79,
+Dumfries and Galloway,4622.7155,257.44,
+Clackmannanshire,2043.6215,113.88,
+Highland,8141.1395,483.99,
+Shetland Islands,5133.8975,34.94,
+South Ayrshire,8277.7235,247.47,
+Dumfries and Galloway,2613.3935,277.1,
+Na h-Eileanan Siar,8250.5075,44.76,
+Argyll and Bute,4922.595499999999,176.24,
+Dundee City,2338.8395,257.74,
+Stirling,2418.0935,167.32,
+Orkney Islands,6591.9695,39.12,
+Orkney Islands,6053.6975,40.88,
+Argyll and Bute,1938.6635,199.51,
+Dumfries and Galloway,4639.8515,244.25,
+Angus,8563.9955,173.77,
+Shetland Islands,2073.76492,40.97,
+Clackmannanshire,7826.0135,114.6,
+"Edinburgh, City of",3857.1395,416.45,
+East Dunbartonshire,1839.1235,184.15,
+"Edinburgh, City of",3609.1714999999995,434.09,
+Dundee City,4435.2275,298.12,
+Highland,8038.449500000001,431.36,
+East Lothian,5239.4855,171.86,
+Argyll and Bute,2446.1915,183.15,
+Orkney Islands,4233.375499999999,42.53,
+Shetland Islands,3907.4135000000006,36.63,
+East Renfrewshire,3566.3315000000002,150.98,
+Dumfries and Galloway,7297.9475,239.51,
+Highland,5404.1675,471.39,
+Orkney Islands,4065.2915000000003,43.43,
+Na h-Eileanan Siar,4756.9055,46.51,
+North Ayrshire,6320.943499999999,330.09,
+Shetland Islands,8417.0795,36.52,
+Perth and Kinross,4953.3395,228.37,
+Dumfries and Galloway,8563.9955,254.6,
+Na h-Eileanan Siar,2936.3315000000002,44.54,
+Angus,2095.2815,187.4,
+South Ayrshire,6527.9615,237.41,
+Argyll and Bute,2184.9934999999996,191.4,
+South Ayrshire,3285.6035,248.9,
+Na h-Eileanan Siar,7374.1775,44.16,
+North Lanarkshire,1390.51648,470.95,
+West Dunbartonshire,2324.00548,186.66,
+Orkney Islands,5531.0495,40.88,
+Dundee City,3816.5675,260.78,
+Renfrewshire,2426.1575000000003,426.09,
+Orkney Islands,4854.0515,40.41,
+North Lanarkshire,1839.1235,457.04,
+Orkney Islands,3550.2035000000005,41.97,
+Angus,8409.3935,163.47,
+Na h-Eileanan Siar,4012.1195,46.3,
+Na h-Eileanan Siar,8175.1595,47.84,
+North Lanarkshire,2482.1014999999998,416.8,
+Orkney Islands,8563.9955,38.54,
+Perth and Kinross,8563.9955,257.35,
+Inverclyde,2326.8695,158.7,
+South Lanarkshire,1839.1235,452.57,
+Highland,8311.6175,422.99,
+Shetland Islands,6704.3615,37.56,
+Argyll and Bute,3426.9754999999996,176.24,
+South Lanarkshire,5023.521500000001,429.58,
+Moray,7941.3035,230.39,
+Na h-Eileanan Siar,4762.9535,45.63,
+Highland,4271.8055,438.56,
+Dundee City,1888.7675000000002,257.74,
+Orkney Islands,8260.0835,40.88,
+East Lothian,7267.4555,193.67,
+Shetland Islands,3949.6235000000006,36.63,
+Dumfries and Galloway,6960.7715,254.6,
+Argyll and Bute,5864.067499999999,171.66,
+Na h-Eileanan Siar,2651.4455,44.42,
+Scottish Borders,6459.2915,239.28,
+Shetland Islands,4659.0035,35.94,
+Argyll and Bute,4105.7375,172.66,
+Na h-Eileanan Siar,4200.6155,48.02,
+Shetland Islands,5011.425499999999,36.64,
+Orkney Islands,3696.1115,41.97,
+Na h-Eileanan Siar,5111.7215,45.63,
+Shetland Islands,5076.693499999999,35.41,
+Dumfries and Galloway,4646.6555,257.44,
+Dumfries and Galloway,6805.7915,286.41,
+Shetland Islands,8563.9955,37.78,
+Na h-Eileanan Siar,2129.4275,46.3,
+Argyll and Bute,3794.8954999999996,172.66,
+Dumfries and Galloway,8563.9955,254.6,
+Na h-Eileanan Siar,8563.9955,44.87,
+West Dunbartonshire,5268.5914999999995,187.12,
+Na h-Eileanan Siar,8008.7135,44.76,
+Na h-Eileanan Siar,5900.2295,47.39,
+Orkney Islands,8563.9955,41.97,
+Scottish Borders,4137.2375,240.66,
+Na h-Eileanan Siar,4678.6595,45.14,
+Highland,8563.9955,418.31,
+Highland,8563.9955,430.23,
+South Lanarkshire,2184.4895,445.6,
+Argyll and Bute,3624.1655,196.86,
+Highland,5401.2695,430.23,
+Na h-Eileanan Siar,2111.5355,50.35,
+Perth and Kinross,6341.6075,246.92,
+Moray,4329.0095,258.33,
+East Renfrewshire,2329.5154999999995,156.21,
+East Lothian,8563.9955,185.31,
+Dumfries and Galloway,3430.2514999999994,266.46,
+Orkney Islands,8563.9955,39.64,
+Perth and Kinross,3938.2835000000005,228.37,
+Highland,8187.6335,483.99,
+Inverclyde,1976.7155,197.31,
+"Edinburgh, City of",1839.1235,403.86,
+Na h-Eileanan Siar,7085.0075,42.94,
+East Dunbartonshire,1974.0695,160.71,
+Aberdeenshire,4895.6314999999995,438.39,
+Orkney Islands,8084.187500000001,40.88,
+Argyll and Bute,6927.6335,159.71,
+Scottish Borders,3220.2095,256.22,
+Orkney Islands,3122.1814999999997,39.12,
+Argyll and Bute,1839.1235,174.74,
+Na h-Eileanan Siar,6413.5535,45.63,
+Highland,8563.9955,449.63,
+Perth and Kinross,1839.1235,313.18,
+Angus,4294.4855,175.71,
+Na h-Eileanan Siar,6222.4115,44.28,
+Dumfries and Galloway,2503.1435,237.47,
+Orkney Islands,8563.9955,41.97,
+Midlothian,8563.9955,138.37,
+Shetland Islands,7124.949500000001,37.78,
+Shetland Islands,5720.8055,34.94,
+Orkney Islands,3666.3755,38.77,
+Na h-Eileanan Siar,5081.9855,46.3,
+Orkney Islands,3871.6295,39.75,
+Shetland Islands,4705.1195,37.78,
+Aberdeenshire,3028.9415,448.53,
+Na h-Eileanan Siar,2117.7095,46.3,
+Aberdeenshire,5057.163500000001,453.54,
+Angus,2954.3495000000003,192.16,
+East Lothian,4411.413500000001,183.77,
+Highland,3064.3475,438.59,
+Orkney Islands,3963.6094999999996,41.01,
+Angus,5220.585499999999,197.33,
+Orkney Islands,7617.861499999999,40.88,
+Shetland Islands,6382.4315,36.03,
+East Lothian,5892.9215,183.16,
+North Ayrshire,1839.1235,311.3,
+"Edinburgh, City of",1839.1235,403.86,
+Na h-Eileanan Siar,6631.2815,44.76,
+Na h-Eileanan Siar,3672.0454999999993,44.87,
+Shetland Islands,3101.36708,38.28,
+Na h-Eileanan Siar,1839.1235,46.42,
+Shetland Islands,5930.8475,34.94,
+"Edinburgh, City of",1020.61464,385.31,
+Fife,1839.1235,387.11,
+Dumfries and Galloway,2206.0355,281.55,
+Highland,8563.9955,449.63,
+Stirling,1920.0155,150.05,
+Dumfries and Galloway,7301.6015,257.44,
+South Lanarkshire,1839.1235,565.17,
+Perth and Kinross,7961.3375,246.92,
+"Edinburgh, City of",2843.3435,434.09,
+Dumfries and Galloway,3082.3655,243.61,
+Aberdeenshire,5348.0975,466.01,
+Orkney Islands,8563.9955,40.88,
+Shetland Islands,5127.4715,36.03,
+Na h-Eileanan Siar,7309.539500000001,44.28,
+Orkney Islands,4071.3395,38.03,
+Highland,5270.6075,457.11,
+Angus,1839.1235,193.82,
+Orkney Islands,3296.9435000000003,40.41,
+Orkney Islands,3622.9055,41.97,
+Moray,4321.3234999999995,275.03,
+Dundee City,1839.1235,298.12,
+Aberdeenshire,8563.9955,466.01,
+Glasgow City,1020.61464,442.3,
+North Lanarkshire,2039.9675,457.04,
+Aberdeenshire,4065.2915000000003,433.55,
+Highland,3371.9134999999997,466.79,
+Orkney Islands,1839.1235,44.0,
+Perth and Kinross,5195.5115,252.02,
+Na h-Eileanan Siar,2112.2915000000003,46.3,
+North Lanarkshire,1839.1235,457.04,
+Shetland Islands,3886.4975000000004,38.18,
+Dumfries and Galloway,1839.8795,315.11,
+Angus,8563.9955,163.47,
+"Edinburgh, City of",7314.8315,362.19,
+Perth and Kinross,4842.7115,261.29,
+South Ayrshire,4268.6555,302.1,
+Aberdeen City,1139.94838,430.37,
+Na h-Eileanan Siar,3087.6575000000003,49.68,
+Glasgow City,1020.61464,496.13,
+Shetland Islands,7441.0835,34.94,
+Shetland Islands,3888.66406,39.08,
+South Lanarkshire,2629.7735000000002,445.6,
+Scottish Borders,6011.9915,239.28,
+Midlothian,3768.5660599999997,159.1,
+Na h-Eileanan Siar,2613.8975,45.14,
+Orkney Islands,8563.9955,39.22,
+East Ayrshire,7188.4535,222.53,
+Glasgow City,1839.1235,442.3,
+Perth and Kinross,4438.6295,246.89,
+East Dunbartonshire,1839.1235,177.35,
+East Lothian,5666.8775000000005,217.16,
+Dumfries and Galloway,1839.1235,264.19,
+Na h-Eileanan Siar,2234.0074999999997,43.15,
+Dumfries and Galloway,8240.8055,280.74,
+Orkney Islands,2731.3295,34.51,
+Shetland Islands,5106.6815,40.52,
+Shetland Islands,4940.395,40.94,
+Argyll and Bute,6985.0895,178.44,
+Na h-Eileanan Siar,2489.2835000000005,62.02,
+Perth and Kinross,9232.4255,239.14,
+Perth and Kinross,9232.4255,232.51,
+Fife,1911.8255,523.2,
+Glasgow City,1836.4775,346.42,
+Angus,7771.7075,172.13,
+Na h-Eileanan Siar,2430.1895000000004,45.39,
+Na h-Eileanan Siar,4861.7375,52.13,
+Shetland Islands,5492.6195,36.68,
+Argyll and Bute,3345.9575000000004,174.47,
+Glasgow City,1836.4775,488.12,
+Stirling,7973.181500000001,173.92,
+Highland,3375.1895000000004,494.74,
+Orkney Islands,9232.4255,36.46,
+Na h-Eileanan Siar,6077.1335,43.15,
+South Ayrshire,2836.6655,201.85,
+Shetland Islands,6532.6235,39.4,
+Dumfries and Galloway,2333.0435,239.64,
+Na h-Eileanan Siar,6800.4995,52.13,
+Dumfries and Galloway,4928.3915,215.32,
+Scottish Borders,5665.1134999999995,208.03,
+Na h-Eileanan Siar,1836.4775,43.15,
+Shetland Islands,3228.1250600000003,40.94,
+Na h-Eileanan Siar,3902.4995,46.35,
+Inverclyde,2365.1735,229.0,
+Shetland Islands,2922.9754999999996,40.02,
+Orkney Islands,2521.5395,34.39,
+Glasgow City,1836.4775,474.58,
+Dumfries and Galloway,1836.4775,312.17,
+Orkney Islands,6942.1235,32.53,
+Orkney Islands,4504.5275,33.45,
+Stirling,3926.5654999999997,163.23,
+Perth and Kinross,9232.4255,261.51,
+Falkirk,1836.4775,250.44,
+Shetland Islands,4160.4215,40.52,
+Perth and Kinross,9232.4255,260.61,
+Na h-Eileanan Siar,9232.4255,51.95,
+Dumfries and Galloway,9232.4255,259.86,
+Glasgow City,1899.6035,364.42,
+Perth and Kinross,9232.4255,260.61,
+Na h-Eileanan Siar,8000.6494999999995,46.35,
+"Edinburgh, City of",1836.4775,477.44,
+East Ayrshire,9225.3695,267.16,
+Highland,9232.4255,425.98,
+Falkirk,4826.5835,266.91,
+Highland,3730.1314999999995,425.98,
+Moray,4932.297500000001,158.08,
+Glasgow City,1836.4775,364.42,
+Perth and Kinross,4266.0095,239.14,
+Dumfries and Galloway,4254.6695,265.8,
+Scottish Borders,9232.4255,235.63,
+Highland,9232.4255,380.05,
+Scottish Borders,5205.5914999999995,219.35,
+Dumfries and Galloway,4221.4055,267.47,
+Aberdeenshire,5647.2215,408.33,
+Highland,1836.4775,561.58,
+Argyll and Bute,7314.5795,206.34,
+South Lanarkshire,3711.8615,454.77,
+Glasgow City,1018.32186,488.12,
+Dumfries and Galloway,9232.4255,246.46,
+Na h-Eileanan Siar,6988.6175,52.13,
+West Dunbartonshire,1836.4775,146.09,
+Shetland Islands,6362.523499999999,51.07,
+Shetland Islands,3750.9214999999995,44.75,
+Glasgow City,2473.0295,499.23,
+"Edinburgh, City of",2132.7034999999996,471.16,
+Scottish Borders,3167.1634999999997,210.81,
+Highland,5737.8155,353.78,
+Dundee City,2448.3334999999997,357.64,
+Orkney Islands,2269.4135,36.46,
+Shetland Islands,4537.413500000001,44.75,
+Angus,1018.32186,258.81,
+Midlothian,3540.1234999999997,120.47,
+East Lothian,4207.1675000000005,179.75,
+Moray,1836.4775,264.61,
+Orkney Islands,4832.505499999999,33.45,
+South Ayrshire,5428.6115,199.51,
+Na h-Eileanan Siar,4736.8715,43.15,
+Angus,4890.8435,187.59,
+Fife,4561.2275,355.01,
+Angus,2201.4995,277.41,
+Moray,6963.6695,168.04,
+Orkney Islands,9232.4255,36.58,
+Orkney Islands,4691.5115,33.04,
+Orkney Islands,5729.1215,34.51,
+Orkney Islands,8115.057500000001,36.46,
+Highland,4429.5575,431.66,
+Perth and Kinross,3284.4695,239.14,
+Angus,2173.2754999999997,246.64,
+Orkney Islands,4359.6275000000005,34.51,
+Orkney Islands,2870.3075,33.45,
+Aberdeenshire,9232.4255,428.88,
+Shetland Islands,4943.88876,47.93,
+Orkney Islands,9232.4255,42.16,
+Angus,3041.6674999999996,217.73,
+Na h-Eileanan Siar,7440.327499999999,46.35,
+Dumfries and Galloway,7337.637500000001,259.86,
+Angus,2385.9635,235.22,
+Scottish Borders,5472.7115,226.46,
+Aberdeenshire,3545.5414999999994,514.82,
+Glasgow City,1836.4775,488.12,
+Stirling,4391.3795,155.16,
+Aberdeenshire,4028.4995,368.14,
+Na h-Eileanan Siar,3251.4575000000004,44.38,
+Argyll and Bute,5061.9515,179.97,
+Orkney Islands,5500.6835,36.46,
+Na h-Eileanan Siar,3996.1175000000003,47.67,
+Aberdeen City,1131.6507000000001,392.62,
+Fife,1836.4775,371.32,
+Na h-Eileanan Siar,7761.7535,45.39,
+Aberdeenshire,4957.875499999999,412.64,
+Orkney Islands,1836.4775,37.22,
+Inverclyde,3200.1755000000003,214.92,
+Na h-Eileanan Siar,6724.0175,47.67,
+Scottish Borders,2656.6115,238.77,
+Orkney Islands,9232.4255,34.51,
+Dundee City,4367.1875,255.9,
+"Edinburgh, City of",8090.235499999999,337.13,
+Shetland Islands,5009.4095,44.16,
+South Ayrshire,2999.4575000000004,209.6,
+Orkney Islands,9232.4255,38.68,
+East Lothian,8812.8455,189.27,
+Argyll and Bute,2917.8095000000003,204.42,
+Perth and Kinross,6390.7474999999995,260.61,
+Argyll and Bute,9232.4255,190.13,
+Aberdeen City,1027.16544,445.95,
+Argyll and Bute,6744.6815,190.13,
+Stirling,1836.4775,229.28,
+Shetland Islands,9232.4255,44.16,
+Shetland Islands,4958.8835,42.94,
+"Edinburgh, City of",1836.4775,432.35,
+Falkirk,3203.1994999999997,232.57,
+West Dunbartonshire,1836.4775,216.0,
+Shetland Islands,5141.2055,39.4,
+Shetland Islands,2343.2495,37.72,
+Na h-Eileanan Siar,9009.0275,50.58,
+Na h-Eileanan Siar,6952.5815,48.76,
+Shetland Islands,6005.817499999999,39.4,
+Orkney Islands,3535.2095,39.2,
+Fife,5415.7595,386.88,
+Orkney Islands,7251.9575,35.5,
+Na h-Eileanan Siar,8036.181500000001,47.67,
+Scottish Borders,7292.2775,210.22,
+Shetland Islands,2610.4955,40.02,
+Angus,4029.6335,178.14,
+Aberdeenshire,9232.4255,443.27,
+Dundee City,2575.4674999999997,276.3,
+Shetland Islands,8229.7175,43.62,
+Orkney Islands,3075.1835,36.94,
+Shetland Islands,6524.4335,39.4,
+West Lothian,1836.4775,316.88,
+Na h-Eileanan Siar,5511.0154999999995,47.67,
+Argyll and Bute,8487.1355,176.99,
+Na h-Eileanan Siar,6594.9935000000005,45.78,
+Highland,9078.3275,400.72,
+Midlothian,1943.9555,177.85,
+Orkney Islands,3396.1054999999997,36.94,
+Dumfries and Galloway,3356.0375000000004,246.46,
+Highland,2526.5795,439.48,
+North Ayrshire,3133.3954999999996,218.03,
+Orkney Islands,8257.815499999999,34.22,
+Falkirk,3017.9795000000004,281.69,
+Dumfries and Galloway,6438.7535,243.88,
+Highland,5510.6375,396.54,
+Glasgow City,3462.1295,531.94,
+Highland,4797.9815,425.98,
+Glasgow City,2180.2055,488.12,
+Shetland Islands,4151.2235,39.4,
+Moray,1836.4775,171.58,
+Argyll and Bute,4107.123500000001,184.87,
+Orkney Islands,8431.191499999999,36.46,
+Shetland Islands,4259.835499999999,40.52,
+West Dunbartonshire,1461.81102,200.14,
+"Edinburgh, City of",1032.40608,348.51,
+South Lanarkshire,1836.4775,546.75,
+Highland,9232.4255,427.45,
+Shetland Islands,3417.2735000000002,36.68,
+Dumfries and Galloway,8368.191499999999,259.86,
+Highland,2693.0254999999997,390.89,
+Moray,6360.5075,177.18,
+Highland,3514.6714999999995,414.2,
+Aberdeenshire,6930.405500000001,443.27,
+Orkney Islands,5164.389499999999,39.74,
+Scottish Borders,2086.8395,242.59,
+Angus,6144.4175,175.22,
+Orkney Islands,4229.0914999999995,38.68,
+South Ayrshire,2237.7875000000004,280.74,
+Shetland Islands,7199.6675,44.16,
+South Ayrshire,3944.0795,181.37,
+Shetland Islands,3327.8135,38.58,
+Glasgow City,1836.4775,533.78,
+Dumfries and Galloway,9232.4255,259.86,
+Orkney Islands,1836.4775,33.71,
+Orkney Islands,4769.8835,34.22,
+Argyll and Bute,3994.731500000001,192.23,
+Dumfries and Galloway,3156.7055,263.32,
+Shetland Islands,9232.4255,44.31,
+Moray,2105.3615,167.14,
+Argyll and Bute,2229.0935,247.35,
+Orkney Islands,5211.3875,35.5,
+Dundee City,2130.4293399999997,339.97,
+East Ayrshire,6634.0535,233.41,
+Orkney Islands,4877.3615,36.46,
+Dumfries and Galloway,2094.5254999999997,268.61,
+Angus,1018.32186,253.68,
+Orkney Islands,1836.4775,34.39,
+Orkney Islands,4485.7535,36.46,
+Aberdeenshire,1836.4775,529.18,
+Angus,2419.3535,253.68,
+"Edinburgh, City of",1042.55982,306.84,
+Aberdeenshire,5503.9595,399.24,
+Shetland Islands,5632.7315,41.94,
+Argyll and Bute,9232.4255,190.13,
+Dundee City,2457.6575000000003,381.07,
+Na h-Eileanan Siar,8929.395499999999,46.35,
+"Edinburgh, City of",1836.4775,432.35,
+South Lanarkshire,3139.1915,425.34,
+Orkney Islands,6304.9415,36.46,
+East Lothian,2341.9895,169.82,
+Shetland Islands,5095.2155,44.16,
+Na h-Eileanan Siar,2764.3415000000005,45.78,
+East Lothian,7414.7495,189.27,
+Angus,7013.187500000001,172.13,
+Na h-Eileanan Siar,5699.7635,52.13,
+Argyll and Bute,4146.3095,196.15,
+East Lothian,1443.9054999999998,255.96,
+Orkney Islands,4528.5935,36.94,
+Orkney Islands,5678.4695,36.46,
+"Edinburgh, City of",9232.4255,304.68,
+Na h-Eileanan Siar,3666.8795,48.76,
+Orkney Islands,5317.4794999999995,36.94,
+Perth and Kinross,7812.0275,242.6,
+Na h-Eileanan Siar,3845.2954999999993,53.6,
+Na h-Eileanan Siar,9232.4255,48.76,
+Glasgow City,3475.3594999999996,474.58,
+Fife,9232.4255,345.16,
+Na h-Eileanan Siar,3351.7535,43.15,
+Orkney Islands,8926.4975,36.46,
+Shetland Islands,2912.0135,40.02,
+Glasgow City,2404.47114,499.23,
+Aberdeenshire,9232.4255,467.38,
+Stirling,3834.0815000000002,167.47,
+Na h-Eileanan Siar,5116.6355,46.35,
+Midlothian,3602.9975000000004,132.91,
+Midlothian,1836.4775,186.48,
+Angus,5122.3055,176.05,
+Moray,6589.4495,164.94,
+South Ayrshire,5232.4295,193.25,
+"Edinburgh, City of",1836.4775,420.35,
+Na h-Eileanan Siar,5622.903499999999,46.35,
+Na h-Eileanan Siar,5535.0815,46.35,
+Dumfries and Galloway,6095.907499999999,231.3,
+Glasgow City,1954.6654999999998,364.42,
+East Lothian,1836.4775,196.06,
+Glasgow City,1843.9115,364.42,
+Argyll and Bute,2484.6215,179.35,
+Angus,5550.4535,176.05,
+Argyll and Bute,3302.9915,184.87,
+South Lanarkshire,7215.4175,415.83,
+Moray,9232.4255,168.04,
+Perth and Kinross,4727.4215,242.6,
+Dumfries and Galloway,3945.5915000000005,245.13,
+Angus,2761.4435000000003,206.62,
+Highland,4781.3495,390.89,
+Dumfries and Galloway,3740.4635,283.22,
+Na h-Eileanan Siar,2778.9574999999995,50.52,
+Orkney Islands,6089.733499999999,36.46,
+Na h-Eileanan Siar,4932.5495,50.58,
+Orkney Islands,1836.4775,40.26,
+Inverclyde,1018.32186,153.39,
+South Lanarkshire,1018.32186,399.11,
+Shetland Islands,5444.3615,51.07,
+Aberdeenshire,7424.0735,467.38,
+Moray,2896.5154999999995,170.28,
+Argyll and Bute,7163.1275000000005,178.44,
+Aberdeenshire,7872.885499999999,408.33,
+Shetland Islands,3957.1835,40.52,
+South Ayrshire,4660.2635,201.85,
+Shetland Islands,3561.9214999999995,40.52,
+Highland,4353.4535000000005,425.98,
+"Edinburgh, City of",1836.4775,477.44,
+Falkirk,3236.3374999999996,287.42,
+South Lanarkshire,1018.32186,418.79,
+Shetland Islands,3669.7775,40.52,
+Angus,5121.5495,204.45,
+East Renfrewshire,1018.32186,141.71,
+Orkney Islands,4520.6555,34.22,
+Stirling,2004.4354999999998,191.45,
+Dumfries and Galloway,4121.1095,268.61,
+West Dunbartonshire,1018.32186,200.14,
+Aberdeenshire,9232.4255,467.38,
+Na h-Eileanan Siar,6290.3255,51.95,
+Shetland Islands,4650.9394999999995,42.94,
+Dumfries and Galloway,7272.621499999999,294.38,
+Orkney Islands,4530.231500000001,39.2,
+Na h-Eileanan Siar,7166.0255,52.13,
+North Ayrshire,5833.5755,195.9,
+Orkney Islands,9232.4255,36.46,
+West Lothian,6446.5655,200.16,
+Scottish Borders,3441.4655000000002,273.03,
+Glasgow City,1951.8935,488.12,
+Shetland Islands,5141.9615,38.58,
+Shetland Islands,4083.6875,40.52,
+North Ayrshire,5267.0795,195.9,
+Argyll and Bute,5558.6435,178.44,
+Highland,8230.8515,399.79,
+Highland,7339.779500000001,390.89,
+Perth and Kinross,5785.317499999999,239.14,
+Fife,2153.2415,390.61,
+South Lanarkshire,1889.7755,399.11,
+South Ayrshire,9232.4255,235.17,
+Na h-Eileanan Siar,6610.617499999999,47.67,
+Perth and Kinross,4267.1435,239.14,
+Na h-Eileanan Siar,7146.7475,48.76,
+Na h-Eileanan Siar,7456.4555,48.76,
+South Lanarkshire,1969.6595,370.62,
+Orkney Islands,8512.461500000001,36.46,
+Dumfries and Galloway,7038.2615,246.46,
+West Dunbartonshire,7918.371499999999,173.03,
+West Lothian,7187.8235,253.15,
+Na h-Eileanan Siar,4504.9055,52.64,
+Na h-Eileanan Siar,3891.2855,48.76,
+Glasgow City,1836.4775,346.42,
+South Lanarkshire,4358.3675,381.58,
+Shetland Islands,9232.4255,44.75,
+Fife,3331.8454999999994,365.16,
+Na h-Eileanan Siar,7029.9455,51.95,
+Argyll and Bute,5210.8835,201.73,
+Orkney Islands,2352.6995,31.14,
+Highland,4712.1755,425.98,
+Na h-Eileanan Siar,5320.2515,47.67,
+Shetland Islands,3798.1715000000004,44.75,
+Highland,9232.4255,412.15,
+Perth and Kinross,9232.4255,247.17,
+Orkney Islands,2871.3154999999997,36.46,
+Angus,5074.8035,178.14,
+Na h-Eileanan Siar,6607.4675,52.13,
+Dundee City,5477.3735,381.07,
+South Lanarkshire,5887.5035,367.13,
+Shetland Islands,5175.3515,39.4,
+Highland,6757.7855,458.0,
+Na h-Eileanan Siar,4323.8435,47.67,
+Stirling,9232.4255,173.92,
+Highland,5846.4275,431.66,
+Shetland Islands,8247.3575,39.4,
+South Ayrshire,5450.913500000001,183.91,
+South Lanarkshire,8359.7495,394.38,
+Aberdeenshire,6744.6815,469.0,
+Shetland Islands,7428.861499999999,41.45,
+Shetland Islands,2755.2695000000003,42.08,
+Na h-Eileanan Siar,4990.6355,52.64,
+South Ayrshire,4901.5535,207.59,
+Angus,6464.2055,172.13,
+Shetland Islands,4282.8935,40.52,
+Na h-Eileanan Siar,9172.1975,46.35,
+Na h-Eileanan Siar,5308.1555,46.35,
+Dumfries and Galloway,6257.817499999999,259.86,
+North Lanarkshire,1988.0555,463.64,
+Orkney Islands,4615.1555,36.46,
+Aberdeenshire,9232.4255,414.06,
+Orkney Islands,4470.7595,35.5,
+"Edinburgh, City of",2695.1675,471.16,
+Na h-Eileanan Siar,5356.7915,46.35,
+West Dunbartonshire,9232.4255,152.74,
+Orkney Islands,3689.0555000000004,36.49,
+Glasgow City,5914.0895,381.94,
+Angus,2611.1255,276.46,
+Shetland Islands,9232.4255,39.4,
+Dumfries and Galloway,5267.7095,227.03,
+Highland,6757.029500000001,394.87,
+South Lanarkshire,3278.2955,355.21,
+East Lothian,4389.3634999999995,206.29,
+Angus,9232.4255,199.44,
+Na h-Eileanan Siar,7187.193499999999,45.78,
+Inverclyde,1018.32186,149.14,
+Argyll and Bute,2858.7155000000002,162.41,
+South Lanarkshire,1651.78422,381.58,
+Na h-Eileanan Siar,4555.1795,52.64,
+Shetland Islands,3788.7214999999997,42.94,
+North Ayrshire,9232.4255,236.43,
+Orkney Islands,5025.0335,35.5,
+East Lothian,3094.8395,189.29,
+Angus,3509.1275000000005,276.46,
+Orkney Islands,3723.7055,33.04,
+Na h-Eileanan Siar,6043.9955,56.38,
+Dundee City,2293.6054999999997,357.64,
+Glasgow City,1836.4775,364.42,
+"Edinburgh, City of",2412.4235,420.35,
+West Dunbartonshire,3879.9455,161.26,
+Shetland Islands,3904.0115000000005,51.24,
+Dumfries and Galloway,4852.539499999999,246.46,
+Perth and Kinross,7585.7315,247.17,
+East Dunbartonshire,1018.32186,199.88,
+"Edinburgh, City of",2548.1255,352.15,
+Argyll and Bute,9232.4255,190.13,
+Dumfries and Galloway,5820.9755,238.45,
+Aberdeen City,4842.7115,440.08,
+"Edinburgh, City of",2506.5455,345.12,
+Highland,2908.1075,491.21,
+Clackmannanshire,3257.3795,90.56,
+Na h-Eileanan Siar,5217.309499999999,47.67,
+Perth and Kinross,8540.937500000002,247.17,
+South Lanarkshire,3438.9455,458.04,
+Dundee City,3057.2915000000003,299.61,
+Na h-Eileanan Siar,3098.9975000000004,47.09,
+Dumfries and Galloway,4250.1335,230.22,
+Orkney Islands,4416.8315,32.53,
+Orkney Islands,2504.9075000000003,33.8,
+Highland,4311.9995,380.05,
+Aberdeenshire,9232.4255,435.08,
+Dumfries and Galloway,5543.9015,231.3,
+Glasgow City,1836.4775,488.12,
+Stirling,9232.4255,173.92,
+Orkney Islands,3469.3115,36.46,
+Na h-Eileanan Siar,4564.8815,45.39,
+Orkney Islands,4270.2935,36.3,
+Orkney Islands,3745.1255,36.94,
+Na h-Eileanan Siar,8507.0435,46.35,
+Moray,3790.2335000000003,162.59,
+Highland,4534.5155,372.16,
+Perth and Kinross,3776.4995,269.38,
+Stirling,2641.7435000000005,197.04,
+Na h-Eileanan Siar,2652.0755,52.64,
+East Lothian,1581.7998400000001,204.5,
+Argyll and Bute,3814.0474999999997,166.11,
+Stirling,9232.4255,164.95,
+"Edinburgh, City of",1836.4775,432.35,
+Perth and Kinross,9232.4255,260.61,
+Dumfries and Galloway,6019.5515,246.46,
+Na h-Eileanan Siar,6881.2654999999995,52.13,
+Aberdeen City,1018.32186,392.62,
+Renfrewshire,1882.2155,654.95,
+Argyll and Bute,2264.1215,161.09,
+Na h-Eileanan Siar,9232.4255,51.95,
+Shetland Islands,5886.7474999999995,36.68,
+Highland,9232.4255,427.45,
+West Lothian,6025.4735,289.3,
+Na h-Eileanan Siar,4932.4235,55.31,
+South Ayrshire,2845.3594999999996,181.37,
+Aberdeenshire,1521.86002,461.39,
+South Lanarkshire,9232.4255,381.58,
+Shetland Islands,5195.1335,36.68,
+Perth and Kinross,2106.3695,339.05,
+Orkney Islands,4320.4415,39.2,
+Na h-Eileanan Siar,9232.4255,51.95,
+Highland,9232.4255,449.15,
+Aberdeenshire,9232.4255,467.38,
+Shetland Islands,5024.9075,43.0,
+Highland,6022.0715,412.15,
+Orkney Islands,7437.681500000001,34.22,
+Na h-Eileanan Siar,3431.7635,45.78,
+West Lothian,7874.9015,234.32,
+Dumfries and Galloway,3319.8755,227.03,
+Scottish Borders,9232.4255,223.48,
+Aberdeen City,1018.32186,392.62,
+Highland,9232.4255,412.15,
+Shetland Islands,6472.017499999999,39.4,
+Dumfries and Galloway,7335.7474999999995,259.86,
+Orkney Islands,2390.6255,34.39,
+North Ayrshire,6814.737499999999,209.46,
+South Ayrshire,1836.4775,280.74,
+Shetland Islands,3892.0415000000003,38.58,
+Dumfries and Galloway,2529.8554999999997,287.16,
+Glasgow City,2210.3194999999996,346.42,
+Shetland Islands,6268.9055,36.68,
+Dumfries and Galloway,7168.0415,246.46,
+Shetland Islands,1532.2321200000001,45.09,
+Argyll and Bute,4027.4915,162.41,
+Shetland Islands,4758.6695,44.16,
+Dumfries and Galloway,5219.3255,238.45,
+North Lanarkshire,1890.9095,621.01,
+Highland,4358.7455,414.2,
+Aberdeenshire,2062.3954999999996,449.77,
+Orkney Islands,4102.2095,36.46,
+Argyll and Bute,3098.3675000000003,262.44,
+Na h-Eileanan Siar,4329.3875,46.35,
+"Edinburgh, City of",4498.4794999999995,471.16,
+Highland,2178.3154999999997,409.93,
+Na h-Eileanan Siar,5454.9455,52.64,
+Falkirk,6450.7235,260.94,
+South Lanarkshire,9232.4255,415.83,
+Shetland Islands,6002.9195,44.16,
+Orkney Islands,1857.5195,44.9,
+Scottish Borders,4254.4175000000005,210.22,
+Na h-Eileanan Siar,4446.1894999999995,51.95,
+Dundee City,1633.55116,339.97,
+Argyll and Bute,8235.7655,207.22,
+East Dunbartonshire,1836.4775,236.31,
+Orkney Islands,2289.0694999999996,42.72,
+Moray,2446.8215,167.14,
+Inverclyde,2492.6855,214.92,
+Argyll and Bute,9232.4255,190.13,
+Argyll and Bute,1836.4775,232.14,
+"Edinburgh, City of",1836.4775,477.44,
+Perth and Kinross,2713.5635,253.4,
+Na h-Eileanan Siar,7172.7035,46.35,
+Argyll and Bute,4490.9195,166.11,
+Highland,3685.6535000000003,452.02,
+Argyll and Bute,9232.4255,186.61,
+Perth and Kinross,1414.5360799999999,342.66,
+Dundee City,2646.4055,292.94,
+Argyll and Bute,5292.2795,196.15,
+Aberdeenshire,7010.9195,395.47,
+Shetland Islands,4479.9575,38.91,
+Shetland Islands,3383.6314999999995,42.94,
+Argyll and Bute,2060.3795,244.77,
+Argyll and Bute,4115.8175,192.66,
+Moray,9232.4255,168.04,
+"Edinburgh, City of",1882.3723799999998,352.15,
+Orkney Islands,4451.733499999999,33.45,
+Na h-Eileanan Siar,4267.6475,45.39,
+Shetland Islands,3476.4935000000005,40.52,
+Angus,9232.4255,187.59,
+Glasgow City,3443.6075,346.42,
+Perth and Kinross,2519.5235000000002,215.39,
+Na h-Eileanan Siar,2975.6435,52.0,
+Na h-Eileanan Siar,5599.7195,52.64,
+North Lanarkshire,1950.2555,605.74,
+"Edinburgh, City of",1836.4775,442.19,
+Falkirk,9232.4255,295.6,
+Orkney Islands,2774.5474999999997,33.45,
+South Lanarkshire,4713.4355,575.16,
+Shetland Islands,4195.8275,40.52,
+North Ayrshire,9232.4255,212.95,
+Dundee City,2192.3015000000005,339.97,
+Angus,7435.6655,263.65,
+Aberdeenshire,5421.1775,368.14,
+Aberdeenshire,6447.6995,428.88,
+"Edinburgh, City of",2376.1355,471.16,
+Highland,5420.925499999999,372.16,
+East Lothian,3501.1895000000004,176.8,
+Orkney Islands,6391.3775,36.46,
+Orkney Islands,8783.9915,36.46,
+South Lanarkshire,1836.4775,562.35,
+Dumfries and Galloway,2629.1435,263.32,
+Shetland Islands,3566.9615000000003,40.52,
+Shetland Islands,9232.4255,44.16,
+Angus,2332.1615,185.18,
+Orkney Islands,5295.0515,36.94,
+Perth and Kinross,4240.6835,285.82,
+Glasgow City,1836.4775,393.47,
+Aberdeen City,2588.1935000000003,463.46,
+"Edinburgh, City of",1853.2355,471.16,
+Aberdeenshire,3497.5355,473.61,
+Perth and Kinross,4366.1795,264.08,
+Fife,9232.4255,386.88,
+Orkney Islands,3498.5434999999998,32.53,
+Glasgow City,1018.32186,364.42,
+Dumfries and Galloway,8270.541500000001,226.15,
+Shetland Islands,3773.3495000000003,37.72,
+"Edinburgh, City of",1836.4775,471.16,
+Na h-Eileanan Siar,5388.9215,46.35,
+Orkney Islands,4008.2135,37.61,
+South Ayrshire,1836.4775,204.93,
+Orkney Islands,7199.5415,32.53,
+"Edinburgh, City of",1847.8174999999999,432.35,
+Scottish Borders,2002.6715000000002,205.34,
+Orkney Islands,4188.0155,33.45,
+Shetland Islands,4864.1314999999995,48.13,
+Na h-Eileanan Siar,3568.2214999999997,46.35,
+Na h-Eileanan Siar,3665.2415,51.95,
+Shetland Islands,3889.8994999999995,39.7,
+Orkney Islands,5486.193499999999,36.46,
+North Ayrshire,1836.4775,233.4,
+Orkney Islands,2612.3855000000003,34.39,
+South Ayrshire,3427.8575,207.59,
+Shetland Islands,5245.4075,44.16,
+Angus,3486.3215,172.13,
+Orkney Islands,5345.0734999999995,36.58,
+West Lothian,2112.2915000000003,316.88,
+Dumfries and Galloway,6498.3515,241.9,
+"Edinburgh, City of",1836.4775,471.16,
+Stirling,2269.3063,159.59,
+Scottish Borders,1929.0874999999999,309.82,
+Scottish Borders,9232.4255,235.63,
+Dumfries and Galloway,3802.5815000000002,226.15,
+Orkney Islands,4422.7535,36.46,
+Glasgow City,2436.3635000000004,346.42,
+West Dunbartonshire,1018.32186,161.26,
+Shetland Islands,5718.4115,43.0,
+Na h-Eileanan Siar,1926.91782,45.78,
+Shetland Islands,1836.4775,42.5,
+Highland,5202.693499999999,425.98,
+Shetland Islands,1836.4775,45.09,
+North Lanarkshire,2121.4895,469.71,
+Highland,7477.7495,392.4,
+Inverclyde,1018.32186,204.31,
+Angus,6633.4235,174.62,
+Stirling,4795.335499999999,159.59,
+Na h-Eileanan Siar,3305.8895,51.95,
+Glasgow City,3069.7654999999995,393.47,
+Falkirk,3125.0795,227.97,
+Angus,3217.6895000000004,206.62,
+Aberdeenshire,9232.4255,438.65,
+Orkney Islands,4547.1155,32.53,
+East Lothian,5088.0335,156.83,
+Dundee City,1836.4775,349.67,
+Highland,9232.4255,425.98,
+East Lothian,9232.4255,204.48,
+Stirling,4973.1215,155.16,
+South Lanarkshire,3584.9795000000004,573.71,
+Shetland Islands,4955.4815,39.4,
+Shetland Islands,7269.471500000001,39.4,
+"Edinburgh, City of",1924.5515,432.35,
+Dumfries and Galloway,2806.5515000000005,263.32,
+Inverclyde,1836.4775,149.14,
+Na h-Eileanan Siar,5071.653499999999,46.35,
+Highland,2494.1975,372.16,
+Orkney Islands,7100.5055,36.46,
+Scottish Borders,9232.4255,235.63,
+Moray,3465.5315,158.08,
+Glasgow City,1836.4775,488.12,
+Moray,6582.267499999999,231.96,
+Na h-Eileanan Siar,2597.6435,43.15,
+Stirling,7617.1055,173.92,
+Shetland Islands,3823.3715,44.16,
+Shetland Islands,4873.3295,44.75,
+Moray,2781.9815,139.56,
+Argyll and Bute,9232.4255,207.22,
+Na h-Eileanan Siar,4038.9575000000004,48.36,
+Renfrewshire,2341.6115,636.78,
+Shetland Islands,5916.1055,39.4,
+West Lothian,2939.8594999999996,258.1,
+"Edinburgh, City of",3494.5114999999996,471.16,
+Shetland Islands,2047.4015000000002,40.83,
+Argyll and Bute,1838.8715,190.29,
+Angus,4310.2355,190.09,
+East Dunbartonshire,4631.5355,191.29,
+Argyll and Bute,3019.9955,184.87,
+Dundee City,2810.2055,381.07,
+Falkirk,1836.4775,343.09,
+Fife,2598.7775,390.61,
+Glasgow City,1836.4775,488.12,
+Argyll and Bute,4015.8994999999995,190.13,
+Orkney Islands,9232.4255,39.74,
+Highland,5554.233499999999,400.72,
+Na h-Eileanan Siar,6530.4815,48.76,
+Glasgow City,1892.4215,488.12,
+Orkney Islands,7291.773499999999,36.46,
+Angus,9050.7335,187.59,
+Shetland Islands,2615.4094999999998,44.65,
+West Lothian,4515.1115,271.51,
+"Edinburgh, City of",6959.637500000001,322.78,
+Orkney Islands,9232.4255,36.46,
+Falkirk,1018.32186,343.09,
+Highland,6058.6115,390.89,
+Highland,6425.6495,372.16,
+Stirling,5039.1455,159.59,
+Orkney Islands,4436.4875,39.57,
+East Ayrshire,1836.4775,238.11,
+Fife,4352.4455,360.14,
+Shetland Islands,3740.5895,44.75,
+Argyll and Bute,8200.9895,190.13,
+Orkney Islands,4031.9015,36.94,
+Glasgow City,2269.63384,451.57,
+South Lanarkshire,3420.6755000000003,355.21,
+Highland,4278.8615,400.72,
+Stirling,2675.2595,151.95,
+Dumfries and Galloway,9232.4255,247.31,
+Highland,2641.4915,508.86,
+Orkney Islands,1981.1254999999999,38.69,
+Orkney Islands,7539.7415,36.94,
+Highland,8192.4215,403.23,
+Orkney Islands,2735.4875,34.62,
+Orkney Islands,3891.1594999999998,36.94,
+Orkney Islands,6977.1515,32.53,
+South Ayrshire,2731.0775000000003,177.33,
+Argyll and Bute,5274.5135,207.22,
+Shetland Islands,8168.8595000000005,43.0,
+Perth and Kinross,3566.3315000000002,287.06,
+Orkney Islands,2298.3935,36.49,
+Orkney Islands,9232.4255,36.46,
+Dumfries and Galloway,6675.885499999999,229.42,
+Aberdeenshire,2500.8755,473.61,
+Shetland Islands,3700.7735000000002,40.52,
+"Edinburgh, City of",2135.6014999999998,420.35,
+Shetland Islands,7936.5154999999995,36.68,
+Angus,3366.8734999999997,165.61,
+Dundee City,4189.4015,273.61,
+Shetland Islands,4501.2515,43.77,
+Moray,6505.029500000001,158.08,
+Perth and Kinross,4586.9315,239.14,
+Perth and Kinross,9232.4255,260.61,
+South Ayrshire,2536.4075000000003,185.02,
+South Lanarkshire,2220.0215,448.9,
+Moray,9232.4255,193.11,
+Perth and Kinross,2506.7974999999997,284.03,
+South Ayrshire,4559.3375,193.91,
+Stirling,4416.7055,179.77,
+Shetland Islands,6033.4115,41.8,
+South Lanarkshire,1836.4775,345.35,
+Na h-Eileanan Siar,9232.4255,55.12,
+Orkney Islands,5691.6995,36.46,
+Na h-Eileanan Siar,3313.9534999999996,45.78,
+Glasgow City,1836.4775,346.42,
+Orkney Islands,2991.1414999999997,36.94,
+Na h-Eileanan Siar,5748.3994999999995,47.67,
+"Edinburgh, City of",1836.4775,471.16,
+Glasgow City,1435.06192,474.58,
+Highland,2254.1675,670.77,
+North Ayrshire,3205.8454999999994,224.53,
+Shetland Islands,3252.2135,41.11,
+Falkirk,2202.3815000000004,232.57,
+East Ayrshire,8032.4015,268.09,
+Na h-Eileanan Siar,3291.5254999999997,47.67,
+Moray,9232.4255,177.18,
+Orkney Islands,3140.8295,31.14,
+Shetland Islands,9232.4255,39.4,
+Highland,3463.5154999999995,494.74,
+Orkney Islands,4810.7075,37.61,
+Orkney Islands,4761.567499999999,34.22,
+Scottish Borders,4220.3975,241.02,
+East Renfrewshire,2423.7635,141.71,
+South Lanarkshire,3745.6295,546.75,
+West Lothian,2390.8774999999996,231.31,
+Orkney Islands,4213.0895,34.51,
+Argyll and Bute,6383.5655,174.47,
+Fife,1836.4775,498.97,
+Aberdeenshire,6598.1435,449.18,
+Fife,6381.2975,416.2,
+"Edinburgh, City of",1303.71838,471.16,
+Glasgow City,2028.3754999999999,488.12,
+East Lothian,4441.4424,189.27,
+Argyll and Bute,1836.4775,182.96,
+Argyll and Bute,7808.7515,207.22,
+Perth and Kinross,6967.5755,247.17,
+Orkney Islands,4074.8675000000003,34.22,
+Na h-Eileanan Siar,2914.5335000000005,53.6,
+Stirling,2157.3995,151.95,
+Scottish Borders,6374.367499999999,205.07,
+Argyll and Bute,2447.8295,234.14,
+Shetland Islands,4268.0255,39.4,
+Aberdeenshire,3960.7115000000003,454.46,
+Fife,4910.8775000000005,345.16,
+South Lanarkshire,2158.1555,370.62,
+Glasgow City,3307.4015,346.42,
+East Lothian,2215.7375,233.68,
+Dundee City,2905.4615000000003,323.49,
+Orkney Islands,8601.5435,36.74,
+Orkney Islands,3494.7635,36.46,
+Aberdeenshire,9232.4255,443.27,
+"Edinburgh, City of",3402.9094999999998,306.84,
+Shetland Islands,7840.7555,39.36,
+Scottish Borders,5897.2055,216.22,
+Falkirk,7385.0135,260.94,
+Argyll and Bute,1836.4775,265.94,
+South Ayrshire,3219.3275000000003,203.12,
+Moray,5081.6075,156.97,
+Moray,3998.5114999999996,172.28,
+Fife,3981.1235000000006,374.37,
+Na h-Eileanan Siar,7262.7935,48.76,
+Orkney Islands,3518.0735000000004,36.58,
+Orkney Islands,7107.687500000001,35.45,
+Dumfries and Galloway,9232.4255,229.42,
+South East,3658.9233270526565,,1327.0
+East Midlands,3352.658639752716,,4530.0
+London,2275.2342860621957,,1290.0
+Yorkshire and the Humber,4214.073764164833,,1325.0
+South East,1816.1867026976395,,1587.0
+North West,1779.9595764331211,,493.0
+West Midlands,1891.6975184940604,,1031.0
+West Midlands,1725.009969838891,,638.0
+Yorkshire and the Humber,3348.3285832302927,,571.0
+East,1710.5586970454183,,458.0
+South East,1825.318062757587,,493.0
+North West,1881.2599166822372,,373.0
+East Midlands,3088.5206867174356,,1092.0
+London,1926.2210976020979,,1185.0
+East Midlands,2247.0806704758334,,692.0
+East Midlands,1924.5822440989134,,635.0
+London,2128.979546459348,,5200.0
+Yorkshire and the Humber,2676.711880666917,,851.0
+South West,4912.949855024922,,2882.0
+London,2247.9805206069686,,1334.0
+Yorkshire and the Humber,1895.0243947171225,,1137.0
+West Midlands,1725.6586022855001,,2264.0
+South West,2399.0421167103787,,1467.0
+North West,1796.5131170850505,,2864.0
+East,2336.880932746347,,652.0
+East,1993.1315134881977,,479.0
+North West,2120.947549456725,,1321.0
+East Midlands,2030.403975084301,,1387.0
+East,2712.9955819521774,,1802.0
+Yorkshire and the Humber,4033.089611392642,,1407.0
+North West,2680.428366242038,,2453.0
+East,4899.003869489182,,2442.0
+South West,1526.3808203446983,,635.0
+South West,1578.9057735106783,,540.0
+South East,2076.0368338328963,,924.0
+South East,2095.421809479206,,858.0
+South West,1905.2725775571375,,1851.0
+Yorkshire and the Humber,2630.989563654053,,1455.0
+North East,2417.829377856875,,457.0
+North West,2436.2279915698764,,1811.0
+South East,2780.9077592731355,,680.0
+London,1933.8327198838015,,708.0
+East,1682.351933121019,,674.0
+North West,1905.601314911952,,2920.0
+East,1440.9800335331583,,621.0
+South East,5535.412022767969,,1359.0
+East,2645.019528682059,,2931.0
+South West,1589.9958446983887,,1429.0
+East,1498.6661706631696,,1176.0
+East,3586.1914120744195,,1112.0
+South West,2278.7679690895466,,545.0
+North West,2751.001277444736,,2123.0
+West Midlands,1610.666208130386,,821.0
+East,2492.5819068939672,,2496.0
+Yorkshire and the Humber,2975.3487621205077,,2825.0
+South West,4159.177198767921,,3029.0
+North East,1719.310194642188,,1519.0
+London,2445.675897332063,,2811.0
+West Midlands,1960.0441399400524,,1259.0
+North East,1792.158096624502,,683.0
+South West,4469.591048894718,,1461.0
+London,2093.4055861745974,,941.0
+South East,2235.5658709254403,,915.0
+South West,3524.28515973113,,3377.0
+London,1422.12668021731,,4128.0
+South East,2075.9055819934883,,489.0
+Yorkshire and the Humber,1932.3621810740613,,385.0
+East,3065.484349531748,,1129.0
+East,1658.3925378213867,,918.0
+East,2336.642215661985,,1612.0
+London,1686.601951854627,,5310.0
+East,1620.3336865867366,,606.0
+North East,5306.050481951352,,1323.0
+North East,2941.636408999444,,797.0
+South West,3038.8705243445347,,3481.0
+Yorkshire and the Humber,3126.3150215423066,,1899.0
+East Midlands,3364.3530160798045,,1023.0
+London,2261.4061211532685,,2539.0
+West Midlands,2048.587912865388,,636.0
+East,3200.7859254662144,,1035.0
+South West,1705.9176131509928,,1011.0
+London,2724.614128699888,,5212.0
+South East,2382.85090509605,,451.0
+Yorkshire and the Humber,2479.6820567628324,,408.0
+Yorkshire and the Humber,5232.383535178188,,1471.0
+South West,1651.3766516569465,,2326.0
+London,2359.259903089175,,2159.0
+East,1782.8622740726862,,465.0
+East,1626.5959407024766,,3201.0
+London,1503.8923602472837,,773.0
+East,2375.4647094417387,,729.0
+East,4539.300476260813,,1878.0
+London,2595.1627611464974,,2628.0
+East Midlands,2263.590674222555,,2234.0
+East,2509.014615773698,,1788.0
+East,1872.1941586736607,,905.0
+South East,1943.1827311727238,,594.0
+South East,1317.2584149494191,,1221.0
+South East,1827.211018920944,,2853.0
+East,3413.8838288971638,,1094.0
+West Midlands,1748.7774482952416,,985.0
+South East,1866.9155899213188,,648.0
+North East,2997.554152726514,,325.0
+South East,4058.1503405781405,,1589.0
+South West,1674.739868677407,,855.0
+East Midlands,3664.145876910893,,3855.0
+East,4371.781289014939,,1792.0
+London,1920.1976418525353,,7186.0
+South East,1829.7659833270886,,2905.0
+East Midlands,1977.776511614837,,3633.0
+East Midlands,2618.8458788530866,,5327.0
+Yorkshire and the Humber,1959.1979053952791,,403.0
+South West,3647.907451632368,,1659.0
+West Midlands,1686.266620269764,,4016.0
+South East,2216.6431283252155,,494.0
+North West,2179.2886884600975,,1003.0
+South East,1833.034585799925,,727.0
+North West,4868.200851197856,,2501.0
+South East,2101.924352020884,,679.0
+South East,3069.241929374297,,798.0
+East,4547.933983389384,,891.0
+South West,6161.406124128645,,3094.0
+North West,2916.210115808907,,2507.0
+North West,8354.162733017532,,2979.0
+South West,3344.511219472036,,1284.0
+East,1982.8028136005994,,2448.0
+East Midlands,3387.983966614387,,572.0
+East,2848.300003559385,,2450.0
+South East,3463.707796740352,,437.0
+South West,2259.241704571001,,2625.0
+South West,2375.557066129637,,836.0
+East Midlands,3518.9847856302895,,19798.0
+East,2308.537845447733,,2104.0
+London,2214.520072718019,,3375.0
+South West,4522.974532663751,,3694.0
+North West,2406.123046700638,,465.0
+London,2171.9290905124835,,3173.0
+London,2426.7454138254025,,2451.0
+East,2817.3172384788304,,2132.0
+South East,1374.9986172723866,,575.0
+West Midlands,2662.2303894717124,,686.0
+South West,2924.32006229961,,845.0
+London,2008.0081234776017,,758.0
+South West,2818.521210003747,,2991.0
+South East,1960.3488998377313,,923.0
+London,2391.7876393780443,,1065.0
+Yorkshire and the Humber,3205.4287898341054,,1961.0
+East Midlands,1659.4845295991008,,626.0
+North West,2386.158489883852,,2469.0
+South East,1895.0981676657923,,504.0
+South West,3205.960850318472,,2233.0
+South East,3853.3659962269357,,1299.0
+South East,2804.7910573640984,,1223.0
+North East,1556.8492286235114,,1374.0
+Yorkshire and the Humber,2144.5937204492066,,384.0
+Yorkshire and the Humber,1913.502701198951,,388.0
+South East,3437.8506776699833,,872.0
+North East,2179.2793591232676,,2011.0
+South West,3723.9654602563714,,2860.0
+Yorkshire and the Humber,7172.667859713491,,1534.0
+East,2750.002551330086,,819.0
+West Midlands,3800.377972836269,,2609.0
+East Midlands,3733.9490911469547,,1326.0
+North East,2035.9855872124274,,931.0
+East,3367.4974286150637,,538.0
+South East,2296.4493853503186,,824.0
+East,2229.8544808917195,,807.0
+South East,1834.1506430285594,,1507.0
+Yorkshire and the Humber,2194.2080590108653,,2640.0
+London,2049.6088167965772,,3838.0
+South East,4877.3961470219365,,1205.0
+East,1862.1230084301235,,5642.0
+East,4841.948673473211,,4951.0
+Yorkshire and the Humber,4031.1738011738307,,2990.0
+West Midlands,2111.664522105658,,2241.0
+North East,2571.6243197826902,,588.0
+East Midlands,3434.8918357062566,,2507.0
+London,1813.3045595629892,,1434.0
+North West,2242.8216970775575,,7050.0
+London,2475.9949454852003,,781.0
+East,3069.0307001816573,,1210.0
+East,6475.734856082362,,709.0
+London,1678.67392637692,,1003.0
+London,2130.960588047958,,3071.0
+London,2326.6403182840013,,1491.0
+Yorkshire and the Humber,2772.5103971818417,,415.0
+Yorkshire and the Humber,4817.248506161655,,2089.0
+North West,1980.9489732109403,,2929.0
+London,1987.4889039992702,,699.0
+East Midlands,3677.358676974288,,1124.0
+West Midlands,2131.634585799925,,2289.0
+South West,2120.515627388535,,1406.0
+South East,2080.6183624953164,,3366.0
+East Midlands,2327.0705773846857,,490.0
+West Midlands,2214.1959571000375,,840.0
+East Midlands,2085.7595014986887,,1432.0
+South West,3573.455345092132,,1982.0
+East,2659.703000936681,,625.0
+South East,1585.9675194829524,,1430.0
+London,1690.706972461596,,1688.0
+East Midlands,2618.7326749718995,,1791.0
+South West,2362.8114310603223,,1218.0
+South West,2659.1818319595354,,5725.0
+North East,1873.8757742288174,,1010.0
+South West,2752.770523423257,,3060.0
+West Midlands,2771.9967064443617,,664.0
+South West,3880.841554702135,,2242.0
+East Midlands,1666.953731547396,,1986.0
+South East,2105.780108467591,,547.0
+South West,2827.197755526414,,476.0
+North East,1760.414803109779,,394.0
+West Midlands,2408.3733643686774,,1763.0
+North East,2050.125593668041,,991.0
+South East,1829.8525870257422,,2387.0
+East,4332.95015326521,,4105.0
+East,1951.9940080304189,,434.0
+East,3290.8928822834514,,3123.0
+North West,1988.3469499812666,,607.0
+West Midlands,1951.7917233046085,,1472.0
+South West,3998.7184235726336,,1527.0
+London,1724.1040125515174,,1148.0
+West Midlands,1620.3563515060416,,991.0
+East Midlands,2678.8529822030723,,2365.0
+London,2326.331925627576,,4961.0
+North West,1981.4720904833273,,408.0
+South East,2862.0182635600268,,1687.0
+South West,1725.4336491195206,,1003.0
+South East,2215.1540312851257,,1269.0
+South East,2635.74870573555,,469.0
+South East,2042.4544463604134,,444.0
+East,4099.812638058092,,1977.0
+East,1988.3647843761707,,1169.0
+London,2031.5806350725372,,860.0
+South East,2334.735934619707,,683.0
+Yorkshire and the Humber,2029.0206854627202,,2948.0
+South West,2922.1237577744478,,3215.0
+North West,1780.3795464593481,,888.0
+Yorkshire and the Humber,2191.0375457100035,,826.0
+West Midlands,3209.3338739228175,,878.0
+London,2922.301005796995,,699.0
+East,2506.272566696929,,1550.0
+West Midlands,1940.2309140127388,,806.0
+London,1542.5418919070812,,1164.0
+Yorkshire and the Humber,3943.003044435154,,1402.0
+East,1630.6994415511426,,625.0
+East,3412.6475248652105,,1028.0
+East,2996.3038594402014,,1293.0
+South West,3008.4934842637695,,662.0
+East Midlands,2830.326358115405,,971.0
+London,2158.175244381454,,811.0
+East,2499.210981453728,,2237.0
+London,2053.2811575496444,,941.0
+Yorkshire and the Humber,2228.6552677032596,,570.0
+East,1608.9620867366054,,1693.0
+London,2728.8003782315473,,9495.0
+East Midlands,2359.399455106459,,1631.0
+East,3855.964971712252,,1196.0
+North West,1664.602926002248,,1149.0
+London,2184.443859831553,,1212.0
+North West,1711.6895502060697,,1197.0
+East,2453.148898276508,,550.0
+East,2276.2018070242657,,522.0
+North West,2243.524731922068,,559.0
+West Midlands,1725.4904868864744,,1852.0
+East,5696.379867366136,,2771.0
+West Midlands,2316.4728912020637,,3647.0
+East,2145.877972836268,,2424.0
+Yorkshire and the Humber,1830.6858409516672,,1710.0
+North West,3895.5305794168626,,4371.0
+East Midlands,2080.8286659797677,,1993.0
+South West,3575.662386997262,,687.0
+East,2532.968759594888,,367.0
+London,2053.886991213629,,781.0
+South West,1648.7337989883854,,522.0
+South West,2626.3993291494944,,1010.0
+North West,2370.6294153240915,,1015.0
+West Midlands,1632.7680921299386,,807.0
+South West,1652.5923227800674,,8913.0
+London,1931.8727051652781,,503.0
+East Midlands,2000.3838551892093,,1080.0
+East Midlands,1805.4451515548894,,735.0
+London,1588.0288158486326,,2696.0
+North West,2574.5343984638444,,1406.0
+North East,2096.3399436118398,,415.0
+East,3193.959345034771,,2461.0
+South West,6015.759055156499,,2681.0
+East Midlands,2611.9100447733235,,2073.0
+South West,3639.5859533533157,,8610.0
+London,1812.0062605844885,,1440.0
+West Midlands,8408.58380661405,,2110.0
+East,2371.288838328962,,2341.0
+South East,2970.0502096290747,,1388.0
+South West,2111.9979053952793,,665.0
+London,1623.9501721618585,,7698.0
+South East,4703.762788680487,,2769.0
+East Midlands,3961.7401953643066,,1229.0
+South West,2172.3475119895093,,729.0
+South West,3425.2513097278215,,2420.0
+East,2556.933911390034,,1228.0
+London,2636.3219218808545,,847.0
+South East,1728.5338364556012,,615.0
+West Midlands,3659.9975002654865,,2410.0
+South East,3602.2109062920263,,1785.0
+South East,1746.929715061821,,2530.0
+South West,1935.8549679655302,,840.0
+Yorkshire and the Humber,2930.795544960659,,827.0
+North West,1848.2718823646267,,1247.0
+South West,2622.0683812289244,,677.0
+East Midlands,2125.568606032222,,1346.0
+East,3056.4009354641094,,2104.0
+Yorkshire and the Humber,2120.8437652678904,,1060.0
+East,2542.639381603597,,1153.0
+London,1565.359885130391,,667.0
+East,1852.7860282877482,,478.0
+North West,2223.74200430873,,527.0
+South West,1649.5037502810042,,1014.0
+Yorkshire and the Humber,1765.111393593106,,1479.0
+East,1730.3846794679655,,5202.0
+South West,2490.5512587111275,,1317.0
+North West,2452.9205355938557,,411.0
+London,2336.9165266017235,,641.0
+Yorkshire and the Humber,2738.630341105614,,260.0
+South East,1788.4792467216187,,592.0
+North West,1851.943652866242,,595.0
+West Midlands,5718.481713773794,,2735.0
+South West,3427.320805880341,,2277.0
+South East,1544.0617120644433,,767.0
+London,2336.7303431183223,,3004.0
+Yorkshire and the Humber,6732.5365917328145,,2511.0
+East Midlands,2800.2849970252055,,2392.0
+South West,2332.890786624204,,1293.0
+East,1570.696481641064,,493.0
+South East,1880.8537315473961,,3225.0
+North East,2830.6987408096365,,597.0
+East Midlands,4266.2479079236,,3419.0
+South West,1807.5590893593105,,1491.0
+South East,3222.5834055826153,,1961.0
+Yorkshire and the Humber,1978.814374389155,,389.0
+South West,1771.8722028849754,,721.0
+South West,2283.525535569982,,3470.0
+London,2128.6503594979395,,4012.0
+Yorkshire and the Humber,7801.425319765659,,1232.0
+North East,2242.495968809879,,349.0
+South West,2470.211318658674,,1367.0
+South East,2909.6990682487576,,1937.0
+South East,1689.148710940427,,582.0
+East Midlands,1796.724507118771,,2721.0
+South West,2535.2835179842637,,6504.0
+South East,1950.8598012364182,,1378.0
+North West,2007.5668076058448,,973.0
+East Midlands,2127.7168126564384,,3028.0
+London,1690.899703821656,,2627.0
+North West,2683.7133132626923,,525.0
+North West,2201.09703723605,,1716.0
+West Midlands,1828.7536566129636,,5141.0
+South East,1669.8049866991382,,1061.0
+South West,1867.383180779318,,592.0
+London,2310.920738000107,,1020.0
+South West,1917.7272047583363,,946.0
+South East,2137.1859158861,,1209.0
+North West,2115.6552302360433,,1191.0
+London,3461.9351283567175,,691.0
+North West,2149.4513711127765,,4149.0
+West Midlands,1938.984941738479,,2225.0
+North East,1845.6325251030348,,2172.0
+East Midlands,1754.975874672162,,645.0
+East Midlands,2293.4701796553018,,2744.0
+North West,2062.065046646684,,338.0
+London,2162.9031078937132,,914.0
+South West,4156.768737425972,,2654.0
+East,2282.2757248032967,,1290.0
+West Midlands,2932.835740102759,,2240.0
+South West,4279.949684423755,,1635.0
+North East,2229.834173660547,,778.0
+South East,1776.1750503934059,,2547.0
+South West,2754.7410757409834,,5091.0
+West Midlands,5955.706180528165,,3580.0
+South East,2556.514578306482,,1751.0
+London,2390.7297809679876,,660.0
+East,4441.744580817987,,456.0
+South West,4196.437815339097,,1707.0
+South West,2168.5914360008137,,937.0
+East,2747.537375370731,,1561.0
+South East,1923.7068600599475,,622.0
+North West,2224.942266579243,,340.0
+South West,2192.551296178344,,2561.0
+South East,1806.2828435743725,,1862.0
+North West,1960.0147656425627,,4811.0
+South West,2582.7126674784568,,1603.0
+South West,1825.9769137244375,,1274.0
+West Midlands,2025.7516708505057,,5456.0
+South East,2053.404724428625,,1003.0
+South West,2424.753506744099,,1584.0
+East Midlands,2503.916853520701,,791.0
+London,1612.6427536530537,,4926.0
+London,2342.766999877011,,991.0
+London,2118.188988197827,,1753.0
+South East,2004.0208727988013,,1122.0
+East,3805.531391898744,,2509.0
+London,2707.761524728363,,994.0
+North West,1794.0157023229674,,467.0
+East,3591.7591453903624,,1760.0
+South West,3976.1605131135257,,1363.0
+West Midlands,1763.0287034469839,,2371.0
+East,3022.7845620035323,,497.0
+East,2087.6031133383294,,4277.0
+London,1673.3186635148945,,615.0
+London,1852.6631249652503,,3850.0
+South West,3286.2291530535776,,2865.0
+East,2847.4411234090576,,2291.0
+South West,2358.640992693893,,891.0
+West Midlands,2383.1902246159607,,1021.0
+West Midlands,3486.451707910648,,2279.0
+South East,2459.662614663998,,500.0
+North East,1731.694046272012,,486.0
+South East,4907.789103444403,,2916.0
+South West,5547.820326195095,,1426.0
+South East,3188.511749815296,,2656.0
+Yorkshire and the Humber,2382.22482765159,,516.0
+North West,1633.3769237542149,,342.0
+London,2231.4891380666913,,1181.0
+South West,2829.3073312224415,,914.0
+South East,1642.5114992576437,,489.0
+South East,1610.0092954289996,,4737.0
+South East,4022.020017565522,,2724.0
+South East,2141.868081491195,,873.0
+East Midlands,1766.139006931435,,2499.0
+South West,3381.0749754589733,,841.0
+West Midlands,5075.217499227555,,3501.0
+London,2168.3017873930785,,1975.0
+East,1905.592221707391,,851.0
+South East,1860.496646267855,,767.0
+East,4747.087064876759,,1522.0
+East Midlands,2436.1217720119894,,1653.0
+London,1893.4806014229064,,2311.0
+East,1927.401464780817,,363.0
+Yorkshire and the Humber,1906.7785084684513,,762.0
+East Midlands,2722.4780103034846,,2320.0
+East,2051.9042961488385,,1876.0
+South East,1203.0397562757587,,518.0
+East,2650.6586022855,,449.0
+East,3053.7025753530315,,1537.0
+South East,2310.6995914200074,,1351.0
+London,2339.904612026977,,5040.0
+South East,3561.8927359344225,,952.0
+South East,1726.9239825777445,,1891.0
+South West,3287.1121054702135,,2652.0
+Yorkshire and the Humber,1824.2655337204944,,6730.0
+South East,1744.891566658997,,844.0
+North West,1797.7512587111275,,2900.0
+Yorkshire and the Humber,1999.4724986465424,,736.0
+London,1931.5149155114275,,574.0
+North West,1924.2023639940053,,471.0
+East,2894.0229189764414,,1897.0
+South West,1538.1569537279881,,3834.0
+South East,1917.4384062920062,,927.0
+South East,3019.1017645185466,,4221.0
+Yorkshire and the Humber,1745.317388347696,,12944.0
+South East,2216.417013675534,,1255.0
+East,2969.706785125515,,4682.0
+East,5331.571915063856,,3341.0
+South West,2607.137433308355,,706.0
+London,2257.1939338703633,,1073.0
+South East,2396.3408428250277,,757.0
+London,2393.7098949044585,,2349.0
+North East,1719.1821316972648,,1221.0
+South East,1657.774900524541,,1320.0
+East,1916.2975681903335,,2285.0
+North East,3447.610719183215,,2106.0
+London,2573.741851298942,,544.0
+East,3876.3411232243434,,2854.0
+North West,1930.6618619333085,,1626.0
+Yorkshire and the Humber,1745.784979205695,,828.0
+London,1906.3034130760584,,3033.0
+South East,1347.481757025103,,512.0
+North West,1511.4626362373783,,679.0
+South East,2524.233274447359,,2360.0
+East Midlands,3518.8917790311434,,2668.0
+North West,1609.2122355386668,,356.0
+East Midlands,3098.7670698763586,,692.0
+South East,1866.8348480704383,,1995.0
+North West,3012.1796213937805,,5851.0
+South East,3002.0022515923565,,574.0
+East,1665.7330600797825,,652.0
+South East,1882.9643347695767,,1968.0
+South West,1811.2180252903706,,479.0
+South West,2539.5505093668044,,1032.0
+East,1942.9473246534283,,583.0
+North West,2264.0788720494565,,12224.0
+London,2462.6851439697693,,1694.0
+London,2901.380520606969,,1149.0
+East,3898.602706677263,,2898.0
+London,1639.8790593855376,,1718.0
+North West,2548.702926002248,,892.0
+South East,1913.8010172922725,,518.0
+South East,1690.4724164926354,,766.0
+North West,1714.065646122143,,938.0
+Yorkshire and the Humber,1828.314803109779,,920.0
+East,2117.4650841139,,811.0
+North West,2621.547511989509,,2371.0
+West Midlands,1599.143003806652,,1298.0
+South West,3832.2369837017604,,3058.0
+East Midlands,2575.4868900337206,,1142.0
+South East,2138.785990820532,,6903.0
+South East,4716.140565595321,,1237.0
+South West,2614.837021168977,,3296.0
+East,3106.792505503854,,585.0
+South West,3111.4603814837146,,3372.0
+London,1825.3249941925812,,1523.0
+East,4781.913706895082,,2464.0
+London,2211.904063861153,,2264.0
+North West,2027.0367335896551,,842.0
+North West,1989.927916635444,,2121.0
+North East,1652.8420043087299,,2531.0
+East Midlands,3423.472736036513,,1311.0
+East Midlands,1895.2923554697127,,1728.0
+South East,1775.0437278006743,,1288.0
+South West,3366.7100073061074,,554.0
+South West,2595.7484861371304,,1753.0
+North West,1962.7767738853502,,2257.0
+East,2237.421359872612,,600.0
+South East,1777.634623267141,,608.0
+South East,1907.1655711877108,,946.0
+East Midlands,1619.056129449232,,1491.0
+South West,1891.1032257399775,,922.0
+South West,2052.6789095166723,,2511.0
+East,2973.3059983139756,,885.0
+West Midlands,1849.8254063319596,,799.0
+South West,1831.7054363057325,,3452.0
+London,1699.711206257025,,1154.0
+East,2216.6538814162614,,597.0
+South West,5716.586954515811,,2565.0
+South West,3371.5155987174394,,1418.0
+South West,3834.8908838994594,,3377.0
+North West,2850.68568857214,,505.0
+South East,2494.80978250281,,2151.0
+South East,1923.8331245784939,,529.0
+East Midlands,4300.799243782058,,2978.0
+London,1617.4946082802549,,681.0
+East,1961.4116183964031,,3169.0
+East Midlands,1744.062948482578,,723.0
+London,2584.7216221431245,,979.0
+East,1847.4132294866993,,1703.0
+London,1851.5284037092542,,2288.0
+London,1948.9186997002623,,575.0
+London,3247.1419668415137,,721.0
+East,2588.8410347065674,,3076.0
+London,1844.0740439650024,,2663.0
+North West,1965.0678941551143,,7398.0
+East,3123.4815485738254,,560.0
+South East,2358.0388716039415,,4995.0
+South West,3871.897518649652,,824.0
+South West,2527.69651910828,,1223.0
+London,1976.8019893218432,,2081.0
+Yorkshire and the Humber,3407.825861237062,,1216.0
+London,2230.0934645899933,,2741.0
+North West,2020.9572824702175,,326.0
+East Midlands,2871.848036530536,,1084.0
+South West,3163.8144284376167,,1060.0
+East,3432.879034941886,,2643.0
+West Midlands,2362.151221243912,,1214.0
+East Midlands,1710.9501346946422,,827.0
+South West,2122.3943460097416,,1789.0
+South West,2229.8740762457846,,1362.0
+North West,1796.9219968152865,,2579.0
+South East,1988.3012399775196,,2236.0
+East Midlands,2458.0202358561264,,471.0
+North East,1804.2105765144538,,581.0
+West Midlands,1684.7904838886388,,820.0
+London,2660.0912736980144,,4523.0
+North West,2046.8866985155694,,425.0
+South East,2548.323210838299,,2134.0
+West Midlands,2097.63110134882,,1026.0
+East Midlands,2608.702214125141,,731.0
+West Midlands,2128.8000035593855,,910.0
+South East,2921.157478269015,,618.0
+East,2585.572240352192,,518.0
+West Midlands,2132.5533943424502,,1112.0
+South West,2838.7878641813413,,1194.0
+North East,2120.6006845661523,,3191.0
+Yorkshire and the Humber,2278.5930721243913,,1090.0
+East Midlands,3924.2057258047907,,1272.0
+East,1886.8463688425418,,379.0
+South West,2591.8140537654554,,770.0
+West Midlands,1747.4882388535032,,4425.0
+East Midlands,3932.158938205577,,1841.0
+East,3099.5834055826153,,2564.0
+North West,2251.1782351067814,,1403.0
+East Midlands,7355.020365442908,,1324.0
+East Midlands,2558.501502248033,,508.0
+East Midlands,3236.2854760152786,,1414.0
+London,2581.6174379104655,,549.0
+East,1893.164461497037,,425.0
+South East,2602.072319399007,,1137.0
+South West,2093.5927723866616,,3111.0
+Yorkshire and the Humber,2251.9842673285875,,588.0
+London,1830.3294153240913,,457.0
+South West,3277.9814845342935,,4064.0
+South East,1972.9136416260772,,500.0
+East,2252.3644846384414,,1152.0
+London,1775.785766017235,,5995.0
+East,4032.9421379443147,,2044.0
+East,3470.6421137772522,,1563.0
+Yorkshire and the Humber,2512.735222742601,,1107.0
+East,3172.8879100019167,,1312.0
+South West,4449.9457903912635,,5895.0
+East,2255.722706674809,,451.0
+South East,3506.5561217269596,,1728.0
+South West,1889.065515819688,,494.0
+West Midlands,2569.2500475543375,,1247.0
+East Midlands,2973.3353670933484,,1791.0
+East,1870.1131170850506,,640.0
+South East,2285.0563167853124,,1000.0
+London,2539.2879011148816,,2004.0
+East,1910.5437652678906,,1295.0
+North West,2172.825256463095,,442.0
+East,1787.1269050206067,,798.0
+London,1733.8711912701388,,9661.0
+Yorkshire and the Humber,2084.6905243536903,,508.0
+East Midlands,3478.2785728191648,,2920.0
+Yorkshire and the Humber,1985.7554925065567,,919.0
+South West,1845.618849569127,,1655.0
+East,3939.749830617193,,2234.0
+Yorkshire and the Humber,2259.751858186587,,1555.0
+South East,2161.5393816035967,,4930.0
+South East,1859.4195471513015,,509.0
+South West,1711.9233280735725,,693.0
+South East,5906.551771651266,,2152.0
+West Midlands,5202.426969506579,,1872.0
+South West,2599.6723527538406,,1654.0
+Yorkshire and the Humber,2020.7548261590741,,631.0
+South East,1754.896362131087,,754.0
+South West,1971.065571187711,,574.0
+East,3938.971931860695,,1453.0
+East,3395.706635635529,,2552.0
+West Midlands,4869.892668280293,,2758.0
+West Midlands,1775.496481641064,,670.0
+North West,2362.6840425252904,,897.0
+South East,2191.1511463094794,,978.0
+West Midlands,1913.5485236043462,,534.0
+London,2176.937559494446,,727.0
+East,1679.4210976020981,,535.0
+Yorkshire and the Humber,2144.697643124766,,645.0
+West Midlands,2082.0127049456723,,559.0
+London,2117.6980167045017,,1821.0
+East,2635.4489364213487,,577.0
+South East,5657.459072194004,,1483.0
+North East,2220.9352222611315,,318.0
+South East,3130.2913111652306,,2258.0
+South East,1610.5211350693144,,597.0
+East,4878.251317098045,,3866.0
+London,2133.484529599101,,719.0
+South West,2270.0396813413263,,787.0
+North East,4248.248726528683,,4365.0
+London,3016.190000107461,,715.0
+East,1779.358190146122,,2259.0
+Yorkshire and the Humber,4141.931143750058,,1770.0
+East,2483.098446439174,,698.0
+Yorkshire and the Humber,3586.8115202209283,,1009.0
+London,1940.4738658939739,,365.0
+London,1858.318752883433,,4009.0
+East,2464.1969312476585,,1546.0
+South West,9319.690864620847,,1801.0
+South West,2656.2769612214315,,1460.0
+South West,3018.441404833271,,1985.0
+South West,2835.086777632072,,853.0
+East,6636.309872422203,,2660.0
+London,2506.604649494193,,2693.0
+North East,2194.7018394529787,,2315.0
+London,1750.3118431997004,,909.0
+London,1707.5900372798799,,1178.0
+North West,2072.292135443987,,633.0
+East Midlands,2066.6025887973024,,2077.0
+London,2162.5287409142,,1547.0
+South West,2728.331213750468,,1188.0
+North West,2386.6117187739073,,2460.0
+West Midlands,1498.7423040464594,,483.0
+West Midlands,2789.079171787186,,619.0
+South East,8371.65803397302,,2027.0
+South East,1895.7514085799924,,531.0
+North West,2057.5645221056575,,2327.0
+South East,6784.162813924417,,3042.0
+Yorkshire and the Humber,4002.361298429447,,1276.0
+East,2724.1270548894718,,4746.0
+Yorkshire and the Humber,2405.31675140502,,1865.0
+North East,1824.6207229299364,,534.0
+London,1300.7628360809292,,3884.0
+South East,2506.7441774072686,,677.0
+East Midlands,2916.1682313600604,,2498.0
+London,2314.9981883970995,,3640.0
+South West,2247.7201234544773,,960.0
+East,2087.673289434245,,465.0
+South West,1858.12147227426,,861.0
+South East,1707.8511463094792,,404.0
+London,2598.7620492693895,,1468.0
+South West,4032.964401227693,,1167.0
+London,1514.2747506556761,,2344.0
+West Midlands,4413.541816972649,,2568.0
+London,2846.7890256650435,,2122.0
+East,1840.3223714874484,,683.0
+East,3647.242977442167,,1710.0
+South West,2450.5268731081233,,729.0
+West Midlands,1898.596008171891,,1125.0
+London,2630.252682465343,,708.0
+East,2065.646934352244,,539.0
+Yorkshire and the Humber,1787.5399436118398,,1986.0
+East Midlands,2262.6773733608093,,772.0
+East Midlands,2995.7638971492797,,1432.0
+South West,3405.9780956716468,,1568.0
+East Midlands,3292.967765597534,,1358.0
+South West,1820.714390970401,,895.0
+East,1945.151296178344,,495.0
+North West,2944.056728924691,,577.0
+South West,2512.2926599850134,,1580.0
+East Midlands,5513.327747558582,,1240.0
+West Midlands,2461.617163544399,,1599.0
+South West,2612.8701796553014,,922.0
+South East,1910.55781547396,,1393.0
+South East,1985.9666952041964,,779.0
+North West,2341.7850166729113,,2727.0
+South West,3445.9756428900237,,14519.0
+East,1809.368418696141,,1592.0
+South West,2092.3825063694267,,2654.0
+East,3128.291074642272,,1644.0
+South West,3108.9119556013493,,500.0
+East,3125.082046784266,,2332.0
+North West,1347.6862905582616,,462.0
+London,1757.1291874359588,,1408.0
+South East,2724.2810826152117,,912.0
+East Midlands,1984.8636978269014,,6680.0
+Yorkshire and the Humber,3690.871884447849,,4653.0
+London,2528.0115059947548,,676.0
+South West,1831.6685685650057,,686.0
+East Midlands,4660.424488022019,,1752.0
+South East,2316.630089733983,,1437.0
+East,3277.4833390073463,,2497.0
+North West,1810.6382950543277,,3017.0
+South East,2263.877931874291,,1275.0
+North West,1774.5494697982324,,415.0
+South East,1931.2709289996253,,1052.0
+North West,2155.6810826152114,,410.0
+South West,3497.526730444204,,3580.0
+North West,2108.503712813788,,2529.0
+West Midlands,2447.6426578132127,,553.0
+East,2237.452129934793,,1837.0
+North West,1647.1542935556388,,526.0
+East Midlands,3913.8927181312283,,4032.0
+London,1777.8177113176428,,1331.0
+London,1680.003338141626,,1139.0
+South East,9283.221614604303,,2132.0
+London,2533.6281909300005,,1586.0
+London,2140.111373801384,,4369.0
+East,2907.8238793946794,,2533.0
+London,2506.161467528364,,1118.0
+North East,2167.700827838142,,912.0
+South East,3167.600677969277,,1650.0
+West Midlands,4527.275176727325,,1878.0
+Yorkshire and the Humber,2400.6970061820907,,925.0
+Yorkshire and the Humber,2445.1053988385165,,1505.0
+Yorkshire and the Humber,1658.5481863994005,,1861.0
+North East,2104.8728023604344,,1848.0
+Yorkshire and the Humber,1844.1926974522294,,2993.0
+London,2067.764815371157,,448.0
+Yorkshire and the Humber,2312.821734544774,,1048.0
+Yorkshire and the Humber,2228.0911612963655,,536.0
+South East,4151.618860777166,,2470.0
+South East,2745.0911612963655,,712.0
+East,1865.2263804795805,,845.0
+South West,5205.083162509082,,2001.0
+Yorkshire and the Humber,1367.261974334957,,426.0
+South West,4560.460020465478,,2362.0
+North West,2540.493896403147,,823.0
+North East,2143.2409926938926,,3268.0
+East Midlands,3310.069617647059,,686.0
+Yorkshire and the Humber,2172.215718475879,,433.0
+East,3297.330011398556,,2485.0
+West Midlands,1898.0122928062947,,492.0
+East,2581.8471747845633,,2912.0
+South East,4843.999140735381,,2089.0
+South East,2148.5046120269762,,699.0
+West Midlands,2525.7857285500186,,871.0
+East,2017.9398686774073,,939.0
+Yorkshire and the Humber,2808.8189619707755,,3963.0
+South West,3480.104665699244,,1543.0
+Yorkshire and the Humber,1966.6713411390035,,266.0
+East,2733.174388852449,,674.0
+South West,6610.047111032928,,579.0
+North West,3139.2384033434582,,1313.0
+East,1905.3915359685275,,1236.0
+North West,2074.1740387785685,,865.0
+West Midlands,1591.2056985762458,,1063.0
+South East,2079.4696842657095,,606.0
+South East,5441.597980162276,,2187.0
+West Midlands,1373.4213598726114,,691.0
+London,2462.929080689609,,623.0
+East,3965.4890342175104,,1289.0
+East Midlands,2975.789325402773,,3785.0
+North West,2276.433798988385,,3559.0
+South East,2119.8505843012363,,1968.0
+North West,1638.6738139752717,,674.0
+West Midlands,2087.0415172349194,,4080.0
+South East,2390.6007154364934,,1710.0
+North East,2337.2404338748315,,656.0
+South West,3100.668138777097,,2395.0
+East Midlands,2179.289992807753,,662.0
+North West,5142.758613175423,,937.0
+London,2495.2755963279415,,1171.0
+South West,2814.788950730611,,4392.0
+East,3128.818492899165,,1854.0
+Yorkshire and the Humber,1983.4275999916533,,673.0
+North East,1472.368268827276,,476.0
+London,2057.8961280008452,,1310.0
+North West,1837.8058859123266,,979.0
+West Midlands,1859.6728398276507,,2208.0
+North East,1990.2239451105283,,592.0
+London,2796.015177781941,,759.0
+South East,1806.5871897714499,,3368.0
+North East,2985.9395412517515,,733.0
+East,3217.597224945238,,1993.0
+South East,1807.8024389284376,,1348.0
+East Midlands,2631.2044246908954,,1111.0
+North West,1927.5372834394905,,614.0
+East,3130.2741209024243,,2516.0
+West Midlands,1769.7710414012738,,1305.0
+London,1873.5073096665417,,5918.0
+East Midlands,1811.1612997055915,,433.0
+London,2822.8774857624576,,458.0
+East Midlands,1883.6009402397901,,1700.0
+London,1825.201097433471,,1051.0
+South West,1729.0000784938177,,792.0
+South East,1921.0026637317344,,739.0
+London,2269.812055114625,,603.0
+London,2090.145301423754,,1026.0
+South West,1797.1704044585988,,508.0
+Yorkshire and the Humber,2426.957215998502,,409.0
+London,2435.049688733523,,1552.0
+East Midlands,5561.925315258908,,1148.0
+East Midlands,2486.41420363432,,799.0
+East,4415.243713638114,,2251.0
+Yorkshire and the Humber,2577.7588270887973,,613.0
+South East,1629.8261556762832,,657.0
+East,4333.426990654578,,2445.0
+London,2450.760515926647,,751.0
+East Midlands,2037.4068913391513,,513.0
+Yorkshire and the Humber,2277.5854662795055,,2020.0
+Yorkshire and the Humber,2268.1007154364934,,1589.0
+East,4467.59973713088,,3235.0
+North East,1926.1344155767076,,458.0
+North East,1948.8300941479968,,1790.0
+South East,1924.282687828778,,5685.0
+East,1982.5774857624579,,1421.0
+London,2057.5788720494565,,663.0
+North West,2889.0029260022484,,2939.0
+Yorkshire and the Humber,2775.41371656051,,2056.0
+South East,2756.1133418883473,,528.0
+South East,2082.5941805592183,,448.0
+South East,1561.4752377294865,,561.0
+South East,2781.1366090295987,,1798.0
+North West,1616.7123302735108,,4089.0
+South West,2117.3984299363055,,1460.0
+North West,1578.4956198950917,,1196.0
+West Midlands,2343.1556049082055,,599.0
+North West,2292.330944049697,,453.0
+South East,1441.4890652880215,,659.0
+London,2529.24249138254,,1161.0
+South East,1810.577859798488,,841.0
+London,2028.3669200074935,,654.0
+East Midlands,2946.7260573519507,,1975.0
+London,1994.1755374672161,,2926.0
+South West,1724.1713411390033,,720.0
+South West,1960.9121429374297,,694.0
+South East,8403.594709837878,,3073.0
+South West,1792.2305018733607,,1824.0
+West Midlands,5491.693123769353,,6671.0
+East,2241.0883887223677,,864.0
+East,1974.4846420007493,,680.0
+South East,3714.9230253824862,,1053.0
+South West,3450.5276543649306,,2531.0
+South East,2482.1300147995503,,1221.0
+London,2351.4840425252905,,1682.0
+North East,1697.6602883102285,,631.0
+London,2662.210756650431,,772.0
+London,1943.7732519670287,,2886.0
+East,2321.1455636942674,,1132.0
+South West,2657.338351154071,,3556.0
+South East,4683.190808534803,,1553.0
+Yorkshire and the Humber,2269.1165266017233,,1315.0
+London,1659.4961976531208,,1608.0
+Yorkshire and the Humber,3755.5703086689746,,1401.0
+North West,2100.8228910391917,,430.0
+London,1731.4999988871896,,2996.0
+East,2857.0567663919064,,618.0
+East,2805.123458036718,,1283.0
+South East,1723.222646675256,,508.0
+South East,1828.092210378419,,1811.0
+South West,1794.3892879355565,,1146.0
+East Midlands,1868.3730271637316,,693.0
+South East,1695.6296026601722,,2633.0
+South West,3052.265833458224,,1343.0
+West Midlands,1679.3287409142,,593.0
+East,2826.8902620831777,,1416.0
+Yorkshire and the Humber,3864.0653089171974,,1985.0
+South West,3898.918312219894,,5866.0
+East,2472.0427911202696,,3034.0
+South East,1597.4168263394529,,1775.0
+East,2391.468044023979,,1531.0
+North East,4541.295039418468,,1594.0
+West Midlands,4214.172543266431,,2092.0
+North West,2277.452195391532,,777.0
+South East,1987.5601384413637,,1527.0
+South East,2629.3405056200827,,1295.0
+London,1720.9399061446234,,509.0
+West Midlands,3172.8832774059047,,4654.0
+London,2194.1826937055075,,2125.0
+South East,2042.4806846682434,,760.0
+South West,1840.9521204571001,,927.0
+East Midlands,1817.126492881229,,400.0
+East,2321.750022292994,,2980.0
+London,2003.310324935886,,1202.0
+East,1952.8671472323952,,380.0
+West Midlands,2422.5964860705344,,1020.0
+London,2101.56538385163,,1530.0
+East,5732.478640940067,,354.0
+South East,1808.9923977144997,,4215.0
+London,1677.7614882655434,,538.0
+East,1494.2226541451168,,677.0
+South East,2669.701652116898,,1491.0
+South West,3586.607655217118,,973.0
+London,2060.5763134736735,,623.0
+South West,1581.9352976770326,,683.0
+South West,2350.2036378793555,,3830.0
+London,1628.9565041213937,,899.0
+South East,1737.1937465342824,,3483.0
+West Midlands,2960.365571187711,,4018.0
+North East,2086.0872557192097,,477.0
+East Midlands,2713.920461573867,,833.0
+North East,1894.854316538432,,644.0
+South West,1507.156728924691,,1085.0
+South East,1530.7212100037466,,680.0
+East,3492.749635097839,,506.0
+West Midlands,2299.5435797202017,,1915.0
+North West,2271.967760906069,,1214.0
+South East,2340.5247693892843,,732.0
+Yorkshire and the Humber,2836.8067494263587,,2217.0
+South East,2880.610361094121,,2028.0
+South East,2652.2102321094044,,1227.0
+Yorkshire and the Humber,2211.328141438741,,353.0
+London,1753.4808578119146,,777.0
+South West,2970.3669949419254,,4161.0
+Yorkshire and the Humber,2775.4130046834016,,1322.0
+South East,4207.6422377167,,1736.0
+Yorkshire and the Humber,2157.164925632466,,368.0
+South East,1819.6066352566506,,915.0
+North West,1819.8044621581116,,2148.0
+London,1882.146238104159,,1061.0
+South West,4593.303840786246,,7438.0
+South West,5139.808176559144,,2503.0
+South West,4005.1036068407184,,745.0
+East,1972.8815346550193,,1216.0
+Yorkshire and the Humber,2226.007759273136,,357.0
+West Midlands,2812.6142785687525,,2168.0
+North West,2048.3396975087326,,373.0
+North West,2179.7798461970774,,715.0
+London,2290.8355224803295,,2570.0
+Yorkshire and the Humber,1754.9188465326172,,517.0
+London,2745.1355272055935,,612.0
+South East,3659.06798243504,,1213.0
+London,1756.598995251676,,1082.0
+London,2743.608546084676,,1304.0
+East Midlands,3137.6876768452603,,1235.0
+East,1946.4953576245787,,2365.0
+London,2239.834061258898,,531.0
+West Midlands,3118.3898124765838,,2881.0
+West Midlands,2493.608329570956,,2618.0
+Yorkshire and the Humber,3138.117875421506,,583.0
+North East,2912.1955977281004,,2434.0
+East,3791.304532362303,,1594.0
+Yorkshire and the Humber,2088.6315884226306,,357.0
+South West,2509.2404681528665,,789.0
+East Midlands,2547.2490856125887,,1835.0
+South West,2563.1994415511426,,1514.0
+West Midlands,2839.1400185462717,,829.0
+London,2124.8315326350303,,747.0
+East,2682.266882540277,,368.0
+London,1589.836933900113,,766.0
+South East,2019.8061107156238,,2691.0
+West Midlands,2570.5573284001503,,975.0
+South West,2007.3552677032596,,2869.0
+South East,2680.1778604346196,,1062.0
+South East,3323.188658784571,,1527.0
+London,2538.3545152470015,,523.0
+East Midlands,3318.4958114614674,,2430.0
+West Midlands,2926.6921354439864,,3307.0
+North West,2286.5005655676287,,973.0
+London,2079.5691842127135,,1669.0
+Yorkshire and the Humber,1871.3228342288537,,519.0
+London,2061.562324318952,,592.0
+London,1732.9250316597975,,2147.0
+East Midlands,3150.6155149868864,,1604.0
+East Midlands,1927.8807351001515,,733.0
+West Midlands,2732.647924128887,,1281.0
+South West,2509.0157023229676,,2255.0
+East,2631.2393149316767,,1652.0
+East,3197.065388421235,,1115.0
+East,2281.6786387863294,,508.0
+Yorkshire and the Humber,2799.503650738605,,2321.0
+North West,1843.2724408298498,,315.0
+East,2002.718999437992,,308.0
+South West,3040.4658334582236,,1961.0
+East,2439.6468375796176,,425.0
+South West,2264.600490633196,,1792.0
+South East,2187.167969089546,,600.0
+South West,2032.1917982390407,,1795.0
+South West,5049.912125573978,,547.0
+East,1915.6556049082053,,1759.0
+East,6491.867712358107,,2029.0
+Yorkshire and the Humber,3237.1040271778975,,2326.0
+East,2513.3755749344327,,5069.0
+East Midlands,3570.110685088798,,592.0
+South East,2128.219174226967,,512.0
+East Midlands,4708.070366991383,,5899.0
+West Midlands,3000.181706588285,,818.0
+South West,2874.77520026227,,1700.0
+North West,1882.342453915324,,779.0
+East,1700.9488608092918,,2077.0
+South West,1920.6322455851932,,1810.0
+South East,2301.111387479523,,562.0
+East Midlands,3609.616161789051,,2777.0
+East,2851.0365340951666,,1576.0
+South East,1900.4804456725365,,1221.0
+North West,2289.1703033965355,,6415.0
+West Midlands,3694.376287364418,,954.0
+London,2389.683967590858,,1687.0
+North West,5503.021151504351,,3114.0
+South East,1722.6403557512176,,2386.0
+East,2059.6946268209394,,3400.0
+South East,1720.6756499490648,,366.0
+East,2858.670675654821,,2050.0
+South East,3190.209070625703,,1152.0
+South East,2495.5578154739605,,602.0
+South East,2475.493072124391,,5394.0
+East,1922.1710788684902,,850.0
+East,4580.050868568386,,2267.0
+Yorkshire and the Humber,1800.5429409891346,,578.0
+South West,4033.638882163379,,1760.0
+East,2625.728066504309,,911.0
+East,1825.7825438366428,,973.0
+South West,2599.3235329711506,,1772.0
+South East,1932.2210601348818,,890.0
+South West,3652.834528842518,,460.0
+South East,3094.809223185828,,2641.0
+South East,2308.8028573214997,,1030.0
+London,2074.2594699951346,,1178.0
+South East,1513.1853590497963,,582.0
+East,1843.9455285084875,,881.0
+London,2323.501823891619,,1341.0
+South East,1869.6102291038408,,686.0
+North West,5375.444522065455,,471.0
+North West,1835.9298649306857,,1572.0
+Yorkshire and the Humber,2038.6145783064817,,832.0
+North West,1906.4232670676647,,408.0
+South West,1877.1924351817158,,1203.0
+East,3339.4642235820456,,926.0
+Yorkshire and the Humber,2377.198129984873,,1678.0
+South East,1645.6853913450732,,2668.0
+North West,8896.51002133579,,3017.0
+East Midlands,2737.8405056200827,,1030.0
+Yorkshire and the Humber,2504.898238658855,,1933.0
+London,2687.402326526789,,4092.0
+East Midlands,1636.7348032706107,,356.0
+South East,2331.1934928675482,,377.0
+East,2387.5793216560514,,949.0
+East Midlands,3923.964061031712,,1169.0
+London,2045.3636978269014,,870.0
+East,1861.623682840015,,933.0
+Yorkshire and the Humber,2494.2352602098163,,1088.0
+London,2186.631068329449,,1917.0
+London,2024.9640724990634,,1291.0
+East,3483.7414009121667,,2175.0
+East,3642.8033726399617,,2841.0
+South East,3910.988505291424,,755.0
+Yorkshire and the Humber,1550.7905243536904,,2264.0
+London,1971.705747392733,,3299.0
+North West,4124.891523257006,,3636.0
+South West,2350.321547208692,,909.0
+North West,2150.7252189958785,,507.0
+East Midlands,6143.27760892736,,3907.0
+South East,1992.812555076808,,623.0
+West Midlands,2287.853506744099,,1072.0
+London,2392.432920109183,,1248.0
+East,2291.7780852379165,,768.0
+South West,5332.15828733819,,9170.0
+East,2465.377897901836,,465.0
+South East,4574.353169539153,,1181.0
+South East,1824.4197113150992,,1110.0
+Yorkshire and the Humber,2334.9109238399906,,2887.0
+East Midlands,2886.4907370545334,,2645.0
+London,2185.07628681154,,1356.0
+East,1261.56381022855,,975.0
+North West,2081.3734117370104,,476.0
+South West,5660.496919205967,,1384.0
+North West,2692.4679690895473,,990.0
+North West,2870.6123302735105,,2333.0
+East,2453.199604559627,,365.0
+South East,1937.2225962907455,,637.0
+South West,1953.685443131335,,842.0
+North West,2430.9804945914793,,461.0
+London,1761.4348106032223,,16143.0
+South West,1923.914166167104,,1432.0
+South East,2858.415814724616,,1416.0
+West Midlands,3387.1019518546273,,1501.0
+South East,1720.054068752342,,517.0
+London,1627.2734018358935,,1135.0
+East,3171.4126916087,,4540.0
+Yorkshire and the Humber,3547.8621013436823,,1283.0
+South West,3173.5096171730847,,1156.0
+East,2009.9383325215438,,1729.0
+North West,4238.7408389174225,,1878.0
+London,2876.574929018583,,2070.0
+South West,1973.2332369801422,,1875.0
+South East,1952.8869275009367,,553.0
+North West,2270.702101723492,,352.0
+South East,1983.2419293742973,,1360.0
+North West,1574.9877570337894,,440.0
+South West,3581.9374531589156,,4589.0
+East,2295.0485985387786,,1990.0
+North West,1693.1304269389284,,573.0
+East Midlands,1590.9983662979757,,839.0
+North West,1722.4473621206446,,1239.0
+London,1655.753769014612,,1508.0
+East,2225.1508091045334,,696.0
+Yorkshire and the Humber,1732.02510659423,,789.0
+South West,1977.8566165230422,,1509.0
+Yorkshire and the Humber,2899.387292798723,,5143.0
+North West,2087.5784717146817,,604.0
+South East,1434.3499848257775,,776.0
+South West,3105.8817944923194,,1273.0
+North West,2457.0393644423066,,1261.0
+South East,1718.342603784189,,551.0
+North East,1782.9483542995213,,543.0
+South West,11257.997540135662,,5718.0
+South East,2169.2243572499065,,14962.0
+South East,2086.5573658673657,,623.0
+Yorkshire and the Humber,2864.0775094393266,,323.0
+East,1942.0761744098913,,1709.0
+North West,2138.2160769951297,,1460.0
+Yorkshire and the Humber,2179.4058484451107,,853.0
+North West,2268.3790968527537,,3346.0
+South West,3713.7617120644436,,1425.0
+Yorkshire and the Humber,7147.330648784786,,3785.0
+South West,2342.631363619333,,969.0
+East Midlands,3447.1069724615963,,1215.0
+South West,1814.4502845635068,,674.0
+South West,4516.591482548334,,2548.0
+North West,4418.726522153428,,3796.0
+Yorkshire and the Humber,1971.6167250453789,,746.0
+North East,3552.828627779667,,1016.0
+London,3273.4213844021333,,1317.0
+London,1572.1905354970536,,1057.0
+South East,4108.308517195068,,6622.0
+South West,2637.9321504308728,,2830.0
+South West,2075.92017677105,,2006.0
+South West,2983.417388347695,,467.0
+North West,3566.2589555688273,,3081.0
+East,1598.3759870738104,,655.0
+West Midlands,2118.4561294492323,,2734.0
+South East,2101.9109439865115,,2321.0
+East Midlands,2410.9940740680977,,797.0
+London,2509.843165761452,,1043.0
+London,2157.938204890118,,1708.0
+East,2244.668418696141,,651.0
+London,1629.098842075684,,758.0
+South West,3466.807272199326,,697.0
+North West,2853.923982577745,,1256.0
+South West,3805.348298801049,,2220.0
+Yorkshire and the Humber,1541.8489726792218,,780.0
+Yorkshire and the Humber,1662.05468937769,,508.0
+East,1768.024020044961,,1963.0
+East,3383.9889349555815,,702.0
+West Midlands,2258.9700672536533,,509.0
+South East,4303.611805732484,,1156.0
+East,1574.1425908542565,,781.0
+North West,2915.7531695391535,,1169.0
+Yorkshire and the Humber,1870.2803707381042,,1395.0
+South East,2130.342678718621,,1044.0
+East Midlands,2217.9491230798053,,2350.0
+North West,2015.3505843012365,,1063.0
+East,2439.0808203446986,,838.0
+London,2287.871603409517,,3204.0
+North West,2304.6686060322218,,761.0
+East Midlands,2256.428103971525,,1090.0
+North West,1770.3859158860996,,1015.0
+Yorkshire and the Humber,2257.2841949617323,,2047.0
+East,3708.3604899024676,,3102.0
+East,2988.3110054834397,,3059.0
+South West,1864.8160769951292,,3007.0
+South East,2224.701764518546,,1631.0
+West Midlands,2352.817645860937,,540.0
+East Midlands,2799.8687003464593,,1334.0
+South West,2266.430726676658,,703.0
+Yorkshire and the Humber,1917.0043203159005,,1200.0
+South East,2016.3394940052456,,5568.0
+South East,3323.6701796553016,,642.0
+South West,2674.473420964351,,1548.0
+South East,1681.2575532034468,,4241.0
+South East,1923.7796963282128,,607.0
+London,2164.2095576995134,,1499.0
+East,2972.7169491825935,,811.0
+South East,2414.5360470213564,,840.0
+South West,3089.5041998875986,,600.0
+London,2475.0091830273514,,2839.0
+Yorkshire and the Humber,2041.705392512259,,873.0
+London,2199.4293029224427,,2370.0
+London,3239.971828212814,,3525.0
+Yorkshire and the Humber,2344.5421167103787,,2121.0
+South East,2861.797755526414,,2470.0
+West Midlands,2366.756504121394,,1065.0
+North West,1848.3068861372276,,626.0
+North West,2009.496069501686,,747.0
+London,2830.3065085068656,,644.0
+South West,3641.9643645589995,,1184.0
+London,2039.1288019249166,,1215.0
+South East,1814.1712662045709,,1143.0
+West Midlands,2147.198467403522,,1857.0
+South East,2952.8245445859866,,2036.0
+South West,2305.2650091794676,,2399.0
+East,1742.1275794304984,,698.0
+East,6445.80271520943,,1582.0
+London,3619.997418321469,,2156.0
+West Midlands,1788.2971560509552,,1148.0
+Yorkshire and the Humber,2070.7893628699885,,939.0
+North West,1813.6745474624431,,508.0
+London,1596.390224615961,,1351.0
+North East,2138.9213224053956,,670.0
+South East,3398.338297107566,,2041.0
+East,3178.899628887223,,1757.0
+South East,2003.7608503184713,,625.0
+London,1616.2043497564632,,1203.0
+London,1843.7321271028982,,4932.0
+Yorkshire and the Humber,2416.322819374208,,872.0
+South West,2090.955979580367,,615.0
+South West,2577.8551040875645,,4744.0
+East,1821.8844546646685,,736.0
+East Midlands,4550.897058780307,,6865.0
+South West,2593.2605505807414,,1020.0
+East,2443.583780254777,,419.0
+West Midlands,3897.807943960275,,736.0
+North West,1702.4839301236418,,862.0
+East,2216.121846946422,,384.0
+Yorkshire and the Humber,3565.432893829775,,1568.0
+East,2477.1069270014905,,569.0
+South West,2064.676848819783,,1162.0
+East Midlands,2713.4817570251025,,11278.0
+East Midlands,1836.4287409142003,,445.0
+West Midlands,4239.603390003212,,5187.0
+South West,2892.6257435369052,,683.0
+North East,1707.2176506182088,,786.0
+South West,2067.7554175721243,,1896.0
+East,5925.486495242001,,2740.0
+Yorkshire and the Humber,2928.124717630948,,3542.0
+North West,2458.850958973398,,654.0
+London,1812.2943834769576,,1863.0
+London,2602.819815512146,,658.0
+London,3149.439906144624,,591.0
+London,1565.9612027821158,,354.0
+London,2324.3427536530535,,3286.0
+South East,2440.1747131884604,,4001.0
+East,3325.097210756642,,3303.0
+South East,2150.164184900712,,904.0
+South East,1934.8673696140875,,1734.0
+South East,1792.7542935556387,,622.0
+East,1811.3639226301987,,2178.0
+South West,2388.582468902211,,605.0
+Yorkshire and the Humber,1960.6668849096752,,443.0
+South West,1927.4027761333834,,1031.0
+London,2189.0606629823906,,1079.0
+London,2018.3765490820533,,2731.0
+North East,2106.6377817891043,,444.0
+South West,2921.6910044941005,,709.0
+East,1714.4125550768078,,2670.0
+London,1694.8468050407207,,375.0
+South West,1795.1427911202697,,518.0
+South East,2132.0170511427505,,1381.0
+East,2620.569362864714,,302.0
+East Midlands,4459.921421821952,,1022.0
+East,3790.0440165698674,,2071.0
+South West,2415.015852191832,,575.0
+South East,1548.8902995503936,,4483.0
+South West,2381.6532070063695,,558.0
+Yorkshire and the Humber,5460.448799525764,,1394.0
+East,2731.440884913094,,618.0
+London,1456.4885011240165,,1571.0
+East,2640.700265829899,,1640.0
+South West,4190.517409037377,,4544.0
+South East,2415.0367214312473,,557.0
+East,2993.4940400781616,,710.0
+South West,2047.506335518921,,1192.0
+London,1474.7921354439864,,832.0
+South West,2196.4786847133755,,9138.0
+East,1725.5293778568753,,1330.0
+London,2393.586253091045,,1388.0
+London,2286.2600260397153,,1371.0
+East,2208.895282690146,,2326.0
+South West,3328.6219218808546,,1331.0
+North West,4434.171919940036,,2977.0
+South West,2220.17913431997,,1491.0
+North West,1385.0384823904083,,770.0
+South West,1757.5562418508805,,1589.0
+North West,1991.1268584236304,,935.0
+East,2833.4949829524166,,2456.0
+London,1546.6602402660938,,1443.0
+North West,1817.0988046084676,,745.0
+Yorkshire and the Humber,2174.5357472836267,,886.0
+London,1518.5849417384788,,923.0
+East,2251.226905020607,,335.0
+South East,2202.083930123642,,2328.0
+North West,1981.2505468340203,,1235.0
+East,1809.5215846759086,,1007.0
+East Midlands,2998.5603034403002,,2691.0
+East,1353.758377482203,,704.0
+East,2443.7403182840017,,1471.0
+South East,1999.956354252529,,3335.0
+Yorkshire and the Humber,3153.4744073071297,,1314.0
+Yorkshire and the Humber,1857.0282163731733,,968.0
+South West,2911.7695436144995,,2337.0
+West Midlands,1772.428820890055,,1021.0
+South West,1754.1897375421506,,581.0
+South East,1587.6430908579994,,694.0
+North East,2586.774488385163,,857.0
+East,3727.2483055254543,,2153.0
+London,2210.12928864008,,880.0
+South West,2638.2611823001653,,3283.0
+East,7029.872053092262,,1939.0
+South West,2333.1356723491945,,2118.0
+West Midlands,1865.817238478831,,2775.0
+South West,2950.1431505665014,,3692.0
+London,2239.1233016385736,,1093.0
+South East,2040.1868525665043,,1705.0
+South East,2451.4265678156617,,3426.0
+South East,2096.312555076808,,417.0
+West Midlands,5259.519590084225,,2661.0
+Yorkshire and the Humber,3859.725218995879,,2586.0
+Yorkshire and the Humber,4224.579893815696,,2571.0
+North West,1877.353356875234,,398.0
+North East,2531.5857285500188,,1568.0
+North East,1791.8497600224803,,1099.0
+North West,2192.6836303859122,,2224.0
+South East,1841.4948705507682,,1055.0
+North East,2158.4875010044234,,449.0
+West Midlands,3620.5256430528952,,1523.0
+South East,1811.5885760584488,,1090.0
+South East,1804.2096326339454,,534.0
+North East,3701.7791129852994,,6551.0
+South West,3675.416376732858,,2220.0
+North West,1905.397493255901,,6205.0
+South East,2823.8163767328588,,1087.0
+East Midlands,2535.833124578494,,936.0
+East Midlands,1962.6171234834342,,919.0
+South West,2180.662011802173,,3548.0
+Yorkshire and the Humber,3070.0197862495315,,1399.0
+South East,2028.2623864743348,,554.0
+London,1442.032749906332,,2765.0
+London,2039.5994996703946,,1125.0
+North East,3880.859642424296,,1475.0
+East,2594.7175382165606,,1338.0
+East,3735.325492933678,,1923.0
+East Midlands,1737.5750503934057,,5387.0
+Yorkshire and the Humber,2550.1255713173978,,3120.0
+South East,2336.9454512926186,,611.0
+North West,2092.3536584709755,,1070.0
+South West,4278.4033029731245,,1956.0
+South East,2387.3346982015737,,7270.0
+Yorkshire and the Humber,2223.627991569877,,614.0
+South West,2601.579096852754,,852.0
+North East,2945.56459704009,,2396.0
+North West,2151.6451515548897,,1975.0
+South East,3756.2572961337937,,2758.0
+South East,4884.965433381429,,993.0
+East Midlands,5141.93533484633,,1911.0
+Yorkshire and the Humber,4117.472317116509,,1903.0
+London,1976.7762737008416,,2631.0
+South East,3355.2572984868075,,799.0
+Yorkshire and the Humber,3728.5780409590934,,3066.0
+South East,2225.8412924316226,,1513.0
+East Midlands,2466.6552677032596,,1292.0
+North West,1823.3177630198575,,416.0
+North West,2180.89003727988,,4518.0
+London,2353.173401835894,,8233.0
+London,1863.9218407419578,,904.0
+South West,1583.9090331584862,,743.0
+Yorkshire and the Humber,1669.7087334207567,,511.0
+South East,3321.146159630487,,6501.0
+South West,1727.2866277632072,,1718.0
+London,4313.150377487501,,907.0
+South West,2735.60286126184,,2909.0
+East,3045.152649789129,,2092.0
+South West,4590.506003478052,,1118.0
+London,2700.789175533908,,847.0
+East Midlands,1590.2576281378792,,1682.0
+South East,6627.660174850779,,1630.0
+West Midlands,2368.355970941694,,1971.0
+London,1898.9885011240165,,3361.0
+London,3471.0253313975263,,958.0
+London,3017.0026844523945,,1921.0
+South West,1929.380333270888,,998.0
+Yorkshire and the Humber,2495.98748950918,,513.0
+West Midlands,1438.398523476234,,2713.0
+London,1893.449872424129,,1204.0
+South East,1798.916266282026,,667.0
+Yorkshire and the Humber,5723.4745804023405,,1640.0
+Yorkshire and the Humber,2822.8239185865386,,2273.0
+East,2152.357765740937,,1159.0
+South East,3854.364914122626,,1984.0
+East,1945.0652339827652,,758.0
+North East,2072.281120082428,,346.0
+West Midlands,2382.207122330461,,2981.0
+London,2521.548189736478,,744.0
+Yorkshire and the Humber,2154.4006728156455,,441.0
+South West,3261.497798590851,,5622.0
+London,2252.5119181341324,,1359.0
+East Midlands,2718.5875228184714,,1120.0
+London,2232.679537617686,,5026.0
+London,2588.1262109301733,,1429.0
+East,2177.499441551143,,587.0
+West Midlands,2160.860550580742,,1171.0
+West Midlands,6408.998318245911,,2022.0
+London,2293.899232060675,,4273.0
+Yorkshire and the Humber,3628.6903857740945,,1538.0
+South West,4477.285093763967,,945.0
+South West,2195.7462006369424,,4626.0
+East Midlands,4928.232176329177,,2607.0
+North West,2098.3057725661483,,545.0
+West Midlands,1942.148111464968,,3700.0
+East,2383.3812324840765,,342.0
+East,1927.7552677032597,,1584.0
+Yorkshire and the Humber,2025.0605854938458,,623.0
+London,2018.4684849406888,,2131.0
+South East,1814.760279117648,,4129.0
+West Midlands,1892.4694677781943,,1188.0
+Yorkshire and the Humber,2592.4650841139,,939.0
+West Midlands,1976.5504732635934,,891.0
+South West,4081.831420006146,,3492.0
+East,2977.1021766579242,,655.0
+East Midlands,1903.899703821656,,621.0
+London,2269.2725400899208,,4950.0
+East,2987.3423040241696,,2727.0
+South East,2254.867257212439,,820.0
+South West,3464.597154286608,,4249.0
+South East,2542.552719932559,,1081.0
+South West,2944.652286007059,,3507.0
+South West,3716.579203360192,,595.0
+East,1720.2956198950917,,1475.0
+North West,2549.2602508430123,,581.0
+South East,1482.5985066088804,,569.0
+South East,2113.6983175346572,,1059.0
+Yorkshire and the Humber,2142.7770361558632,,3619.0
+South East,5608.376082999421,,1142.0
+East,2460.347563376459,,1260.0
+East,4460.289624404732,,1648.0
+East,2688.9527573997757,,2338.0
+South West,1971.5143160359687,,1018.0
+South West,3015.2700297864367,,1611.0
+East,2165.9846045335335,,333.0
+London,2230.7938901290963,,1420.0
+West Midlands,1842.8834430498312,,1564.0
+East Midlands,2263.9363467590856,,820.0
+West Midlands,2460.836159423005,,1224.0
+London,2151.1394553276577,,515.0
+East,2176.0797988489758,,474.0
+South West,1779.6965565754965,,1173.0
+East Midlands,3120.928441176471,,2439.0
+South East,1903.1340612588986,,346.0
+East,2722.833724053952,,1889.0
+London,2358.2620526838155,,2792.0
+North West,6801.251624621626,,1888.0
+West Midlands,2032.157379563846,,801.0
+South West,3625.5944584113904,,4264.0
+East,4097.123163836273,,2478.0
+North West,1951.9836678531285,,1756.0
+London,2522.8489628563475,,867.0
+East,2234.783293180967,,1923.0
+South East,2292.7804082053203,,1737.0
+East,1915.145039153241,,473.0
+Yorkshire and the Humber,3305.8206795878805,,694.0
+London,2667.7323002997377,,894.0
+Yorkshire and the Humber,5483.839099241553,,4545.0
+London,2988.53461595768,,629.0
+West Midlands,2388.365458786062,,1679.0
+South East,2112.712817347321,,533.0
+London,2095.1069724615963,,882.0
+North West,4819.78054398791,,760.0
+North West,7146.449146000537,,1464.0
+South East,1341.0535816785314,,2896.0
+North West,3719.8593471179947,,494.0
+South East,2539.275568546283,,3307.0
+London,2559.082581303859,,1312.0
+London,2794.949385350318,,2548.0
+South East,6090.010852571265,,4026.0
+South West,3032.6257627262585,,859.0
+South East,3986.526005807418,,1363.0
+South East,1983.1504718995877,,1033.0
+East,5664.096075767773,,2224.0
+North East,1930.3733643686774,,1099.0
+London,1712.4444771449982,,791.0
+South West,1841.2076843387038,,668.0
+Yorkshire and the Humber,5389.265849848784,,1369.0
+West Midlands,2396.3862530910455,,589.0
+West Midlands,2246.225668602473,,863.0
+London,2037.7584898838516,,1044.0
+London,1862.2630271204969,,1589.0
+South East,2396.0062899118802,,631.0
+London,2033.9791343199702,,1682.0
+London,1558.6862636640494,,628.0
+London,1894.6490831957597,,3267.0
+East,3981.2872503325716,,1127.0
+East,3933.7654018441435,,8510.0
+South West,1857.7147281753466,,1236.0
+South West,3318.635485013114,,660.0
+East,2494.005286436868,,1148.0
+North West,2267.360250843012,,736.0
+South East,1595.0281039715248,,8096.0
+London,1862.9550663274406,,987.0
+South West,2859.4847169351815,,1000.0
+East,4378.521583011066,,992.0
+East Midlands,3675.917558490545,,1527.0
+North West,1646.5133418883477,,1546.0
+East,6153.798529725902,,3955.0
+West Midlands,2624.353506744099,,606.0
+South West,2413.7809350703046,,2048.0
+North West,2561.051895653803,,1282.0
+London,1667.6940292634945,,773.0
+East,2491.9526449981267,,662.0
+North West,6805.098159395251,,2432.0
+East,1760.5666952041963,,388.0
+East,2085.8644846384414,,1396.0
+East Midlands,2196.5928473210943,,2809.0
+North West,3090.9066352566506,,860.0
+London,2020.9583411585902,,1790.0
+South East,2354.2073846009744,,591.0
+Yorkshire and the Humber,1773.446275571375,,1463.0
+East,2050.5342079665415,,293.0
+West Midlands,1972.2613437590692,,1328.0
+East Midlands,1939.5479615961033,,1746.0
+South East,2392.8231957662047,,2330.0
+South East,2219.863285687524,,650.0
+East Midlands,1742.7016521168978,,535.0
+London,1406.1457884975646,,988.0
+South West,1992.4238684098593,,1000.0
+West Midlands,3442.6033263185464,,1520.0
+London,1616.361553637173,,883.0
+North East,2206.651133598987,,487.0
+London,1600.9957322967402,,2598.0
+West Midlands,3410.997017249995,,4348.0
+South West,2402.540767890596,,2192.0
+South East,1213.261374859498,,1075.0
+East,2653.347502710857,,4474.0
+East,5522.45711393771,,753.0
+East,1332.8684561633572,,615.0
+Yorkshire and the Humber,2649.8265874545427,,2039.0
+South East,2315.0663973583096,,725.0
+East,4202.085417347823,,1569.0
+London,1750.4784641597446,,1443.0
+South East,3660.6598387036347,,1511.0
+London,2472.6083267220456,,1559.0
+South East,3727.1989063644714,,3480.0
+East,2563.6096326339457,,479.0
+South West,2273.0221841513676,,938.0
+Yorkshire and the Humber,1769.2441024728362,,1137.0
+Yorkshire and the Humber,1530.2406180217308,,1569.0
+West Midlands,2873.8384781125806,,2682.0
+South West,2526.617388347696,,719.0
+South West,1912.8546682278006,,3571.0
+East Midlands,2017.5723144523124,,1446.0
+South East,2539.6138289621585,,602.0
+South East,3692.8868817739594,,1543.0
+South East,2555.4459008992126,,576.0
+North East,1691.3935591982015,,951.0
+South West,1641.4980552641439,,1758.0
+North West,2529.100902772574,,426.0
+East Midlands,2897.5667955265744,,703.0
+East,1431.9118806669164,,469.0
+West Midlands,3876.53624551327,,1286.0
+East Midlands,4720.444141175364,,2272.0
+Yorkshire and the Humber,2088.786777632072,,444.0
+South East,2044.9830683776695,,711.0
+South East,3554.176765603366,,4032.0
+London,2196.699703821656,,1818.0
+South East,2204.8854288122893,,739.0
+London,3248.375612401648,,4600.0
+East,3768.2934461912655,,1079.0
+South East,2311.3571035968525,,700.0
+Yorkshire and the Humber,1627.5734767703261,,866.0
+West Midlands,1668.629715061821,,1636.0
+East Midlands,2223.1460683343166,,484.0
+South East,2620.6292279880104,,1827.0
+South West,4412.938066251616,,2285.0
+South East,1998.26665773698,,1065.0
+East,7081.658002251022,,984.0
+Yorkshire and the Humber,2036.7236799349837,,291.0
+North West,1949.8748064257954,,481.0
+East,3827.263720920807,,951.0
+South East,1779.9169387411014,,923.0
+North West,3507.357740539528,,1267.0
+South East,3025.633124578494,,1661.0
+South West,3246.8416053331175,,1736.0
+East Midlands,1657.683967590858,,2256.0
+London,1860.8497600224805,,1957.0
+East,3840.9544386207617,,2246.0
+South West,3605.5748367865726,,1612.0
+North West,1785.18842492412,,3922.0
+North East,2463.522821094043,,431.0
+East,2064.6310264143876,,797.0
+North West,1649.1273546272012,,1645.0
+West Midlands,1631.4427161858375,,1317.0
+West Midlands,2527.0423040464593,,1955.0
+East,3123.268943237167,,5565.0
+London,1737.6850916073436,,2298.0
+South East,2610.6828061071565,,781.0
+South East,1978.2318604144564,,493.0
+London,1974.9996288872237,,923.0
+East Midlands,2514.080520606969,,1482.0
+London,2692.767107343574,,921.0
+North West,1953.8906735400212,,457.0
+South East,2296.300565567628,,545.0
+Yorkshire and the Humber,2077.1315884226306,,1705.0
+London,2677.6007903709256,,651.0
+West Midlands,2285.688388722368,,1095.0
+East Midlands,2425.806747658299,,710.0
+South West,1744.6902995503935,,795.0
+East,1972.7544434245035,,3767.0
+South West,2652.063547958037,,1181.0
+North West,3053.66193686774,,1661.0
+South West,2673.257717151585,,2496.0
+East,2702.7348480704386,,889.0
+North West,3521.7350728737356,,1574.0
+South West,2977.897869589785,,597.0
+London,1830.692435181716,,1612.0
+Yorkshire and the Humber,1717.4770736230798,,687.0
+East,2125.840318284001,,363.0
+East Midlands,2587.5611096288276,,788.0
+South East,2191.916713937804,,608.0
+South East,1765.085204008992,,591.0
+South West,4421.788932417855,,1607.0
+South West,1912.5805206069688,,550.0
+South East,3906.667377818555,,1740.0
+London,1955.3701047208692,,1468.0
+East,1829.1273920944172,,1494.0
+East,3074.0716783439493,,5225.0
+London,2209.006831084369,,3771.0
+London,2703.0500225510746,,2271.0
+South West,2714.993334394904,,2312.0
+London,3177.98239922665,,683.0
+South East,3564.0420792431623,,690.0
+North East,4288.708402057579,,911.0
+West Midlands,2621.5699239236183,,1210.0
+East,3671.085054140127,,1114.0
+Yorkshire and the Humber,1815.5762967764724,,391.0
+South East,3788.066335912459,,1462.0
+East Midlands,5385.037021168978,,2114.0
+London,2450.4988745719584,,771.0
+Yorkshire and the Humber,3872.8389105260103,,4312.0
+Yorkshire and the Humber,1958.3875269763957,,706.0
+East,1950.211580929187,,5827.0
+South East,2197.1913486324465,,1646.0
+South East,3088.9040125515176,,678.0
+South East,2337.5367588984636,,776.0
+Yorkshire and the Humber,1882.2823190333459,,677.0
+South East,6110.0531320719365,,1631.0
+East Midlands,4699.680516971938,,1716.0
+East,2094.4944209441737,,674.0
+South East,3324.5025887973025,,1338.0
+South East,3672.274649573281,,1897.0
+West Midlands,1684.2886882531943,,780.0
+East,1927.872839827651,,1105.0
+North East,2012.8236079055825,,498.0
+South East,1767.3423040464593,,991.0
+South East,3002.3343235294114,,561.0
+South West,3618.6304269389284,,1375.0
+South East,4545.196594042713,,1826.0
+South West,2421.3538738767465,,1278.0
+East Midlands,2922.752700476266,,1906.0
+East Midlands,2543.8221466841514,,4318.0
+East Midlands,1937.2919481079057,,1334.0
+South West,2868.020872798801,,2836.0
+South East,2169.773102098164,,4952.0
+Yorkshire and the Humber,1645.3015022480329,,364.0
+East,2877.204437621688,,1628.0
+South East,2116.03758317722,,1472.0
+London,2069.4613692727908,,1220.0
+South West,1828.3360470213563,,833.0
+South East,3367.8461631697264,,3410.0
+South East,1775.342041775946,,3316.0
+South East,1756.6731770325964,,1072.0
+South West,5507.6089606783935,,1615.0
+Yorkshire and the Humber,1929.9947643680107,,1170.0
+East Midlands,1671.826492881229,,750.0
+London,2418.4225951519174,,1070.0
+South West,2337.7879765829894,,2802.0
+East,3751.6119109338943,,1579.0
+South East,2063.823308167853,,5922.0
+North West,1827.922708692394,,649.0
+South East,1968.493322436533,,1335.0
+South East,4435.377234940719,,1331.0
+London,1643.5198237167479,,5325.0
+North West,2071.6085278687056,,468.0
+North West,2032.1053613713004,,504.0
+North West,2806.7316523789086,,5635.0
+East Midlands,2015.4490106781566,,678.0
+East,2031.3347420945504,,900.0
+London,2353.1664191723585,,621.0
+East,2123.1009074417834,,920.0
+South East,2051.4745293335063,,306.0
+West Midlands,1903.0990668789807,,894.0
+East,2708.1656500779063,,2269.0
+London,2838.5733675133806,,487.0
+South West,2167.0875269763956,,603.0
+South West,3768.4346421374503,,5882.0
+London,2955.7839301236418,,1334.0
+North West,1756.3544434245034,,1095.0
+East,3856.370277542509,,1320.0
+South West,1770.3233081678532,,839.0
+Yorkshire and the Humber,1808.2959945672537,,1433.0
+North West,2089.329802371215,,468.0
+Yorkshire and the Humber,4753.281614682018,,2551.0
+East Midlands,2582.7878885281734,,4558.0
+London,2163.2424497071506,,1675.0
+South East,7444.723420998461,,1537.0
+Yorkshire and the Humber,2628.145360501001,,365.0
+West Midlands,1592.7546682278005,,2243.0
+North West,1990.79694853356,,457.0
+North East,1964.4053239040838,,834.0
+South East,2354.1675569501685,,1627.0
+South East,2078.919636380667,,955.0
+South East,1967.9113234545523,,730.0
+East,3357.2938387613485,,2586.0
+London,3447.003914988957,,401.0
+South West,2750.588501124016,,1355.0
+East Midlands,2876.161674597228,,1590.0
+Yorkshire and the Humber,2560.159276695392,,4968.0
+Yorkshire and the Humber,3554.616039527913,,365.0
+East,1697.085099831215,,521.0
+London,2883.2968121629956,,1624.0
+South East,1922.8123677407268,,1310.0
+South West,2051.5154919856504,,1286.0
+South West,3056.6062231172727,,917.0
+South East,2068.0769237542154,,1820.0
+South West,3692.2521579243157,,2345.0
+Yorkshire and the Humber,1960.998280067441,,403.0
+East,4021.2953035132286,,3715.0
+North West,2969.7111687898087,,1585.0
+South East,2821.42654659028,,1370.0
+South West,2413.570629261896,,2880.0
+London,2100.3793216560507,,1567.0
+North East,1740.4026320077787,,362.0
+Yorkshire and the Humber,2664.9346232671414,,777.0
+East Midlands,2005.5614497939305,,560.0
+South West,1408.9179878231548,,471.0
+London,1677.479321656051,,702.0
+London,2316.2437165866622,,604.0
+London,1897.3736027350524,,1480.0
+East,2307.1414797677035,,825.0
+South East,1812.542229112027,,427.0
+West Midlands,1753.3837053203447,,3746.0
+North East,2802.365908392657,,2152.0
+East,3686.984109689125,,499.0
+North West,1721.2112811914574,,852.0
+South East,1805.1009777070065,,544.0
+East,4840.8210303433,,5579.0
+Yorkshire and the Humber,1657.6150279130761,,1003.0
+Yorkshire and the Humber,3864.5337908890915,,1201.0
+Yorkshire and the Humber,3281.8481437408072,,366.0
+South East,2045.4364925850866,,510.0
+South East,1869.0547806294492,,847.0
+South West,6265.113861465097,,3761.0
+London,2328.813941363807,,1420.0
+East,9813.253183759254,,852.0
+South East,2431.989437804421,,675.0
+East Midlands,3784.579640564725,,803.0
